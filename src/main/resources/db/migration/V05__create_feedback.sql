@@ -1,0 +1,10 @@
+CREATE TABLE feedback
+(
+    id             BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
+    rating         BIGINT(20) NOT NULL,
+    product_id     BIGINT(20) NOT NULL,
+    description_id BIGINT(20) NOT NULL,
+    FOREIGN KEY (product_id) REFERENCES product (id),
+    FOREIGN KEY (description_id) REFERENCES description (id)
+) ENGINE = InnoDB
+  DEFAULT CHARSET = utf8;

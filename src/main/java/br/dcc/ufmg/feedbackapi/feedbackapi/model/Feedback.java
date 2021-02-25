@@ -5,15 +5,18 @@ import javax.persistence.*;
 @Entity
 @Table(name = "feedback")
 public class Feedback {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id;
+    Integer id;
 
-    @ManyToOne
-    @JoinColumn(name="item_id")
-    private ProductItem item;
+    @Column(name = "product_id")
+    Integer productId;
 
-    private Integer rating;
+    @Column(name = "description_id")
+    Integer descriptionId;
+
+    Integer rating;
 
     public Integer getId() {
         return id;
@@ -23,19 +26,27 @@ public class Feedback {
         this.id = id;
     }
 
-    public ProductItem getItem() {
-        return item;
+    public Integer getProductId() {
+        return productId;
     }
 
-    public void setItem(ProductItem item) {
-        this.item = item;
+    public void setProductId(Integer productId) {
+        this.productId = productId;
+    }
+
+    public Integer getDescriptionId() {
+        return descriptionId;
+    }
+
+    public void setDescriptionId(Integer descriptionId) {
+        this.descriptionId = descriptionId;
     }
 
     public Integer getRating() {
         return rating;
     }
 
-    public void setRating(Integer rating) {
-        this.rating = rating;
+    public void setRating(Integer rate) {
+        this.rating = rate;
     }
 }

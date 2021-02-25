@@ -15,7 +15,6 @@ public class FeedbackResource {
     private FeedbackRepository repository;
 
     @GetMapping
-    @ResponseStatus(HttpStatus.CREATED)
     public List<Feedback> findAll(){
         return repository.findAll();
     }
