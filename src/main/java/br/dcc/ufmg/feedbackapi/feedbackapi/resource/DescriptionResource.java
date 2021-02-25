@@ -24,6 +24,11 @@ public class DescriptionResource {
                 return descriptionService.findAll();
         }
 
+        @GetMapping("/high-priority")
+        public Description findHighestPriorityDescription() {
+                return descriptionService.findHighestPriorityDescription();
+        }
+
         @GetMapping("/{id}")
         public Optional<Description> findById(@PathVariable Integer id) {
                 return descriptionService.findById(id);

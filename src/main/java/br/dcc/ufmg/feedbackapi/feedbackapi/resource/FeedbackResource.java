@@ -15,13 +15,19 @@ public class FeedbackResource {
     private FeedbackRepository repository;
 
     @GetMapping
-    public List<Feedback> findAll(){
+    public List<Feedback> findAll() {
         return repository.findAll();
     }
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public void save (@RequestBody Feedback feedback){
+    public void save(@RequestBody Feedback feedback) {
         repository.save(feedback);
+    }
+
+    @PostMapping
+    @ResponseStatus(HttpStatus.CREATED)
+    public void saveAll(@RequestBody List<Feedback> feedbacks) {
+        repository.saveAll(feedbacks);
     }
 }

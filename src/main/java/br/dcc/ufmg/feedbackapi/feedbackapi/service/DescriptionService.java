@@ -19,7 +19,7 @@ public class DescriptionService {
     @Autowired
     ProductRepository productRepository;
 
-    public Description findDescription() {
+    public Description findHighestPriorityDescription() {
         List<Description> descriptions = descriptionRepository.findAll();
         return descriptions.get(0);
     }
