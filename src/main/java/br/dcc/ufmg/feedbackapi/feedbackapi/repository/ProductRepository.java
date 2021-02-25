@@ -1,5 +1,4 @@
 package br.dcc.ufmg.feedbackapi.feedbackapi.repository;
-
 import br.dcc.ufmg.feedbackapi.feedbackapi.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
