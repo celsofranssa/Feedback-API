@@ -4,14 +4,12 @@ import br.dcc.ufmg.feedbackapi.feedbackapi.model.Description;
 import br.dcc.ufmg.feedbackapi.feedbackapi.model.Product;
 import br.dcc.ufmg.feedbackapi.feedbackapi.service.DescriptionService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Optional;
 
+@CrossOrigin(origins = "https://ibge.host27.adm.se.latin.dcc.ufmg.br/")
 @RestController
 @RequestMapping("/descriptions")
 public class DescriptionResource {
