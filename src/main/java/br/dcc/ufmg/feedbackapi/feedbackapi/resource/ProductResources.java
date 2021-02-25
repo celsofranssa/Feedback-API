@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-@CrossOrigin(origins = "https://ibge.host27.adm.se.latin.dcc.ufmg.br/")
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/products")
 public class ProductResources {
