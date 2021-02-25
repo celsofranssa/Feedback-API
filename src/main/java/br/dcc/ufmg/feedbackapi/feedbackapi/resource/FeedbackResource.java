@@ -19,11 +19,11 @@ public class FeedbackResource {
         return repository.findAll();
     }
 
-    @PostMapping
-    @ResponseStatus(HttpStatus.CREATED)
-    public void save(@RequestBody Feedback feedback) {
-        repository.save(feedback);
-    }
+//    @PostMapping
+//    @ResponseStatus(HttpStatus.CREATED)
+//    public void save(@RequestBody Feedback feedback) {
+//        repository.save(feedback);
+//    }
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
