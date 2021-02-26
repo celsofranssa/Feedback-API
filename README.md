@@ -1,5 +1,7 @@
 # Feedback API
 
+![Feedback_API_DER](http://url/to/img.png)
+
 ### Endpoints
 
 #### 1. Find highest priority description
