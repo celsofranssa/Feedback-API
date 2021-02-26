@@ -1,6 +1,6 @@
 # Feedback API
 
-![Feedback_API_DER](http://url/to/img.png)
+![Feedback_API_DER](https://github.com/celsofranssa/Feedback-API/raw/master/resources/feedback_api_der.png)
 
 ### Endpoints
 
