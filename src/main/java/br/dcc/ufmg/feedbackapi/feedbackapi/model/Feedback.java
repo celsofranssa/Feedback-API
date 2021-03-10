@@ -18,6 +18,8 @@ public class Feedback {
 
     Integer rating;
 
+    String comment;
+
     public Integer getId() {
         return id;
     }
@@ -46,7 +48,15 @@ public class Feedback {
         return rating;
     }
 
-    public void setRating(Integer rate) {
-        this.rating = rate;
+    public void setRating(Integer rating) {
+        this.rating = rating;
+    }
+
+    public String getComment() {
+        return comment;
+    }
+
+    public void setComment(String comment) {
+        this.comment = comment;
     }
 }

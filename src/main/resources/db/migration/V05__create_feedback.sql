@@ -4,6 +4,7 @@ CREATE TABLE feedback
     rating         BIGINT(20) NOT NULL,
     product_id     BIGINT(20) NOT NULL,
     description_id BIGINT(20) NOT NULL,
+    comment        VARCHAR(1024),
     FOREIGN KEY (product_id) REFERENCES product (id),
     FOREIGN KEY (description_id) REFERENCES description (id)
 ) ENGINE = InnoDB
