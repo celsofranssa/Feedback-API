@@ -1,12 +1,13 @@
 package br.dcc.ufmg.feedbackapi.feedbackapi.model;
 
-import javax.persistence.*;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
 @Table(name = "description")
 public class Description {
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     Integer id;
 
     String content;

@@ -12,12 +12,13 @@ public class Product {
 
     @Column(name = "description_id")
     private Integer descriptionId;
+
     private String name;
 
     @Column(name = "place_name")
     private String placeName;
 
-    private String price;
+    private String prices;
 
     @Column(name = "place_url")
     private String placeUrl;
@@ -27,11 +28,6 @@ public class Product {
 
     @Column(name = "product_img_url")
     private String productImgUrl;
-
-    @Column(name = "last_updated")
-    private String lastUpdated;
-
-    private String metadata;
 
     public Integer getId() {
         return id;
@@ -66,11 +62,11 @@ public class Product {
     }
 
     public String getPrice() {
-        return price;
+        return prices;
     }
 
-    public void setPrice(String price) {
-        this.price = price;
+    public void setPrice(String prices) {
+        this.prices = prices;
     }
 
     public String getPlaceUrl() {
@@ -95,21 +91,5 @@ public class Product {
 
     public void setProductImgUrl(String productImgUrl) {
         this.productImgUrl = productImgUrl;
-    }
-
-    public String getLastUpdated() {
-        return lastUpdated;
-    }
-
-    public void setLastUpdated(String lastUpdated) {
-        this.lastUpdated = lastUpdated;
-    }
-
-    public String getMetadata() {
-        return metadata;
-    }
-
-    public void setMetadata(String metadata) {
-        this.metadata = metadata;
     }
 }
