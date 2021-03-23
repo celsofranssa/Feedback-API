@@ -1,1103 +1,1403 @@
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6744, "7.0", "carrefour(gravatai)", "R$13,49", "https://www.carrefour.com.br",
-        "/aparelho-de-barbear-descartavel-carrefour-leve-7-e-pague-5-5592542/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/213949-320-320?width=320&height=320&aspect=true", 1245);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3447, "aparelho de barbear descartável bic comfort 3 leve 4 pague 3", "carrefour(gravatai)", "R$15,59",
-        "https://www.carrefour.com.br", "/aparelho-de-barbear-descartavel-bic-comfort-3-leve-4-pague-3-9801545/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/203167-320-320?width=320&height=320&aspect=true", 1245);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5810, "aparelho de barbear descartável carrefour pague 3 leve 4", "carrefour(gravatai)", "R$14,70",
-        "https://www.carrefour.com.br", "/aparelho-de-barbear-descartavel-carrefour-pague-3-leve-4-5592658/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/213974-320-320?width=320&height=320&aspect=true", 1245);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6743, "aparelho de depilar descartável carrefour pague 3 leve 4", "carrefour(gravatai)", "R$15,50",
-        "https://www.carrefour.com.br", "/aparelho-de-depilar-descartavel-carrefour-pague-3-leve-4-5592569/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/213958-320-320?width=320&height=320&aspect=true", 1245);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7202, "4.0", "carrefour(gravatai)", "R$15,50", "https://www.carrefour.com.br",
-        "/aparelho-de-depilar-descartavel-carrefour-pague-3-leve-4-5592569/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/213958-320-320?width=320&height=320&aspect=true", 1245);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7552, "detergente líquido ypê limão 500ml", "carrefour  -   torre   5", "R$1,95",
-        "https://www.carrefour.com.br", "/detergente-liquido-ype-limao-500ml-254436/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/194905-320-320?width=320&height=320&aspect=true", 5051);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1524, "detergente líquido ypê clear 500ml - pack com 6 unidades", "carrefour  -   torre   5", "R$10,10",
-        "https://www.carrefour.com.br", "/detergente-liquido-ype-clear-500ml-pack-com-6-unidades-9365800/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/198469-320-320?width=320&height=320&aspect=true", 5051);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8099, "detergente líquido ypê clear 500ml - 6 unidades", "carrefour  -   torre   5", "R$11,45",
-        "https://www.carrefour.com.br", "/detergente-liquido-ype-clear-500ml-6-unidades-b2-6-283819/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/5998706-320-320?width=320&height=320&aspect=true", 5051);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1867, "detergente líquido ypê clear 500ml", "carrefour  -   torre   5", "R$1,95",
-        "https://www.carrefour.com.br", "/detergente-liquido-ype-clear-500ml-283819/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/210036-320-320?width=320&height=320&aspect=true", 5051);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (409, "detergente líquido ypê neutro 500ml", "carrefour  -   torre   5", "R$1,95",
-        "https://www.carrefour.com.br", "/detergente-liquido-ype-neutro-500ml-254452/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/189766-320-320?width=320&height=320&aspect=true", 5051);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (227, "creme de leite nestlé zero lactose 200 g", "carrefour (norte shopping)", "R$3,95",
-        "https://www.carrefour.com.br", "/creme-de-leite-nestle-sem-lactose-200-g-5253934/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/11486388-320-320?width=320&height=320&aspect=true", 4760);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5362, "creme de leite piracanjuba zero lactose 200g", "carrefour (norte shopping)", "R$4,79",
-        "https://www.carrefour.com.br", "/creme-de-leite-piracanjuba-zero-lactose-200g-9990143/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/203958-320-320?width=320&height=320&aspect=true", 4760);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2872, "barra de chocolate ao leite e branco nestlé classic duo - 90g", "carrefour (norte shopping)", "R$5,35",
-        "https://www.carrefour.com.br", "/barra-de-chocolate-ao-leite-e-branco-nestle-classic-duo-90g-5748607/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/217467-320-320?width=320&height=320&aspect=true", 4760);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2869, "barra de chocolate ao leite nestlé alpino 90 g", "carrefour (norte shopping)", "R$5,35",
-        "https://www.carrefour.com.br", "/barra-de-chocolate-ao-leite-nestle-alpino-90-g-5752116/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/11486494-320-320?width=320&height=320&aspect=true", 4760);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2941, "achocolatado em pó chocolate nescau 2.0 400 g", "carrefour (norte shopping)", "R$6,15",
-        "https://www.carrefour.com.br", "/achocolatado-em-po-chocolate-nescau-2-0-400-g-7974264/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/11462772-320-320?width=320&height=320&aspect=true", 4760);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6280, "r$1.899,99", "supermercado pao de açúcar", "R$1.899,99", "https://www.paodeacucar.com",
-        "/produto/500861/sofa-3-lugares-nevada-i-suede-cinza",
-        "https://static.paodeacucar.com/img/uploads/1/223/4069223x200x200.jpeg", 10906);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6287, "r$12,49", "supermercado pao de açúcar", "R$12,49", "https://www.paodeacucar.com",
-        "/produto/408617/desodorante-aerosol-nivea--black-white-toque-de-seda-150ml",
-        "https://static.paodeacucar.com/img/uploads/1/977/619977x200x200.jpg", 10906);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6291, "neve wipes toque da seda leve 4 pague 3 - 192 lenços", "supermercado pao de açúcar", "R$42,49",
-        "https://www.paodeacucar.com", "/produto/434769/neve-wipes-toque-da-seda-leve-4-pague-3---192-lencos",
-        "https://static.paodeacucar.com/img/uploads/1/702/637702x200x200.png", 10906);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (288, "papel higiênico neve toque de seda leve 16 pague 15 - 16 rolos", "supermercado pao de açúcar", "R$30,49",
-        "https://www.paodeacucar.com", "/produto/190728/papel-higienico-neve-toque-de-seda-leve-16-pague-15---16-rolos",
-        "https://static.paodeacucar.com/img/uploads/1/608/637608x200x200.png", 10906);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8255, "papel higiênico folha dupla neutro qualitá pacote com 12 unidades", "supermercado pao de açúcar",
-        "R$15,99", "https://www.paodeacucar.com",
-        "/produto/418191/papel-higienico-folha-dupla-neutro-qualita-pacote-com-12-unidades",
-        "https://static.paodeacucar.com/img/uploads/1/751/606751x200x200.jpg", 10906);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6789, "leite integral ninho vitaminado zero lactose 1 l", "carrefour - shopping vila velha", "R$7,19",
-        "https://www.carrefour.com.br", "/leite-integral-ninho-vitaminado-zero-lactose-1-l-6083919/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10680236-320-320?width=320&height=320&aspect=true", 9074);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3809, "macarrão ninho renata com ovos nº 3 500g", "carrefour - shopping vila velha", "R$4,99",
-        "https://www.carrefour.com.br", "/macarrao-ninho-renata-com-ovos-n-3-500g-9636625/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/199751-320-320?width=320&height=320&aspect=true", 9074);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8393, "vinho tinto suave campo largo 750ml", "carrefour - shopping vila velha", "R$13,90",
-        "https://www.carrefour.com.br", "/vinho-tinto-suave-campo-largo-750ml-8246378/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/199528-320-320?width=320&height=320&aspect=true", 9074);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6788, "leite semidesnatado ninho vitaminado zero lactose 1 l", "carrefour - shopping vila velha", "R$7,19",
-        "https://www.carrefour.com.br", "/leite-semidesnatado-ninho-vitaminado-zero-lactose-1-l-6083897/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10768132-320-320?width=320&height=320&aspect=true", 9074);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (614, "adicionar", "carrefour - shopping vila velha", "R$4,10", "https://www.carrefour.com.br",
-        "/macarrao-ninho-adria-com-ovos-n3-500g-4180410/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/201968-320-320?width=320&height=320&aspect=true", 9074);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3068, "9", "supermercado carrefour", "R$9,00", "https://www.carrefour.com.br",
-        "/tira-limo-veja-banheiro-x-14-500ml-oferta-9662901/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/14545810-320-320?width=320&height=320&aspect=true", 1092);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3065, "limpa limo cif com cloro 500ml - embalagem promocional", "supermercado carrefour", "R$13,79",
-        "https://www.carrefour.com.br", "/limpa-limo-cif-com-cloro-500ml-embalagem-promocional-6084133/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/7546235-320-320?width=320&height=320&aspect=true", 1092);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3069, "kit limpa limo mr músculo com 4 unidades", "supermercado carrefour", "R$73,56",
-        "https://www.carrefour.com.br", "/kit-limpa-limo-mr-musculo-com-4-unidades-b2-4-9387420/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10573217-320-320?width=320&height=320&aspect=true", 1092);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1544, "limpador mr músculo tira limo refil 2 unidades 500 ml cada", "supermercado carrefour", "R$18,15",
-        "https://www.carrefour.com.br", "/limpador-mr-musculo-tira-limo-refil-2-unidades-500-ml-cada-9387420/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/191789-320-320?width=320&height=320&aspect=true", 1092);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7007, "limpa piso com cloro veja limpeza pesada original 1 litro - 3 unidades", "supermercado carrefour",
-        "R$29,89", "https://www.carrefour.com.br",
-        "/limpa-piso-com-cloro-veja-limpeza-pesada-original-1-litro-3-unidades-b2-3-8339368/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/5999335-320-320?width=320&height=320&aspect=true", 1092);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6560, "azeitona verde sem caroço vale fértil sachê 120g", "carrefour - bh shopping (r4/s3/e2)", "R$6,69",
-        "https://www.carrefour.com.br", "/azeitona-verde-sem-caroco-vale-fertil-sache-120g-7951469/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/193653-320-320?width=320&height=320&aspect=true", 1425);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8010, "azeitona verde recheada com pimentão carrefour 250 g", "carrefour - bh shopping (r4/s3/e2)", "R$19,40",
-        "https://www.carrefour.com.br", "/azeitona-verde-recheada-com-pimentao-carrefour-250-g-8794200/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/206263-320-320?width=320&height=320&aspect=true", 1425);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3412, "azeitona verde sem caroço carrefour 250g", "carrefour - bh shopping (r4/s3/e2)", "R$15,95",
-        "https://www.carrefour.com.br", "/azeitona-verde-sem-caroco-carrefour-250g-8793859/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/14283099-320-320?width=320&height=320&aspect=true", 1425);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5609, "azeitona verde sem caroço fatiada vale fértil sachê 120g", "carrefour - bh shopping (r4/s3/e2)",
-        "R$5,90", "https://www.carrefour.com.br", "/azeitona-verde-sem-caroco-fatiada-vale-fertil-sache-120g-7950845/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/195397-320-320?width=320&height=320&aspect=true", 1425);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7741, "vinho branco manto blanco chardonnay 750ml", "carrefour - bh shopping (r4/s3/e2)", "R$39,90",
-        "https://www.carrefour.com.br", "/vinho-branco-manto-blanco-chardonnay-750ml-8616680/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/199261-320-320?width=320&height=320&aspect=true", 1425);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7892, "condicionador dove fator de nutrição 40 170ml", "carrefour - tatuape", "R$19,00",
-        "https://www.carrefour.com.br", "/condicionador-dove-fator-de-nutricao-40-170ml-5295700/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/5163332-320-320?width=320&height=320&aspect=true", 8378);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7889, "óleo nutrição dove condicionador 400ml óleo nutrição dove condicionador 400 ml", "carrefour - tatuape",
-        "R$20,50", "https://www.carrefour.com.br", "/oleo-nutricao-dove-condicionador-400ml-8915903/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/13954936-320-320?width=320&height=320&aspect=true", 8378);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2916, "creme para pentear dove óleo nutrição 200 ml", "carrefour - tatuape", "R$15,39",
-        "https://www.carrefour.com.br", "/creme-para-pentear-dove-oleo-nutricao-200-ml-8915890/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/192302-320-320?width=320&height=320&aspect=true", 8378);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2708, "loção hidratante para mãos e unhas vasenol 200ml", "carrefour - tatuape", "R$13,60",
-        "https://www.carrefour.com.br", "/locao-hidratante-para-maos-e-unhas-vasenol-200ml-9319344/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/192441-320-320?width=320&height=320&aspect=true", 8378);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3189, "néctar de laranja carrefour 200ml", "carrefour - tatuape", "R$1,49", "https://www.carrefour.com.br",
-        "/nectar-de-laranja-carrefour-200ml-5549671/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/213235-320-320?width=320&height=320&aspect=true", 8378);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8426, "biscoito wafer recheio chocolate piraquê newafer pacote 100g", "carrefour(gravatai)", "R$2,85",
-        "https://www.carrefour.com.br", "/biscoito-wafer-recheio-chocolate-piraque-newafer-pacote-100g-4383257/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/201487-320-320?width=320&height=320&aspect=true", 1538);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1567, "sal refinado branco cisne 100g", "carrefour(gravatai)", "R$4,95", "https://www.carrefour.com.br",
-        "/sal-refinado-branco-cisne-100g-196711/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/197174-320-320?width=320&height=320&aspect=true", 1538);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6034, "açúcar refinado especial caravelas pacote 5kg", "carrefour(gravatai)", "R$16,10",
-        "https://www.carrefour.com.br", "/acucar-refinado-especial-caravelas-pacote-5kg-980242/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/203280-320-320?width=320&height=320&aspect=true", 1538);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4768, "café pilão senseo intenso 18 sachês", "carrefour(gravatai)", "R$16,19", "https://www.carrefour.com.br",
-        "/cafe-pilao-senseo-intenso-18-saches-8756201/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/194371-320-320?width=320&height=320&aspect=true", 1538);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6181, "açúcar demerara união naturale 1kg", "carrefour(gravatai)", "R$6,65", "https://www.carrefour.com.br",
-        "/acucar-demerara-uniao-naturale-1kg-8915202/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/201254-320-320?width=320&height=320&aspect=true", 1538);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (219, "pão de forma multigrãos wickbold 400g", "carrefour", "R$10,50", "https://www.carrefour.com.br",
-        "/pao-de-forma-multigraos-wickbold-400g-9092226/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/190287-320-320?width=320&height=320&aspect=true", 12286);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7847, "macarrão talharim carrefour com ovos nº 3 caseira 500g", "carrefour", "R$5,99",
-        "https://www.carrefour.com.br", "/macarrao-talharim-carrefour-com-ovos-n-3-caseira-500g-7227620/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/199951-320-320?width=320&height=320&aspect=true", 12286);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5552, "pão de forma cranberry, quinoa & hibisco nutrella 350 g", "carrefour", "R$7,69",
-        "https://www.carrefour.com.br", "/pao-de-forma-cranberry-quinoa-hibisco-nutrella-350-g-6291465/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10924189-320-320?width=320&height=320&aspect=true", 12286);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3383, "pão de forma grãos e castanha pullman integral 450 g", "carrefour", "R$9,99",
-        "https://www.carrefour.com.br", "/pao-de-forma-graos-e-castanha-pullman-integral-450-g-5834945/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/13932489-320-320?width=320&height=320&aspect=true", 12286);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7775, "r$", "carrefour", "R$10,59", "https://www.carrefour.com.br",
-        "/pao-de-forma-sem-casca-pullman-450g-9767312/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10200277-320-320?width=320&height=320&aspect=true", 12286);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1826, "manteiga sem sal aviação 200g", "carrefour", "R$9,90", "https://www.carrefour.com.br",
-        "/manteiga-sem-sal-aviacao-200g--5457904/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/210148-320-320?width=320&height=320&aspect=true", 4750);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3371, "manteiga extra com sal carrefour 200g", "carrefour", "R$7,79", "https://www.carrefour.com.br",
-        "/manteiga-extra-com-sal-carrefour-200g-5760305/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/217724-320-320?width=320&height=320&aspect=true", 4750);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4970, "maionese hellmanns sachê 200g", "carrefour", "R$4,99", "https://www.carrefour.com.br",
-        "/maionese-hellmann-s-sache-200g-7563485/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/204570-320-320?width=320&height=320&aspect=true", 4750);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3735, "iogurte integral batavo pedaços morango 500g", "carrefour", "R$7,40", "https://www.carrefour.com.br",
-        "/iogurte-integral-batavo-pedacos-morango-500g-242217/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/190811-320-320?width=320&height=320&aspect=true", 4750);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4986, "escova dental colgate twister com 3 unidades - embalagem promocional", "carrefour", "R$20,50",
-        "https://www.carrefour.com.br", "/escova-dental-colgate-twister-com-3-unidades-embalagem-promocional-9188720/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/190840-320-320?width=320&height=320&aspect=true", 4750);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8212, "sabonete líquido para mãos caviar, 400ml", "boticário(caucaia)", "R$49,90",
-        "https://www.boticario.com.br",
-        "https://www.boticario.com.br/sabonete-liquido-para-maos-nativa-spa-caviar-400ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        4894);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1791, "r$ 184,90", "boticário(caucaia)", "R$184,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/malbec-black-desodorante-colonia-100ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        4894);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6517, "botica 214", "boticário(caucaia)", "R$169,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/botica-214-musk-e-cedro-eau-de-parfum-75-ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        4894);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (650, "kit presente (4 itens)", "boticário(caucaia)", "R$252,60", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/kit-presente-glamour-B77191/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        4894);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1632, "-25%", "boticário(caucaia)", "R$198,70", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/kit-presente-natal-egeo-choc-desodorante-colonia-90ml-antitranspirante-75g-sufle-desodorante-hidratante-corporal-250g/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        4894);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4808, "69", "carrefour - bh shopping (r4/s3/e2)", "R$16,69", "https://www.carrefour.com.br",
-        "/repelente-eletrico-liquido-raid-refil-regular-2-unidades-32-9-ml-cada-9154620/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/189635-320-320?width=320&height=320&aspect=true", 3275);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7495, "super condicionador 1 minuto dove fator de nutrição 60 170ml", "carrefour - bh shopping (r4/s3/e2)",
-        "R$19,00", "https://www.carrefour.com.br", "/condicionador-dove-fator-de-nutricao-60-170ml-5295670/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/13994705-320-320?width=320&height=320&aspect=true", 3275);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4811, "00", "carrefour - bh shopping (r4/s3/e2)", "R$13,00", "https://www.carrefour.com.br",
-        "/inseticida-multi-insetos-raid-spray-leve-mais-pague-menos-450-ml-9103260/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/189667-320-320?width=320&height=320&aspect=true", 3275);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2256, "esponja multiuso salva unhas carrefour 3 unidades", "carrefour - bh shopping (r4/s3/e2)", "R$6,75",
-        "https://www.carrefour.com.br", "/esponja-multiuso-salva-unhas-carrefour-3-unidades-9435603/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/191921-320-320?width=320&height=320&aspect=true", 3275);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (786, "10", "carrefour - bh shopping (r4/s3/e2)", "R$12,90", "https://www.carrefour.com.br",
-        "/super-condicionador-seda-1-minuto-hidratacao-maxima-170ml-5640350/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/215319-320-320?width=320&height=320&aspect=true", 3275);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (883, "shampoo cuide-se bem lisos e decididos 250ml", "o boticario (pátio central)", "R$21,90",
-        "https://www.boticario.com.br", "https://www.boticario.com.br/shampoo-liso-perfeito-cuide-se-bem-250ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        8921);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5420, "lápis retrátil para olhos preto make b.", "o boticario (pátio central)", "R$52,90",
-        "https://www.boticario.com.br", "https://www.boticario.com.br/lapis-retratil-para-olhos-preto-make-b/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_210,h_210/v1/imagens/product/B27858/adab3ac2-ec85-4a4b-a0f1-4446a378e336-lapis-retratil-para-olhos-preto-make-b.png",
-        8921);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1170, "combo maternidade: mochila + colônia do sol + sabonete líquido + loção hidratante",
-        "o boticario (pátio central)", "R$386,60", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/combo-boti-baby-maternidade-mochila-colonia-do-sol-sabonete-liquido-locao-hidratante-boti-baby/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        8921);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3028, "combo colônia: sol 100ml + lua 100ml", "o boticario (pátio central)", "R$149,80",
-        "https://www.boticario.com.br",
-        "https://www.boticario.com.br/combo-boti-baby-colonia-sol-colonia-lua-boti-baby/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_210,h_210/v1/imagens/product/B2005575/c9d78947-2633-4e1f-b5d5-25aa11c77190-combo-boti-baby-colonia-sol-colonia-lua-boti-baby.png",
-        8921);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4922, "r$ 40,90", "o boticario (pátio central)", "R$40,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/sabonete-liquido-corpo-e-cabelo-boti-baby-200ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_210,h_210/v1/imagens/product/B70691/8327d15f-71e8-4eb4-be65-523e2cae91ff-sabonete-liquido-corpo-e-cabelo-boti-baby-200ml.png",
-        8921);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (910, "em até 10x de r$ 119,90 sem juros", "magazine luiza - guaíba", "R$400,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155590500/?url=https://www.magazineluiza.com.br/smartphone-motorola-moto-g9-play-64gb-rosa-quartzo-4g-octa-core-4gb-ram-65-cam-tripla-selfie-8mp/p/155590500/te/srmt/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 13065);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3128, "painel nairóbi plus para tv até 60 branco acetinado texturizado multimóveis", "magazine luiza - guaíba",
-        "R$240,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/ak971bf421/?url=https://www.magazineluiza.com.br/painel-nairobi-plus-para-tv-ate-60-branco-acetinado-texturizado-multimoveis/p/ak971bf421/mo/mopa/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 13065);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3132, "guarda roupa casal com espelho 3 portas de correr lara espresso móveis branco",
-        "magazine luiza - guaíba", "R$520,79", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/840117300/?url=https://www.magazineluiza.com.br/guarda-roupa-casal-com-espelho-3-portas-de-correr-lara-espresso-moveis-branco/p/8401173/mo/guro/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 13065);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3130, "smart tv full hd led 43” samsung 43t5300a wi-fi hdr 2 hdmi 1 usb", "magazine luiza - guaíba",
-        "R$2.099,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/225608100/?url=https://www.magazineluiza.com.br/smart-tv-full-hd-led-43-samsung-43t5300a-wi-fi-hdr-2-hdmi-1-usb/p/225608100/et/elit/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 13065);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7518, "geladeira/refrigerador consul frost free duplex evox 397l cre44ak", "magazine luiza - guaíba",
-        "R$1.901,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/013087200/?url=https://www.magazineluiza.com.br/geladeira-refrigerador-consul-frost-free-duplex-evox-397l-cre44ak/p/013087200/ed/rinv/",
-        "https://i.mlcdn.com.br/selo-ml/60x44/0c238dee-7eca-11eb-aed7-fa21eacd2618.png", 13065);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (938, "-21%", "o boticário (shopping cidade) (r1/s1/e4)", "R$33,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/desodorante-body-spray-accordes-100-ml-v5/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        5166);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (243, "-50%", "o boticário (shopping cidade) (r1/s1/e4)", "R$29,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/gloss-labial-efeito-holografico-intense-56ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        5166);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3503, "desodorante body spray quasar, 100 ml", "o boticário (shopping cidade) (r1/s1/e4)", "R$33,90",
-        "https://www.boticario.com.br", "https://www.boticario.com.br/desodorante-body-spray-quasar-100-ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        5166);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (924, "refil desodorante body spray woman seduction 100 ml", "o boticário (shopping cidade) (r1/s1/e4)",
-        "R$25,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/refil-coffee-desodorante-body-spray-woman-seduction-100-ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        5166);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1009, "desodorante body spray glamour, 100 ml", "o boticário (shopping cidade) (r1/s1/e4)", "R$33,90",
-        "https://www.boticario.com.br", "https://www.boticario.com.br/desodorante-body-spray-glamour-100-ml-v5/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        5166);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1002, "desconto de r$ 1.300,00", "magazine luiza - parque shopping", "R$1.300,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155610600/?url=https://www.magazineluiza.com.br/iphone-xr-apple-64gb-preto-61-12mp-ios/p/155610600/te/ipxr/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 9210);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (999, "kit fraldas pom pom protek proteção de mãe tam. g 40 und cada 4 pacotes",
-        "magazine luiza - parque shopping", "R$100,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/229219600/?url=https://www.magazineluiza.com.br/kit-fraldas-pom-pom-protek-protecao-de-mae-tam-g-40-und-cada-4-pacotes/p/229219600/me/fdes/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 9210);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (996, "desconto de r$ 1.400,00", "magazine luiza - parque shopping", "R$1.400,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155609300/?url=https://www.magazineluiza.com.br/iphone-11-apple-128gb-preto-61-12mp-ios-mhdh3bz-a/p/155609300/te/ip11/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 9210);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (993, "aparelho de jantar chá 20 peças biona cerâmica redondo donna", "magazine luiza - parque shopping",
-        "R$60,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/143282000/?url=https://www.magazineluiza.com.br/aparelho-de-jantar-cha-20-pecas-biona-ceramica-redondo-donna/p/143282000/ud/apja/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 9210);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1001, "desconto de r$ 320,00", "magazine luiza - parque shopping", "R$320,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155588000/?url=https://www.magazineluiza.com.br/smartphone-lg-k22-32gb-blue-4g-quad-core-2gb-ram-tela-62-cam-dupla-selfie-5mp-dual-chip/p/155588000/te/telg/",
-        "https://i.mlcdn.com.br/selo-ml/60x44/0c238dee-7eca-11eb-aed7-fa21eacd2618.png", 9210);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1356, "absorvente interno super leve mais pague menos o.b procomfort 16 unidades", "supermercado carrefour",
-        "R$16,20", "https://www.carrefour.com.br",
-        "/absorvente-interno-super-leve-mais-pague-menos-o-b-procomfort-16-unidades-5556619/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/11203008-320-320?width=320&height=320&aspect=true", 1006);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4216, "fralda bigfral g plus pacote com 8 unidades", "supermercado carrefour", "R$29,90",
-        "https://www.carrefour.com.br", "/fralda-bigfral-g-plus-pacote-com-8-unidades-8141150/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/244965-320-320?width=320&height=320&aspect=true", 1006);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4212, "2", "supermercado carrefour", "R$2,39", "https://www.carrefour.com.br",
-        "/absorvente-com-abas-suave-diana-active-com-8-unidades-4597869/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/201041-320-320?width=320&height=320&aspect=true", 1006);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4213, "8", "supermercado carrefour", "R$8,40", "https://www.carrefour.com.br",
-        "/absorvente-always-noites-tranquilas-suave-com-abas-8-unidades-9718958/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/11262075-320-320?width=320&height=320&aspect=true", 1006);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5074, "48", "supermercado carrefour", "R$48,00", "https://www.carrefour.com.br",
-        "/vinho-branco-chardonnay-novecento-750ml-5603188/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/12449503-320-320?width=320&height=320&aspect=true", 1006);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1575, "carrinho expositor porta esmaltes capacidade até 260 esmaltes - santa clara",
-        "magazine luiza - icoaraci", "R$504,13", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/carrinho-expositor-porta-esmaltes-capacidade-ate-260-esmaltes-santa-clara/p/cbf86c32hg/pf/edde/",
-        "https://a-static.mlcdn.com.br/210x210/carrinho-expositor-porta-esmaltes-capacidade-ate-260-esmaltes-santa-clara/valerycosmeticosltda/937/105ab3cc18e9fe2b8727b36c227d8bac.jpg",
-        12749);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3120, "iphone 11 apple 128gb preto 6,1” 12mp ios mhdh3bz/a", "magazine luiza - icoaraci", "R$1.400,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155609300/?url=https://www.magazineluiza.com.br/iphone-11-apple-128gb-preto-61-12mp-ios-mhdh3bz-a/p/155609300/te/ip11/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 12749);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3116, "smart tv full hd led 43” samsung 43t5300a wi-fi hdr 2 hdmi 1 usb", "magazine luiza - icoaraci",
-        "R$2.099,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/225608100/?url=https://www.magazineluiza.com.br/smart-tv-full-hd-led-43-samsung-43t5300a-wi-fi-hdr-2-hdmi-1-usb/p/225608100/et/elit/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 12749);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3114, "painel nairóbi plus para tv até 60 branco acetinado texturizado multimóveis",
-        "magazine luiza - icoaraci", "R$240,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/ak971bf421/?url=https://www.magazineluiza.com.br/painel-nairobi-plus-para-tv-ate-60-branco-acetinado-texturizado-multimoveis/p/ak971bf421/mo/mopa/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 12749);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3123, "kit fraldas pom pom protek proteção de mãe tam. g 40 und cada 4 pacotes", "magazine luiza - icoaraci",
-        "R$100,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/229219600/?url=https://www.magazineluiza.com.br/kit-fraldas-pom-pom-protek-protecao-de-mae-tam-g-40-und-cada-4-pacotes/p/229219600/me/fdes/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 12749);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7487, "iogurte parcialmente desnatado mel nestlé pote 170g", "pão de açucar", "R$2,39",
-        "https://www.paodeacucar.com", "/produto/140242/iogurte-parcialmente-desnatado-mel-nestle-pote-170g",
-        "https://static.paodeacucar.com/img/uploads/1/111/669111x200x200.png", 7358);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7482, "iogurte parcialmente desnatado vitamina de frutas nestlé frasco 170g", "pão de açucar", "R$2,19",
+VALUES (15770, "colchobox polar compact plus 88 cauxiliar", "magazin grande rio", "R$999,00",
+        "https://www.magazingranderio.com.br",
+        "https://www.magazingranderio.com.br/colchoes/colchobox-polar-compact-plus-88-cauxiliar",
+        "https://images.tcdn.com.br/img/img_prod/770390/180_colchobox_polar_compact_plus_88_c_auxiliar_333_1_20201015142520.jpg",
+        12759);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (26128, "colchão plumatex mola ensac 138 dreams", "magazin grande rio", "R$1.499,00",
+        "https://www.magazingranderio.com.br",
+        "https://www.magazingranderio.com.br/colchoes/colchao-plumatex-mola-ensac-138-dreams",
+        "https://images.tcdn.com.br/img/img_prod/770390/180_colchao_plumatex_mola_ensac_138_dreams_1361_1_fd79a6532b58a629997c27ac83920b80.jpg",
+        12759);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (27239, "roupeiro acp 2portas heloisa cespelho", "magazin grande rio", "R$1.599,00",
+        "https://www.magazingranderio.com.br",
+        "https://www.magazingranderio.com.br/moveis/roupeiro-acp-2portas-heloisa-cespelho",
+        "https://images.tcdn.com.br/img/img_prod/770390/180_roupeiro_acp_2portas_heloisa_c_espelho_1273_1_20201116143026.jpg",
+        12759);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (19352, "cama henn selfie solteiro", "magazin grande rio", "R$299,00", "https://www.magazingranderio.com.br",
+        "https://www.magazingranderio.com.br/moveis/guarda-roupas/cama-henn-selfie-solteiro",
+        "https://images.tcdn.com.br/img/img_prod/770390/180_cama_henn_selfie_solteiro_475_1_20201009133342.jpg", 12759);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (6563, "r", "magazin grande rio", "R$0,00", "https://www.magazingranderio.com.br",
+        "https://www.magazingranderio.com.br/loja/logout.php?loja=770390?loja=770390/?palavra_busca=REFRIGERADOR%20DUPLEX%20FOST%20FREE",
+        "https://images.tcdn.com.br/img/img_prod/770390/1586384876_logo_magazin_letra_banco_823_novo.png", 12759);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (10521, "lâmpada led dicróica 49w tdl 35 taschibra luz amarela  caixa com 6 unidade  3000k",
+        "ricardo eletro (shopping del rey) (r3/s4/e3)", "R$134,90", "https://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Lampada-LED-Dicroica-49W-TDL-35-Taschibra-Luz-Amarela-Caixa-Com-6-Unidade-3000K/2723-4128-4199-655496?site_id=104",
+        "https://www.imgeletro.com.br/produto/marketplace_5d4d76e8b4bf62.04658831.jpg", 14706);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (38717, "monitor lg 32ul750 32 polegadas uhd 4k vesa display hdr 600",
+        "ricardo eletro (shopping del rey) (r3/s4/e3)", "R$6.152,21", "https://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Monitor-Lg-32ul750-32-Polegadas-Uhd-4k-Vesa-Display-Hdr-600/49-98-999-1146368?site_id=286",
+        "https://www.imgeletro.com.br/produto/marketplace_5f28222a4f7f64.41233864.jpg", 14706);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (10529, "lâmpada led 49w tkl 30 3000k taschibra luz amarela  caixa com 10 unidade  3000k",
+        "ricardo eletro (shopping del rey) (r3/s4/e3)", "R$224,90", "https://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Lampada-LED-49W-TKL-30-3000K-Taschibra-Luz-Amarela-Caixa-Com-10-Unidade-3000K/1085-1123-1130-704637?site_id=104",
+        "https://www.imgeletro.com.br/produto/marketplace_5d71694bc87a52.39217394.jpg", 14706);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (38723, "suporte fixo para tv de 10 a 100 polegadas para parede ou painel 3dlg 55 polegadas",
+        "ricardo eletro (shopping del rey) (r3/s4/e3)", "R$33,30", "https://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Suporte-Fixo-Para-Tv-de-10-A-100-Polegadas-Para-Parede-Ou-Painel-3D-LG-55-Polegadas/108-3260-3979-1203212?site_id=636",
+        "https://www.imgeletro.com.br/produto/marketplace_5faeec313e4078.30856449.jpg", 14706);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (10524, "protetor dps clamper 722e000220p20ka  para iluminação led",
+        "ricardo eletro (shopping del rey) (r3/s4/e3)", "R$96,48", "https://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Protetor-DPS-Clamper-722E000220-P20kA-Para-Iluminacao-LED/4523-4530-4546-682792?site_id=134",
+        "https://www.imgeletro.com.br/produto/marketplace_5a5f7df1b57e02.91466370.jpg", 14706);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21514, "arroz parboilizado longofino tipo 1 tio joão 1 kg", "carrefour", "R$6,99",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/arroz-parboilizado-longo-fino-tipo-1-tio-joao-1-kg-3136400/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/193531-160-160?width=160&height=160&aspect=true", 7587);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21511, "arroz branco longofino tipo 1 tio joão 2kg", "carrefour", "R$14,70", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/arroz-branco-longo-fino-tipo-1-tio-joao-2kg-115657/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/203188-160-160?width=160&height=160&aspect=true", 7587);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (39609, "5", "carrefour", "R$5,39", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/mortadela-tubular-mista-com-toucinho-perdigao-400-g-5773610/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/13261833-160-160?width=160&height=160&aspect=true", 7587);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (9632, "cocacola 2 litros", "carrefour", "R$8,60", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/coca-cola-2-litros-156949/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/191885-160-160?width=160&height=160&aspect=true", 7587);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21509, "arroz branco longofino tipo 1 tio joão 1 kg", "carrefour", "R$6,80", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/arroz-branco-longo-fino-tipo-1-tio-joao-1-kg-387606/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/193506-160-160?width=160&height=160&aspect=true", 7587);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (5210, "pepino em conserva vale fértil 560g", "carrefour - bh shopping (r4/s3/e2)", "R$14,40",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/-pepino-em-conserva-vale-fertil-560g-9232605/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/204364-160-160?width=160&height=160&aspect=true", 1425);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21590, "azeitona preta azapa com caroço vale fértil 360g", "carrefour - bh shopping (r4/s3/e2)", "R$29,50",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/azeitona-preta-azapa-com-caroco-vale-fertil-360g-1091727/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/193814-160-160?width=160&height=160&aspect=true", 1425);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (16323, "azeitona preta sem caroço fatiada raiola 155g", "carrefour - bh shopping (r4/s3/e2)", "R$10,29",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/azeitona-preta-sem-caroco-fatiada-raiola-155g-9965688/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/201722-160-160?width=160&height=160&aspect=true", 1425);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (27021, "azeitona verde sem caroço carrefour 155g", "carrefour - bh shopping (r4/s3/e2)", "R$8,19",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/azeitona-verde-sem-caroco-carrefour-155g-9764771/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/193773-160-160?width=160&height=160&aspect=true", 1425);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (27026, "azeitona verde com caroço carrefour 500g", "carrefour - bh shopping (r4/s3/e2)", "R$13,99",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/azeitona-verde-com-caroco-carrefour-500g-9764801/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/193775-160-160?width=160&height=160&aspect=true", 1425);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (10092, "chocolate bombom sonho de valsa lacta embalagem de 1kg", "lojas americanas", "R$44,00",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/1890509086?pfm_carac=lacta-embalagem&pfm_index=2&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Lacta+Embalagem",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1890509/0/1890509094G1.jpg", 4479);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (41478, "kit com 10 tabletes lacta 90g diamante negro", "lojas americanas", "R$61,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2737149985?pfm_carac=negro-lacta-com&pfm_index=2&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Negro+Lacta+Com",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2737150/1/2737150118G1.jpg", 4479);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (4603, "barra fixa com paralela de parede  musculação", "lojas americanas", "R$179,35",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/1811832193?pfm_carac=barra&pfm_index=3&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Barra",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1811832/2/1811832214G1.jpg", 4479);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (39181,
+        "forma de diamante 3d formador de cubo de gelo molde de barra de silicone bandeja de gelo para chocolate cool 7387",
+        "lojas americanas", "R$209,09", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2667735806?pfm_carac=chocolate-barra-diamante&pfm_index=6&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Chocolate+Barra+Diamante",
+        "https://images-americanas.b2w.io/produtos/2667735806/imagens/forma-de-diamante-3d-formador-de-cubo-de-gelo-molde-de-barra-de-silicone-bandeja-de-gelo-para-chocolate-cool-7387/2667735806_1_big.jpg",
+        4479);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (25322, "ovo de páscoa diamante negro 15", "lojas americanas", "R$29,90", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/1619715350?pfm_carac=diamante-negro&pfm_index=6&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Diamante+Negro",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1619715/3/1619715368G1.jpg", 4479);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (9590, "amaciante mon bijou baby 2 litros  3 unidades", "carrefour bairro", "R$23,50",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/amaciante-mon-bijou-baby-2-litros-3-unidades-b2-3-7998988/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/5999348-160-160?width=160&height=160&aspect=true", 1166);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (38391, "limpa máquina de lavar mon bijou 80g", "carrefour bairro", "R$7,19", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/limpa-maquina-de-lavar-mon-bijou-80g-9259082/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/6388180-160-160?width=160&height=160&aspect=true", 1166);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (31656, "amaciante mon bijou pureza 5 litros  2 unidades", "carrefour bairro", "R$28,00",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/amaciante-mon-bijou-pureza-5-litros-2-unidades-b2-2-8255717/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/5999644-160-160?width=160&height=160&aspect=true", 1166);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (3415, "amaciante mon bijou baby 2 litros", "carrefour bairro", "R$7,99", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/amaciante-mon-bijou-baby-2-litros-7998988/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/191483-160-160?width=160&height=160&aspect=true", 1166);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (41447, "amaciante mon bijou pureza 2 litros", "carrefour bairro", "R$7,99", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/amaciante-mon-bijou-pureza-2-litros-427721/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/193022-160-160?width=160&height=160&aspect=true", 1166);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (38268, "caneta hidrográfica pacote 20 unidades", "lojas  americanas", "R$74,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/6760124?pfm_carac=caneta-hidrografica-pacote&pfm_index=6&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=CANETA+HIDROGR%C3%81FICA+PACOTE",
+        "https://images-americanas.b2w.io/produtos/01/00/img/6760/1/6760125G1.jpg", 2829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (37875, "caneta hidrográfica stabilo multicor pacote de 15", "lojas  americanas", "R$134,99",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2614668566?pfm_carac=caneta-pacote&pfm_index=4&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=CANETA+PACOTE",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2614668/5/2614668591G1.jpg", 2829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (26103, "caneta hidrografica ocean polvo estojo x 24 cores", "lojas  americanas", "R$25,99",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2486416443?pfm_carac=caneta-hidrografica&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=CANETA+HIDROGR%C3%81FICA",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2486416/4/2486416478G1.jpg", 2829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (38892, "15", "lojas  americanas", "R$108,90", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/26520599?pfm_carac=caneta&pfm_index=3&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=CANETA",
+        "https://images-americanas.b2w.io/produtos/01/00/img/26520/5/26520596G1.jpg", 2829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (27432, "r", "lojas  americanas", "R$26,73", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/28620835?pfm_carac=caneta-hidrografica-pacote-com-cores&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=CANETA+HIDROGR%C3%81FICA+PACOTE+COM+CORES",
+        "https://images-americanas.b2w.io/produtos/01/00/img/28620/8/28620833G1.jpg", 2829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (4841, "alicate de bico meiacana curvo tipo telefone 8  8132 8a iox  gedore", "ricardo eletro", "R$142,90",
+        "http://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Alicate-de-Bico-Meia-cana-Curvo-Tipo-Telefone-8-8132-8A-IOX-Gedore/1085-1086-1092-678682?site_id=508",
+        "https://www.imgeletro.com.br/produto/marketplace_5a4fda055cdd91.39543768.jpg", 558);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18906,
+        "telefone com fio intelbras pleno cinza ártico 2 tipos de toques 3 volumes de campainha discagem tompulso função flash mute e rediscar",
+        "ricardo eletro", "R$53,14", "http://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Telefone-Com-Fio-Intelbras-Pleno-Cinza-Artico-2-Tipos-de-Toques-3-Volumes-de-Campainha-Discagem-TomPulso-Funcao-Flash-Mute-e-Rediscar/44-562-575-11068?site_id=286",
+        "https://www.imgeletro.com.br/produto/7305_13692_20091103151346.jpg", 558);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (5215, "telefone intelbras tc50 premium preto", "ricardo eletro", "R$68,98", "http://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Telefone-Intelbras-TC50-Premium-Preto/44-562-575-693000?site_id=286",
+        "https://www.imgeletro.com.br/produto/marketplace_5a7b3bc2131ea3.65250992.jpg", 558);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (20762, "aparelho removedor de cravos e espinhas digital limpeza facial rosto beleza", "ricardo eletro",
+        "R$278,56", "http://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Aparelho-Removedor-de-Cravos-e-Espinhas-Digital-Limpeza-Facial-Rosto-Beleza/1-38-1009-1002292?site_id=285",
+        "https://www.imgeletro.com.br/produto/marketplace_5def931ab3b7e8.87487247.jpg", 558);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (35063,
+        "combo teclado e mouse óptico sem fio logitech mk220 padrão abnt2 teclas silenciosas resolução de 1000dpi e nano receptor compartilhado",
+        "ricardo eletro", "R$230,74", "http://www.ricardoeletro.com.br",
+        "https://www.ricardoeletro.com.br/Produto/Combo-Teclado-e-Mouse-Optico-Sem-Fio-Logitech-MK220-Padrao-ABNT2-Teclas-Silenciosas-Resolucao-de-1000dpi-e-Nano-Receptor-Compartilhado/4523-4531-4557-445753?site_id=706",
+        "https://www.imgeletro.com.br/produto/489850_5023065_20160927145419.jpg", 558);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (37275, "açúcar refinado da barra 1kg", "carrefour(gravatai)", "R$3,20", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/acucar-refinado-da-barra-1kg-347523/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/211572-160-160?width=160&height=160&aspect=true", 1538);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21958, "ração para cachorro purina alpo receitas caseiras frango e vegetais 101kg", "carrefour(gravatai)",
+        "R$70,00", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/racao-para-cachorro-purina-alpo-receitas-caseiras-frango-e-vegetais-10-1kg-8663041/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/204775-160-160?width=160&height=160&aspect=true", 1538);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (24811, "creme de leite elegê 200g", "carrefour(gravatai)", "R$3,55", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/creme-de-leite-elege-200g-4272030/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/194597-160-160?width=160&height=160&aspect=true", 1538);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (3490, "açúcar cristal orgânica carrefour viver 1kg", "carrefour(gravatai)", "R$3,09",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/acucar-cristal-organica-carrefour-viver-1kg-5846366/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/218746-160-160?width=160&height=160&aspect=true", 1538);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (39196, "manteiga com sal porto alegre 500g", "carrefour(gravatai)", "R$22,00", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/manteiga-com-sal-porto-alegre-500g-1285289/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/207152-160-160?width=160&height=160&aspect=true", 1538);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (30062, "1", "lojas renner - aracaju parque shopping", "R$29,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=93cd30a9-4087-4a6f-6bbc-7f5e10e75622&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616042147676&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=feminina+jeans&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=550207962-COR550207962-09&ind=1&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fnecessaire-lixinho-mescla-efeito-jeans%2F-%2FA-550207962-br.lr%3Fsku%3D550207971&redirect=true",
+        "https://img.lojasrenner.com.br/item/550207971/medium/1.jpg", 1747);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (38741, "5", "lojas renner - aracaju parque shopping", "R$99,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=d79ac4ca-8ef4-43bc-9344-4c5e10f1c00a&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616045272882&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=infantil+jeans&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=553221698-COR553221698-204&ind=6&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fcalca-infantil-jeans-lisa-anatomica-fit-skinny-tam-5-a-14-anos%2F-%2FA-553221698-br.lr%3Fsku%3D553221701&redirect=true",
+        "https://img.lojasrenner.com.br/item/553221701/medium/1.jpg", 1747);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (30083, "4", "lojas renner - aracaju parque shopping", "R$69,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=93cd30a9-4087-4a6f-6bbc-7f5e10e75622&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616042147676&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=feminina+jeans&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=546362126-COR546362126-205&ind=22&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fshort-hot-pants-com-barra-dobrada%2F-%2FA-546362126-br.lr%3Fsku%3D546362185&redirect=true",
+        "https://img.lojasrenner.com.br/item/546362134/medium/1.jpg", 1747);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (41123, "conjunto infantil com bermuda listrada fit saruel  tam 1 a 5 anos",
+        "lojas renner - aracaju parque shopping", "R$69,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=62fac4ca-8ef4-43bc-9344-4c5e10f1c00a&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616046061984&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=bermuda+infantil&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=556717576-COR556717576-11-0602TCX&ind=2&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fconjunto-infantil-com-bermuda-listrada-fit-saruel-tam-1-a-5-anos%2F-%2FA-556717576-br.lr%3Fsku%3D556717584&redirect=true",
+        "https://img.lojasrenner.com.br/item/556717592/medium/1.jpg", 1747);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (38738, "calça infantil cargo lisa em sarja  tam 1 a 4 anos", "lojas renner - aracaju parque shopping",
+        "R$89,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=d79ac4ca-8ef4-43bc-9344-4c5e10f1c00a&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616045272882&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=infantil+jeans&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=551206996-COR551206996-19-4118TCX&ind=3&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fcalca-infantil-cargo-lisa-em-sarja-tam-1-a-4-anos%2F-%2FA-551206996-br.lr%3Fsku%3D551207032&redirect=true",
+        "https://img.lojasrenner.com.br/item/551207016/medium/1.jpg", 1747);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (14712, "kit pulseira masculina", "lojas renner", "R$39,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=eb8060dd-d32c-40fe-cbf7-d15e10d27f23&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=50852&mvtTs=1616036765499&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=2897680783796444831&pg=-1&page=1&query=masculino+couro&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=548796956-COR548796956-10&ind=20&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fkit-pulseira-masculina%2F-%2FA-548796956-br.lr%3Fsku%3D548796964&redirect=true",
+        "https://img.lojasrenner.com.br/item/548796964/medium/1.jpg", 13494);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (20071, "relógio masculino orient mgssc026 p2kx analógico", "lojas renner", "R$999,90",
+        "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=37f030a9-4087-4a6f-6bbc-7f5e10d8f70a&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616038619282&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=masculino&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=560305611-COR560305611-5166&ind=25&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Frelogio-masculino-orient-mgssc026-p2kx-analogico%2F-%2FA-560305611-br.lr%3Fsku%3D560305620&redirect=true",
+        "https://img.lojasrenner.com.br/item/560305620/medium/1.jpg", 13494);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (20077, "relógio masculino x games xmppd189 bxpx digital 10atm", "lojas renner", "R$199,90",
+        "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=37f030a9-4087-4a6f-6bbc-7f5e10d8f70a&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616038619282&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=masculino&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=536324257-COR536324257-9316&ind=31&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Frelogio-masculino-x-games-xmppd189-bxpx-digital-10atm%2F-%2FA-536324257-br.lr%3Fsku%3D536324273&redirect=true",
+        "https://img.lojasrenner.com.br/item/536324273/medium/1.jpg", 13494);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (20053, "relógio masculino technos 6p57ae1a analógico 50m", "lojas renner", "R$769,90",
+        "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=37f030a9-4087-4a6f-6bbc-7f5e10d8f70a&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616038619282&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=masculino&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=557933764-COR557933764-5142&ind=7&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Frelogio-masculino-technos-6p57ae1a-analogico-50m%2F-%2FA-557933764-br.lr%3Fsku%3D557933772&redirect=true",
+        "https://img.lojasrenner.com.br/item/557933772/medium/1.jpg", 13494);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (2981, "camisa social manga curta slim lisa", "lojas renner", "R$119,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=2837f307-fc40-4894-ec3c-a95e10c29b5a&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=50852&mvtTs=1616032617997&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=2897680783796444831&pg=-1&page=1&query=social+masculino&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=545542096-COR545542096-19-4010TP&ind=19&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fcamisa-social-manga-curta-slim-lisa%2F-%2FA-545542096-br.lr%3Fsku%3D545542133&redirect=true",
+        "https://img.lojasrenner.com.br/item/545542117/medium/1.jpg", 13494);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (17623, "7", "lojas renner - aracaju parque shopping", "R$119,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=588e81ea-ebed-4011-54b7-d15e10d5ab54&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616037761022&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=bermuda+short+tamanho&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=552154614-COR552154614-19-4006TCX&ind=23&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fshort-running-estampa-poa-com-amarracao-curve-plus-size%2F-%2FA-552154614-br.lr%3Fsku%3D552154622&redirect=true",
+        "https://img.lojasrenner.com.br/item/552154622/medium/1.jpg", 15589);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (35677, "4", "lojas renner - aracaju parque shopping", "R$69,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=148981ea-ebed-4011-54b7-d15e10ed3c3c&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616044258053&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=bermuda+short&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=553110066-COR553110066-19-2429TCX&ind=10&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fbermuda-ciclista-esportiva-com-estampa-lateral%2F-%2FA-553110066-br.lr%3Fsku%3D553110074&redirect=true",
+        "https://img.lojasrenner.com.br/item/553110074/medium/10.jpg", 15589);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (35667, "3", "lojas renner - aracaju parque shopping", "R$59,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=148981ea-ebed-4011-54b7-d15e10ed3c3c&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616044258053&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=bermuda+short&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=553111042-COR553111042-13-5313TCX&ind=0&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fbermuda-com-estampa-sunny-times%2F-%2FA-553111042-br.lr%3Fsku%3D553111051&redirect=true",
+        "https://img.lojasrenner.com.br/item/553111069/medium/1.jpg", 15589);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (35687, "2", "lojas renner - aracaju parque shopping", "R$49,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=148981ea-ebed-4011-54b7-d15e10ed3c3c&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=51107&mvtTs=1616044258053&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=5015810770085530520&pg=-1&page=1&query=bermuda+short&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=525392570-COR525392570-623&ind=20&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fbermuda-esportiva-ciclista-em-suplex-basica%2F-%2FA-525392570-br.lr%3Fsku%3D533543921&redirect=true",
+        "https://img.lojasrenner.com.br/item/533543921/medium/1.jpg", 15589);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (14136, "1", "lojas renner - aracaju parque shopping", "R$15,90", "https://www.lojasrenner.com.br",
+        "https://recs.richrelevance.com/rrserver/api/find/v1/track/click/24f07d816ef94d7f?a=24f07d816ef94d7f&vg=a30930a9-4087-4a6f-6bbc-7f5e10d2324c&pti=2&pa=find&hpi=0&stn=PersonalizedProductSearchAndBrowse&stid=184&rti=2&sgs=&mvtId=50852&mvtTs=1616036593149&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=2897680783796444831&pg=-1&page=1&query=uniforme&lang=pt&searchConfigId=60522aaf6500b7000d12259a&searchType=CATALOG&p=551457576&ind=3&ct=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fhidratante-facial-uniform-e-matte-vitamina-c-garnier-efeito-matte-12hrs%2F-%2FA-551457576-br.lr%3Fsku%3D551457584&redirect=true",
+        "https://img.lojasrenner.com.br/item/551457584/medium/1.jpg", 15589);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (33382, "box  trilogia authenticgames  3 volumes", "saraiva (didáticos)", "R$89,70",
+        "https://www.saraiva.com.br", "https://www.saraiva.com.br/box-trilogia-authenticgames-3-volumes-9886613/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12563896-287-426/1004549422.jpg?v=637152428502500000", 5575);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (36905, "manual de direito internacional público  24ª ed 2019", "saraiva (didáticos)", "-1",
+        "https://www.saraiva.com.br", "https://www.saraiva.com.br/vade-mecum-compacto-espiral-22-ed-2020-10646576/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12914149-221-171/1010106887.jpg?v=637160077262170000", 5575);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (29686, "box jane austen  3 volumes  emma mansfield park e abadia de northanger  capa brochura",
+        "saraiva (didáticos)", "R$179,90", "https://www.saraiva.com.br",
+        "https://www.saraiva.com.br/box-jane-austen-3-volumes-emma-mansfield-park-e-abadia-de-northanger-capa-brochura-10615318/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12117232-221-171/1008955862.jpg?v=637142278350900000", 5575);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (29670, "nórdicos deluxe edition  capa dura", "saraiva (didáticos)", "R$59,90", "https://www.saraiva.com.br",
+        "https://www.saraiva.com.br/nordicos-deluxe-edition-capa-dura-10679319/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/31730820-287-426/1010941454.jpg?v=637401942504700000", 5575);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (25535, "box  hp lovecraft  os melhores contos  3 volumes  parte ii  acompanha pôster", "saraiva (didáticos)",
+        "R$79,90", "https://www.saraiva.com.br",
+        "https://www.saraiva.com.br/box-hp-lovecraft-os-melhores-contos-3-volumes-parte-ii-acompanha-poster-10594635/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/31765139-221-171/1011247085.jpg?v=637489823471670000", 5575);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (10385, "kit 2 massa s glúten mosmann  2 molho tomate la pianezza", "supermercado pão de açucar s.a.", "R$67,35",
         "https://www.paodeacucar.com",
-        "/produto/365824/iogurte-parcialmente-desnatado-vitamina-de-frutas-nestle-frasco-170g",
-        "https://static.paodeacucar.com/img/uploads/1/752/5140752x200x200.jpg", 7358);
+        "https://www.paodeacucar.com/produto/527555/kit-2-massa-s--gluten-mosmann-+-2-molho-tomate-la-pianezza?w=VERDE%20MOLHO&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/34/11343034x200x200.png", 3215);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1646, "iogurte grego sabor maracujá light nestlé 360g", "pão de açucar", "R$7,49",
-        "https://www.paodeacucar.com", "/produto/312887/iogurte-grego-sabor-maracuja-light-nestle-360g",
-        "https://static.paodeacucar.com/img/uploads/1/259/658259x200x200.png", 7358);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7480, "iogurte parcialmente desnatado morango calda morango nestlé pote 150g", "pão de açucar", "R$3,59",
+VALUES (24013, "molho barbecue original heinz squeeze 538g", "supermercado pão de açucar s.a.", "R$23,79",
         "https://www.paodeacucar.com",
-        "/produto/99327/iogurte-parcialmente-desnatado-morango-calda-morango-nestle-pote-150g",
-        "https://static.paodeacucar.com/img/uploads/1/480/667480x200x200.png", 7358);
+        "https://www.paodeacucar.com/produto/294649/molho-barbecue-original-heinz-squeeze-538g?w=MOLHO&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/397/3337397x200x200.png", 3215);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (657, "leve 3 e pague 2", "pão de açucar", "R$7,19", "https://www.paodeacucar.com",
-        "/produto/341633/iogurte-grego-sabor-tradicional-batavo-500g",
-        "https://static.paodeacucar.com/img/uploads/1/63/521063x200x200.jpg", 7358);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4277, "presunto fatiado seara 200g", "mercado pão  de açucar", "R$11,39", "https://www.paodeacucar.com",
-        "/produto/360377/presunto-fatiado-seara-200g",
-        "https://static.paodeacucar.com/img/uploads/1/267/11355267x200x200.jpg", 11651);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (126, "coxa de frango congelada sadia zip pacote 1kg", "mercado pão  de açucar", "R$13,99",
-        "https://www.paodeacucar.com", "/produto/66810/coxa-de-frango-congelada-sadia-zip-pacote-1kg",
-        "https://static.paodeacucar.com/img/uploads/1/956/657956x200x200.png", 11651);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1988, "r$7,93", "mercado pão  de açucar", "R$7,93", "https://www.paodeacucar.com",
-        "/produto/102519/peito-de-peru-defumado-fatiado-sadia-bandeja-150g",
-        "https://static.paodeacucar.com/img/uploads/1/534/11797534x200x200.png", 11651);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7281, "salaminho sadia 220g", "mercado pão  de açucar", "R$25,44", "https://www.paodeacucar.com",
-        "/produto/8408/salaminho-sadia-220g", "https://static.paodeacucar.com/img/uploads/1/839/665839x200x200.jpg",
-        11651);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5543, "filé de peito de frango congelado zip sadia pacote 1kg", "mercado pão  de açucar", "R$17,99",
-        "https://www.paodeacucar.com", "/produto/65885/file-de-peito-de-frango-congelado-zip-sadia-pacote-1kg",
-        "https://static.paodeacucar.com/img/uploads/1/954/657954x200x200.png", 11651);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3888, "r$43,08", "pão de açúcar", "R$43,08", "https://www.paodeacucar.com",
-        "/produto/333292/pack-com-12-leites-qualita-desnatado-1l-cada",
-        "https://static.paodeacucar.com/img/uploads/1/385/554385x200x200.jpg", 8179);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6061, "algicida choque hidroazul 1 litro", "pão de açúcar", "R$29,90", "https://www.paodeacucar.com",
-        "/produto/530338/algicida-choque-hidroazul-1-litro",
-        "https://static.paodeacucar.com/img/uploads/1/376/11413376x200x200.jpeg", 8179);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6942, "leite longa vida integral  italac 1 litro", "pão de açúcar", "R$3,59", "https://www.paodeacucar.com",
-        "/produto/176191/leite-longa-vida-integral--italac-1-litro",
-        "https://static.paodeacucar.com/img/uploads/1/194/531194x200x200.jpg", 8179);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8436, "leite desnatado piracanjuba 1l", "pão de açúcar", "R$3,79", "https://www.paodeacucar.com",
-        "/produto/140374/leite-desnatado-piracanjuba-1l",
-        "https://static.paodeacucar.com/img/uploads/1/804/608804x200x200.png", 8179);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3604, "leite uht integral jussara 1l (edge)", "pão de açúcar", "R$3,49", "https://www.paodeacucar.com",
-        "/produto/472793/leite-uht-integral-jussara-1l-(edge)",
-        "https://static.paodeacucar.com/img/uploads/1/437/669437x200x200.jpg", 8179);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4910, "molho de tomate basilico barilla vidro 400g", "supermercado pão de açucar s.a.", "R$21,49",
-        "https://www.paodeacucar.com", "/produto/81017/molho-de-tomate-basilico-barilla-vidro-400g",
-        "https://static.paodeacucar.com/img/uploads/1/661/614661x200x200.png", 3215);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2423, "r$5,39", "supermercado pão de açucar s.a.", "R$5,39", "https://www.paodeacucar.com",
-        "/produto/431997/molho-de-pimenta-verde-suave-knorr-vidro-150ml",
-        "https://static.paodeacucar.com/img/uploads/1/90/664090x200x200.png", 3215);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6631, "r$17,90", "supermercado pão de açucar s.a.", "R$17,90", "https://www.paodeacucar.com",
-        "/produto/529499/shampoo-maria-natureza-oleos-milenares-salon-line-350ml",
+VALUES (32536, "shampoo maria natureza óleos milenares salon line 350ml", "supermercado pão de açucar s.a.", "R$17,90",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/529499/shampoo-maria-natureza-oleos-milenares-salon-line-350ml?w=CHEIRO%20VERDE%20MOLHO&qt=12&p=1&gt=grid",
         "https://static.paodeacucar.com/img/uploads/1/886/11380886x200x200.jpeg", 3215);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4908, "r$2,00", "supermercado pão de açucar s.a.", "R$2,25", "https://www.paodeacucar.com",
-        "/produto/294252/molho-de-tomate-tradicional-heinz-sache-340g",
-        "https://static.paodeacucar.com/img/uploads/1/722/3324722x200x200.png", 3215);
+VALUES (32535, "sementes cheiro verde topseed garden", "supermercado pão de açucar s.a.", "R$6,50",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/486475/sementes-cheiro-verde-topseed-garden?w=CHEIRO%20VERDE%20MOLHO&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/627/1698627x200x200.jpeg", 3215);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4951, "r$299,99", "supermercado pão de açucar s.a.", "R$299,99", "https://www.paodeacucar.com",
-        "/produto/550399/kit-joico-k-pak-repair-damage-sh-300ml+masc-250ml",
-        "https://static.paodeacucar.com/img/uploads/1/565/11701565x200x200.jpeg", 3215);
+VALUES (24020, "passata francesa de tomate casino vidro 680ml", "supermercado pão de açucar s.a.", "R$13,99",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/64504/passata-francesa-de-tomate-casino-vidro-680ml?w=MOLHO&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/846/633846x200x200.png", 3215);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3439, "r$", "carrefour com e ind.  ltda", "R$4,40", "https://www.carrefour.com.br",
-        "/sabonete-em-barra-corporal-phebo-amazonian-90g-7099541/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/191141-320-320?width=320&height=320&aspect=true", 13193);
+VALUES (2253, "tênis casual fila iconic", "besni", "R$199,99", "http://www.besni.com.br",
+        "https://www.besni.com.br/559723-tenis-casual-fila-iconic/p?idsku=12469",
+        "https://lojasbesni.vteximg.com.br/arquivos/ids/196932-36-36/2050005700557-Tenis-Casual-Fila-Iconic-MARINHO-LARANJA-39-1-2-3-4-5.jpg?v=637474378853470000",
+        4256);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7402, "99", "carrefour com e ind.  ltda", "R$3,99", "https://www.carrefour.com.br",
-        "/sabonete-em-barra-corporal-phebo-lavanda-90g-7099576/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/192751-320-320?width=320&height=320&aspect=true", 13193);
+VALUES (23700, "polo manga curta masculina bolso", "besni", "R$39,99", "http://www.besni.com.br", "-1", "-1", 4256);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7401, "40", "carrefour com e ind.  ltda", "R$4,40", "https://www.carrefour.com.br",
-        "/sabonete-em-barra-corporal-phebo-amazonian-90g-7099541/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/191141-320-320?width=320&height=320&aspect=true", 13193);
+VALUES (23708, "short jeans godê feminino cintura alta barra fio", "besni", "R$79,99", "http://www.besni.com.br", "-1",
+        "-1", 4256);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2501, "sabonete em barra corporal phebo amazonian 90g", "carrefour com e ind.  ltda", "R$4,40",
-        "https://www.carrefour.com.br", "/sabonete-em-barra-corporal-phebo-amazonian-90g-7099541/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/191141-320-320?width=320&height=320&aspect=true", 13193);
+VALUES (8616, "regata feminina estampada", "besni", "R$34,99", "http://www.besni.com.br",
+        "https://www.besni.com.br/559855-regata-feminina-estampada/p?idsku=10708",
+        "https://lojasbesni.vteximg.com.br/arquivos/ids/163606-36-36/2050005730776-Regata-Feminina-Estampada-PRETO-P-1.jpg?v=637409061945870000",
+        4256);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2502, "sabonete em barra corporal phebo lavanda 90g", "carrefour com e ind.  ltda", "R$3,99",
-        "https://www.carrefour.com.br", "/sabonete-em-barra-corporal-phebo-lavanda-90g-7099576/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/192751-320-320?width=320&height=320&aspect=true", 13193);
+VALUES (32518, "vestido midi feminino alças finas fenda", "besni", "R$119,99", "http://www.besni.com.br",
+        "https://www.besni.com.br/560116-vestido-midi-feminino-alcas-finas-fenda/p?idsku=12362",
+        "https://lojasbesni.vteximg.com.br/arquivos/ids/164352-36-36/2050005752839-Vestido-Midi-Feminino-Alcas-Finas-Fenda-VERMELHO-P-1.jpg?v=637419526168900000",
+        4256);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4144, "açúcar cristal orgânico native 1kg", "carrefour", "R$5,75", "https://www.carrefour.com.br",
-        "/acucar-cristal-organico-native-1kg-2176556/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/197028-320-320?width=320&height=320&aspect=true", 1490);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6556, "limpa vidros veja vidrex cristal pulverizador 500ml - embalagem promocional", "carrefour", "R$11,20",
+VALUES (16686, "alvejante sem cloro para roupas brancas vanish white 500ml", "supermercado carrefour", "R$9,49",
         "https://www.carrefour.com.br",
-        "/limpa-vidros-veja-vidrex-cristal-pulverizador-500ml-embalagem-promocional-9811494/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10239429-320-320?width=320&height=320&aspect=true", 1490);
+        "https://mercado.carrefour.com.br/alvejante-sem-cloro-para-roupas-brancas-vanish-white-500ml-8337268/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/10238946-160-160?width=160&height=160&aspect=true", 1092);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8345, "bobina plástica carrefour 22x37cm - 100 unidades", "carrefour", "R$14,99",
-        "https://www.carrefour.com.br", "/bobina-plastica-carrefour-22x37cm-100-unidades-9383131/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/220082-320-320?width=320&height=320&aspect=true", 1490);
+VALUES (2014, "alvejante sem cloro para roupas coloridas vanish 500ml", "supermercado carrefour", "R$9,49",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/alvejante-sem-cloro-para-roupas-coloridas-vanish-500ml-2447487/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/10238906-160-160?width=160&height=160&aspect=true", 1092);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7853, "r$", "carrefour", "R$15,90", "https://www.carrefour.com.br",
-        "/kit-kat-chocolate-branco-6-unidades-b2-6-5094429/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10726463-320-320?width=320&height=320&aspect=true", 1490);
+VALUES (14179, "cloro aditivado vim original sua casa protegida 700ml", "supermercado carrefour", "R$7,99",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/cloro-aditivado-vim-original-sua-casa-protegida-700ml-5547636/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/13996549-160-160?width=160&height=160&aspect=true", 1092);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5615, "9", "carrefour", "R$9,99", "https://www.carrefour.com.br",
-        "/peito-de-frango-congelado-carrefour-1kg-9289500/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/200170-320-320?width=320&height=320&aspect=true", 1490);
+VALUES (2016, "limpador spray veja x14 tira limo cloro ativo para banheiro 500ml", "supermercado carrefour", "R$21,00",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/limpador-spray-veja-x14-tira-limo-cloro-ativo-para-banheiro-500ml-1102915/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/12335483-160-160?width=160&height=160&aspect=true", 1092);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (837, "quantidade", "farm. pague menos", "R$17,84", "http://www.paguemenos.com.br",
-        "/absorvente-geriatrico-bigfral-com-20-unidades/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-leve3-pague2-140x32.png", 990);
+VALUES (7163, "cloro gel vim lavanda 700ml", "supermercado carrefour", "R$7,99", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/cloro-gel-vim-lavanda-700ml-5547610/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/213201-160-160?width=160&height=160&aspect=true", 1092);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7595, "fralda pom pom protek proteção de mãe jumbo g 26 unidades", "farm. pague menos", "R$26,24",
-        "http://www.paguemenos.com.br", "/fralda-pompom-protek-baby-tamanho-grande-com-26-unidades/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-leve3-pague2-140x32.png", 990);
+VALUES (30503, "azeitona verde cepêra 380g", "supermercado  são luiz", "R$21,29",
+        "http://www.mercadinhossaoluiz.com.br",
+        "http://www.mercadinhossaoluiz.com.br/quick-view/?idproduto=5365&KeepThis=true&TB_iframe=true",
+        "https://tezeio.vteximg.com.br/arquivos/ids/219861-130-130/7896025804432_1_1.jpg?v=637420160953030000", 9038);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2798, "fralda pompom protek baby tamanho extra grande com 22 unidades", "farm. pague menos", "R$26,24",
-        "http://www.paguemenos.com.br", "/fralda-pompom-protek-baby-tamanho-extra-grande-com-22-unidades/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-leve3-pague2-140x32.png", 990);
+VALUES (2167, "sal rosa estar bem com moedor 100g", "supermercado  são luiz", "R$21,45",
+        "http://www.mercadinhossaoluiz.com.br",
+        "http://www.mercadinhossaoluiz.com.br/quick-view/?idproduto=10902&KeepThis=true&TB_iframe=true",
+        "https://tezeio.vteximg.com.br/arquivos/ids/227047-130-130/7898955400487-20_1_1.jpg?v=637435425285200000",
+        9038);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3469, "lenços umedecidos pompom suave leve 100 pague 90 unidades", "farm. pague menos", "R$17,10",
-        "http://www.paguemenos.com.br", "/lencos-umedecidos-pompom-suave-leve-100-pague-90-unidades/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-leve2-pague1-140x32.png", 990);
+VALUES (24062, "porta 6", "supermercado  são luiz", "R$64,90", "http://www.mercadinhossaoluiz.com.br",
+        "http://www.mercadinhossaoluiz.com.br/quick-view/?idproduto=12474&KeepThis=true&TB_iframe=true",
+        "https://tezeio.vteximg.com.br/arquivos/ids/224305-130-130/5601996023780-20_1_1.jpg?v=637420196887900000",
+        9038);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5157, "fralda pompom protek baby média com 30 unidades", "farm. pague menos", "R$26,24",
-        "http://www.paguemenos.com.br", "/fralda-pompom-protek-baby-media-com-30-unidades/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-leve3-pague2-140x32.png", 990);
+VALUES (25962, "açúcar demerara união 1kg", "supermercado  são luiz", "R$3,49", "http://www.mercadinhossaoluiz.com.br",
+        "http://www.mercadinhossaoluiz.com.br/quick-view/?idproduto=12750&KeepThis=true&TB_iframe=true",
+        "https://tezeio.vteximg.com.br/arquivos/ids/226315-130-130/7891910030101_1_1.jpg?v=637435416942100000", 9038);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8535, "presunto cozido fatiado perdigão 100g", "carrefour", "R$2,99", "https://www.carrefour.com.br",
-        "/presunto-cozido-fatiado-perdigao-100g-5711517/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/216632-320-320?width=320&height=320&aspect=true", 12154);
+VALUES (10588, "coco seco unidade  aproxim 900g", "supermercado  são luiz", "R$5,39",
+        "http://www.mercadinhossaoluiz.com.br",
+        "http://www.mercadinhossaoluiz.com.br/quick-view/?idproduto=5329&KeepThis=true&TB_iframe=true",
+        "https://tezeio.vteximg.com.br/arquivos/ids/220194-130-130/1455_1_1.jpg?v=637420163507400000", 9038);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5140, "presunto tradicional em cubos sadia 300g", "carrefour", "R$13,50", "https://www.carrefour.com.br",
-        "/presunto-tradicional-em-cubos-sadia-300g-5712416/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/7540251-320-320?width=320&height=320&aspect=true", 12154);
+VALUES (7633, "embalagem vazia para cesta natalina 21x35x27cm papelão",
+        "carone supermercado (drift comercio de alimentos ltda)", "R$16,98", "http://www.carone.com.br",
+        "https://www.carone.com.br/embalagem-vazia-para-cesta-natalina-21x35x27cm-papel-o",
+        "https://www.carone.com.br/media/catalog/product/cache/1/small_image/150x150/9df78eab33525d08d6e5fb8d27136e95/1/6/16161_R.jpg",
+        3208);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8538, "presunto cozido em cubos seara 300g", "carrefour", "R$8,05", "https://www.carrefour.com.br",
-        "/presunto-cozido-em-cubos-seara-300g-5711215/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/11430646-320-320?width=320&height=320&aspect=true", 12154);
+VALUES (7657, "rolo alumínio prátiko 75m x 45cm", "carone supermercado (drift comercio de alimentos ltda)", "R$5,99",
+        "http://www.carone.com.br", "https://www.carone.com.br/rolo-aluminio-pratiko-7-5m-x-45cm",
+        "https://www.carone.com.br/media/catalog/product/cache/1/small_image/150x150/9df78eab33525d08d6e5fb8d27136e95/2/4/24084_R.jpg",
+        3208);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2802, "presunto tradicional sem capa fatiado sadia 100g", "carrefour", "R$4,65", "https://www.carrefour.com.br",
-        "/presunto-tradicional-sem-capa-fatiado-sadia-100g-5712513/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/7540251-320-320?width=320&height=320&aspect=true", 12154);
+VALUES (10261, "aproximadamente 13 kg", "carone supermercado (drift comercio de alimentos ltda)", "R$51,97",
+        "http://www.carone.com.br", "https://www.carone.com.br/entrecorte-maturatta-kg",
+        "https://www.carone.com.br/media/catalog/product/cache/1/small_image/150x150/9df78eab33525d08d6e5fb8d27136e95/5/3/5347_R.jpg",
+        3208);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5137, "presunto serrano com osso haciendas peça", "carrefour", "R$694,50", "https://www.carrefour.com.br",
-        "/presunto-serrano-com-osso-haciendas-peca-5152097/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/14280390-320-320?width=320&height=320&aspect=true", 12154);
+VALUES (9145, "aproximadamente 12 kg", "carone supermercado (drift comercio de alimentos ltda)", "R$100,78",
+        "http://www.carone.com.br", "https://www.carone.com.br/picanha-inteira-pacote-a-vacuo-kg",
+        "https://www.carone.com.br/media/catalog/product/cache/1/small_image/150x150/9df78eab33525d08d6e5fb8d27136e95/3/1/3104_R.jpg",
+        3208);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7444, "r$", "carrefour (shopping del rey) (r1/s4/e3)", "R$5,29", "https://www.carrefour.com.br",
-        "/sprite-limao-2-litros-5473969/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/210836-320-320?width=320&height=320&aspect=true", 9082);
+VALUES (10272, "aproximadamente 750 g", "carone supermercado (drift comercio de alimentos ltda)", "R$32,99",
+        "http://www.carone.com.br", "https://www.carone.com.br/pincanha-suina-temperada-perdig-o-nabrasa-peca-a-vacuo",
+        "https://www.carone.com.br/media/catalog/product/cache/1/small_image/150x150/9df78eab33525d08d6e5fb8d27136e95/1/8/1897_R.jpg",
+        3208);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4728, "maionese hellmanns tradicional 250 g", "carrefour (shopping del rey) (r1/s4/e3)", "R$5,19",
-        "https://www.carrefour.com.br", "/maionese-hellmann-s-tradicional-250-g-200808/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/13945823-320-320?width=320&height=320&aspect=true", 9082);
+VALUES (762, "digite um email válido", "lojas riachuelo sa", "R$15,00", "https://www.riachuelo.com.br",
+        "https://play.google.com/store/apps/details?id=br.com.riachuelo.app",
+        "https://midia.fotos-riachuelo.com.br/fotos/footer/icons/googlePlay.png", 7743);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3178, "margarina sem sal vigor 500g", "carrefour (shopping del rey) (r1/s4/e3)", "R$5,65",
-        "https://www.carrefour.com.br", "/margarina-sem-sal-vigor-500g-9726349/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/190632-320-320?width=320&height=320&aspect=true", 9082);
+VALUES (743, "banho  leve 4 pague 3", "lojas riachuelo sa", "R$21,90", "https://www.riachuelo.com.br",
+        "https://recs.richrelevance.com/rrserver/click?a=e20fd45b1e19a8c6&vg=4a5b1d76-9dbb-4fed-87f0-d15e10bf6aca&pti=9&pa=carrossel_produtos_outlet&hpi=10106&stn=TopOffers&stid=122&rti=2&sgs=&mvtId=50857&mvtTs=1616031795837&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=fbg2f81616031783531oglydee&pg=-1&p=13838130001&ind=11&ct=https%3A%2F%2Fwww.riachuelo.com.br%2Ftoalha-de-rosto-buddemeyer-100-algod-o-aimee-cinza-chumbo-48x75cm-13838130001_sku%3Fsrc_click%3Dhome_page.carrossel_produtos_outlet%26id%3D13838130001",
+        "https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/f1d8446bc3a33a5fac059f399c10c245/t/o/toalha-de-rosto-buddemeyer-100--algodao-aimee-cinza-chumbo-48x75cm-13838130_foto1_frontal.jpg",
+        7743);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7724, "adicionar", "carrefour (shopping del rey) (r1/s4/e3)", "R$2,50", "https://www.carrefour.com.br",
-        "/limao-tahiti-carrefour-500g-5737346/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/217133-320-320?width=320&height=320&aspect=true", 9082);
+VALUES (740, "r", "lojas riachuelo sa", "R$179,90", "https://www.riachuelo.com.br",
+        "https://recs.richrelevance.com/rrserver/click?a=e20fd45b1e19a8c6&vg=4a5b1d76-9dbb-4fed-87f0-d15e10bf6aca&pti=9&pa=carrossel_produtos_outlet&hpi=10106&stn=TopOffers&stid=122&rti=2&sgs=&mvtId=50857&mvtTs=1616031795837&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=fbg2f81616031783531oglydee&pg=-1&p=12373346&ind=8&ct=https%3A%2F%2Fwww.riachuelo.com.br%2Ftenis-converse-all-star-chuck-taylor-branco-12373346_sku%3Fsrc_click%3Dhome_page.carrossel_produtos_outlet%26id%3D12373346",
+        "https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/f1d8446bc3a33a5fac059f399c10c245/t/e/tenis-converse-all-star-chuck-taylor---branco-12373346_foto1_frontal.jpg",
+        7743);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7508, "refrigerante limão sukita garrafa 2 l", "carrefour (shopping del rey) (r1/s4/e3)", "R$4,19",
-        "https://www.carrefour.com.br", "/refrigerante-limao-sukita-garrafa-2-l-6231829/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10830108-320-320?width=320&height=320&aspect=true", 9082);
+VALUES (727, "mesa  leve 4 pague 3", "lojas riachuelo sa", "R$25,90", "https://www.riachuelo.com.br",
+        "https://recs.richrelevance.com/rrserver/click?a=e20fd45b1e19a8c6&vg=4a5b1d76-9dbb-4fed-87f0-d15e10bf6aca&pti=9&pa=carrosselprodutos&hpi=10106&stn=TopSellers&stid=13&rti=2&sgs=&mvtId=50857&mvtTs=1616031795837&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=fbg2f81616031783531oglydee&pg=-1&p=13481916001&ind=10&ct=https%3A%2F%2Fwww.riachuelo.com.br%2Fprato-raso-ceramica-turca-25cm-13481916001_sku%3Fsrc_click%3Dhome_page.carrosselprodutos%26id%3D13481916001",
+        "https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/f1d8446bc3a33a5fac059f399c10c245/p/r/prato-raso-ceramica-turca-25cm-13481916_foto1_frontal.jpg",
+        7743);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6166, "veja mais", "o boticário (big shopping) (r2/s2/e2)", "R$64,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/oleo-hidratante-desodorante-corporal-nativa-spa-ameixa-200ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        8906);
+VALUES (760, "basicos  leve 4 pague 3", "lojas riachuelo sa", "R$79,90", "https://www.riachuelo.com.br",
+        "https://recs.richrelevance.com/rrserver/click?a=e20fd45b1e19a8c6&vg=4a5b1d76-9dbb-4fed-87f0-d15e10bf6aca&pti=9&pa=produtosblogmobile&hpi=10106&stn=ManualRecommendationsFloating&stid=101&rti=2&sgs=&mvtId=50857&mvtTs=1616031795837&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=fbg2f81616031783531oglydee&pg=-1&mrrid=110071858&p=14082071&ind=5&ct=https%3A%2F%2Fwww.riachuelo.com.br%2Fvestido-curto-manga-longa-preto-14082071_sku%3Fsrc_click%3Dhome_page.produtosblogmobile%26id%3D14082071",
+        "https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/f1d8446bc3a33a5fac059f399c10c245/v/e/vestido-curto-manga-longa-preto-14082071_foto1_frontal.jpg",
+        7743);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3779, "4x de
-        r$ 22,48", "o boticário (big shopping) (r2/s2/e2)", "R$112,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/palette-glow-multifuncional-make-b-sun-hit/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        8906);
+VALUES (15053, "cocacola sem açúcar 15 litros", "carrefour", "R$6,15", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/coca-cola-sem-acucar-1-5-litros-7841620/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/190158-160-160?width=160&height=160&aspect=true", 3373);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6924, "r$ 89,90", "o boticário (big shopping) (r2/s2/e2)", "R$112,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/palette-glow-multifuncional-make-b-sun-hit/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        8906);
+VALUES (28296, "água mineral com gás bonafont aromatizada garrafa 127 litros", "carrefour", "R$3,99",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/agua-mineral-com-gas-bonafont-aromatizada-garrafa-1-27-litros-5600456/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/214038-160-160?width=160&height=160&aspect=true", 3373);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1881, "r$ 41,90", "o boticário (big shopping) (r2/s2/e2)", "R$41,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/delineador-liquido-para-olhos-laranja-perigo-intense-by-manu-gavassi/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        8906);
+VALUES (26893, "aparelho de barbear descartável gillette prestobarba 3 sense care leve 4 pague 3", "carrefour",
+        "R$26,50", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/aparelho-de-barbear-descartavel-gillette-prestobarba-3-sense-care-leve-4-pague-3-5052700/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/202638-160-160?width=160&height=160&aspect=true", 3373);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6920, "r$ 369,00", "o boticário (big shopping) (r2/s2/e2)", "R$369,00", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/palette-de-maquiagem-flash-back-make-b/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        8906);
+VALUES (10504, "aparelho de barbear descartável gillette prestobarba3 sensitive leve 4 pague 3", "carrefour", "R$26,50",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/aparelho-de-barbear-descartavel-gillette-prestobarba3-sensitive-leve-4-pague-3-8252297/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/930465-160-160?width=160&height=160&aspect=true", 3373);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2733, "desconto de r$ 240,00", "magalu mercado - local temporario", "R$240,00",
+VALUES (15054, "cocacola 2 litros", "carrefour", "R$8,60", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/coca-cola-2-litros-156949/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/191885-160-160?width=160&height=160&aspect=true", 3373);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (211, "tenis jogging box 200 h1937", "banban(shop.parangaba)", "R$39,99", "http://www.banbancalcados.com.br",
+        "http://www.banbancalcados.com.br/produto/90-tenis-jogging-box-200-h1937",
+        "http://static.cdnlive.com.br/uploads/621/unidade/15970929679512_thumb.jpg", 1066);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (32040, "sandália aberta infantil grendene kids barbie butterfly 22370", "banban(shop.parangaba)", "R$49,99",
+        "http://www.banbancalcados.com.br",
+        "http://www.banbancalcados.com.br/produto/sandalia-aberta-infantil-grendene-kids-barbie-butterfly-22370",
+        "http://static.cdnlive.com.br/uploads/621/produto/16019379834370_thumb.jpeg", 1066);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21562, "chinelo dedo infantil ipanema baby shark 26564", "banban(shop.parangaba)", "R$27,90",
+        "http://www.banbancalcados.com.br",
+        "http://www.banbancalcados.com.br/produto/chinelo-dedo-infantil-ipanema-baby-shark-26564",
+        "http://static.cdnlive.com.br/uploads/621/unidade/16109811533644_thumb.jpg", 1066);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (40583, "sandalia rasteira feminino amore confort 1050083", "banban(shop.parangaba)", "R$49,99",
+        "http://www.banbancalcados.com.br",
+        "http://www.banbancalcados.com.br/produto/1176-sandalia-rasteira-feminino-amore-confort-1050083",
+        "http://static.cdnlive.com.br/uploads/621/produto/16071076716640_thumb.jpeg", 1066);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (40590, "sandália anabela feminino amore confort 5014501", "banban(shop.parangaba)", "R$49,99",
+        "http://www.banbancalcados.com.br",
+        "http://www.banbancalcados.com.br/produto/sandalia-anabela-feminino-amore-confort-5014501",
+        "http://static.cdnlive.com.br/uploads/621/unidade/16142570676367_thumb.jpg", 1066);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (16960, "absorvente sempre livre 8un noturno com abas", "super conquista", "R$4,99",
+        "http://www.conquistasupermercados.com.br", "http://www.conquistasupermercados.com.br/oferta/012295",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/012295.png&w=262&h=210&zc=2",
+        7829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (11956, "848", "super conquista", "R$8,48", "http://www.conquistasupermercados.com.br",
+        "http://www.conquistasupermercados.com.br/oferta/065080",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/065080.png&w=262&h=210&zc=2",
+        7829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21306, "amac zupp 2lt", "super conquista", "R$4,99", "http://www.conquistasupermercados.com.br",
+        "http://www.conquistasupermercados.com.br/oferta/c0098",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/c0098.png&w=262&h=210&zc=2",
+        7829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (16437, "amendoim salgado zaeli 200g sem pele mostarda", "super conquista", "R$8,49",
+        "http://www.conquistasupermercados.com.br", "http://www.conquistasupermercados.com.br/oferta/060699",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/060699.png&w=262&h=210&zc=2",
+        7829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (13409, "agua sanitaria zupp 1l", "super conquista", "R$1,99", "http://www.conquistasupermercados.com.br",
+        "http://www.conquistasupermercados.com.br/oferta/005003",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/005003.png&w=262&h=210&zc=2",
+        7829);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (15072, "box  o essencial da psicologia  3 volumes", "livraria saraiva", "R$59,90", "https://www.saraiva.com.br",
+        "https://www.saraiva.com.br/box-o-essencial-da-psicologia-3-volumes-10081856/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12112051-287-426/1007393827.jpg?v=637142259294870000", 10240);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7832, "panoramas matemática  8º ano  aluno", "livraria saraiva", "R$189,00", "https://www.saraiva.com.br",
+        "https://www.saraiva.com.br/panoramas-matematica-8-ano-aluno-10617572/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12056355-221-171/1009027724.jpg?v=637141931266970000", 10240);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (28613, "box  fernando pessoa  3 volumes", "livraria saraiva", "R$129,90", "https://www.saraiva.com.br",
+        "https://www.saraiva.com.br/box-fernando-pessoa-3-volumes-10120013/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/31734064-221-171/1.jpg?v=637420757381730000", 10240);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7828, "aprender juntos  geografia  3º ano  ed 2018", "livraria saraiva", "R$165,00",
+        "https://www.saraiva.com.br", "https://www.saraiva.com.br/aprender-juntos-geografia-3-ano-ed-2018-10330428/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/12113792-221-171/1005705272.jpg?v=637142265654430000", 10240);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (9393, "box  o mágico de oz  3 volumes  acompanha 1 pôster", "livraria saraiva", "R$69,90",
+        "https://www.saraiva.com.br",
+        "https://www.saraiva.com.br/box-o-magico-de-oz-3-volumes-acompanha-1-poster-10652259/p",
+        "https://lojasaraiva.vteximg.com.br/arquivos/ids/13679630-221-171/capa1.jpg?v=637176461121700000", 10240);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21396, "cortina de renda  copa e cozinha  pratos  branco  220m x 120m  p varão  cortilester",
+        "magazine luiza - sen. lemos", "R$56,90", "https://www.magazineluiza.com.br",
+        "https://www.magazineluiza.com.br/cortina-de-renda-copa-e-cozinha-pratos-branco-220m-x-120m-p-varao-cortilester/p/6086219/cm/ccoz/",
+        "https://a-static.mlcdn.com.br/210x210/cortina-de-renda-copa-e-cozinha-pratos-branco-220m-x-120m-p-varao-cortilester/blancodecoracoes/1456/3a096c03cae4c5c93a593adee10ca694.jpg",
+        9651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (15366, "desconto de r 9810", "magazine luiza - sen. lemos", "R$98,10", "https://www.magazineluiza.com.br",
+        "https://www.magazineluiza.com.br/escrivaninha-demobile-office-presence/p/122580207/mo/meav/",
+        "https://a-static.mlcdn.com.br/210x210/escrivaninha-demobile-office-presence/magazineluiza/122580207/db9d35b56c6052ed93feaf203893b356.jpg",
+        9651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (8929, "suporte de parede  dobravel branco 40cm o par p mesasprateleiras e bancadas  virtude móveis",
+        "magazine luiza - sen. lemos", "R$79,99", "https://www.magazineluiza.com.br",
+        "https://www.magazineluiza.com.br/suporte-de-parede-dobravel-branco-40cm-o-par-p-mesas-prateleiras-e-bancadas-virtude-moveis/p/hhf6j80dgh/rc/rcnm/",
+        "https://a-static.mlcdn.com.br/210x210/suporte-de-parede-dobravel-branco-40cm-o-par-p-mesas-prateleiras-e-bancadas-virtude-moveis/virtudemoveis/10971798250/5efa9b792ae6b99748f46485e3442c88.jpg",
+        9651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21402, "cortina de renda  copa e cozinha  van dyk  branco  220m x 120m  p varão  cortilester",
+        "magazine luiza - sen. lemos", "R$59,90", "https://www.magazineluiza.com.br",
+        "https://www.magazineluiza.com.br/cortina-de-renda-copa-e-cozinha-van-dyk-branco-220m-x-120m-p-varao-cortilester/p/6792383/cm/ccoz/",
+        "https://a-static.mlcdn.com.br/210x210/cortina-de-renda-copa-e-cozinha-van-dyk-branco-220m-x-120m-p-varao-cortilester/blancodecoracoes/1452/7384f8b55c56a9f2fee60ca5a1b2a195.jpg",
+        9651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (15373, "escrivaninha com estante lateral multimóveis branco", "magazine luiza - sen. lemos", "R$150,00",
         "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/ak971bf421/?url=https://www.magazineluiza.com.br/painel-nairobi-plus-para-tv-ate-60-branco-acetinado-texturizado-multimoveis/p/ak971bf421/mo/mopa/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 5987);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (475, "desconto de r$ 1.311,00", "magalu mercado - local temporario", "R$1.311,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155608700/?url=https://www.magazineluiza.com.br/iphone-11-apple-64gb-preto-61-12mp-ios/p/155608700/te/ip11/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 5987);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4832, "r$ 314,91", "magalu mercado - local temporario", "R$240,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/ak971bf421/?url=https://www.magazineluiza.com.br/painel-nairobi-plus-para-tv-ate-60-branco-acetinado-texturizado-multimoveis/p/ak971bf421/mo/mopa/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 5987);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5721, "geladeira/refrigerador consul frost free duplex evox 397l cre44ak", "magalu mercado - local temporario",
-        "R$1.901,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/013087200/?url=https://www.magazineluiza.com.br/geladeira-refrigerador-consul-frost-free-duplex-evox-397l-cre44ak/p/013087200/ed/rinv/",
-        "https://i.mlcdn.com.br/selo-ml/60x44/0c238dee-7eca-11eb-aed7-fa21eacd2618.png", 5987);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3904, "aparelho de jantar chá 20 peças biona cerâmica redondo donna", "magalu mercado - local temporario",
-        "R$60,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/143282000/?url=https://www.magazineluiza.com.br/aparelho-de-jantar-cha-20-pecas-biona-ceramica-redondo-donna/p/143282000/ud/apja/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 5987);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4766, "espátula lanossi para cutículas", "mercado pão  de açucar", "R$10,57", "https://www.paodeacucar.com",
-        "/produto/558665/espatula-lanossi-para-cuticulas",
-        "https://static.paodeacucar.com/img/uploads/1/855/11806855x200x200.jpeg", 13287);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1706, "saco para lixo com redução de odores para pia e banheiro qualitá 34cm x 38cm com 50 unidades",
-        "mercado pão  de açucar", "R$11,99", "https://www.paodeacucar.com",
-        "/produto/166613/saco-para-lixo-com-reducao-de-odores-para-pia-e-banheiro-qualita-34cm-x-38cm-com-50-unidades",
-        "https://static.paodeacucar.com/img/uploads/1/947/633947x200x200.png", 13287);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6754, "vinho champagne francês brut reserve taittinger garrafa 1, 5 l", "mercado pão  de açucar", "R$999,99",
-        "https://www.paodeacucar.com", "/produto/431581/vinho-champagne-frances-brut-reserve-taittinger-garrafa-1,-5-l",
-        "https://static.paodeacucar.com/img/uploads/1/208/619208x200x200.png", 13287);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3749, "r$7,49", "mercado pão  de açucar", "R$7,49", "https://www.paodeacucar.com",
-        "/produto/7176/saco-plastico-para-feezer-e-geladeira-qualita-3-litros-com-20-unidades",
-        "https://static.paodeacucar.com/img/uploads/1/624/633624x200x200.png", 13287);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7308, "r$62,99", "mercado pão  de açucar", "R$62,99", "https://www.paodeacucar.com",
-        "/produto/427664/saco-para-lixo-embalixo-reforcado-profissional-50-litros-",
-        "https://static.paodeacucar.com/img/uploads/1/387/575387x200x200.png", 13287);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4815, "yaz com 24+4 comprimidos revestidos", "pague menos - joão paulo", "R$83,76",
-        "http://www.paguemenos.com.br", "/yaz-com-24mais4-comprimidos-revestidos/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 13129);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4816, "yaz flex 3mg+0,02mg com 30 comprimidos", "pague menos - joão paulo", "R$104,68",
-        "http://www.paguemenos.com.br", "/yaz-flex-3mgmais0-02mg-com-30-comprimidos/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 13129);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (167, "dipirona sódica 10ml genérico medley", "pague menos - joão paulo", "R$9,84",
-        "http://www.paguemenos.com.br", "/dipirona-sodica-10ml-generico-medley/p",
-        "https://paguemenos.vtexassets.com/arquivos/ids/280193-500-auto?width=500&height=auto&aspect=true", 13129);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (165, "dipirona sódica 500mg/20ml genérico ems", "pague menos - joão paulo", "R$11,27",
-        "http://www.paguemenos.com.br", "/dipirona-sodica-500mg-20ml-generico-ems/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-leve2-pague1-140x32.png", 13129);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8012, "quantidade", "pague menos - joão paulo", "R$6,06", "http://www.paguemenos.com.br",
-        "/dipirona-sodica-500mg-10ml-generico-ems/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-leve2-pague1-140x32.png", 13129);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5001, "btx repositor de massa southliss 1 kg", "mercado pão  de açucar", "R$197,89",
-        "https://www.paodeacucar.com", "/produto/516974/btx-repositor-de-massa-southliss-1-kg",
-        "https://static.paodeacucar.com/img/uploads/1/444/9843444x200x200.jpeg", 15641);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1996, "ração para papagaio tropical megazoo 700g", "mercado pão  de açucar", "R$56,80",
-        "https://www.paodeacucar.com", "/produto/490189/racao-para-papagaio-tropical-megazoo-700g",
-        "https://static.paodeacucar.com/img/uploads/1/286/1766286x200x200.jpeg", 15641);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1131, "uva vermelha sem semente qualitá 500g", "mercado pão  de açucar", "R$8,98",
-        "https://www.paodeacucar.com", "/produto/101133/uva-vermelha-sem-semente-qualita-500g",
-        "https://static.paodeacucar.com/img/uploads/1/683/10544683x200x200.jpg", 15641);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4997, "queijo coalho tradicional qualitá pacote 380g", "mercado pão  de açucar", "R$21,35",
-        "https://www.paodeacucar.com", "/produto/434002/queijo-coalho-tradicional-qualita-pacote-380g",
-        "https://static.paodeacucar.com/img/uploads/1/729/634729x200x200.png", 15641);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1132, "gelatina em pó sabor uva royal 35g", "mercado pão  de açucar", "R$1,19", "https://www.paodeacucar.com",
-        "/produto/144793/gelatina-em-po-sabor-uva-royal-35g",
-        "https://static.paodeacucar.com/img/uploads/1/756/634756x200x200.png", 15641);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5912, "09", "carrefour bairro", "R$8,09", "https://www.carrefour.com.br",
-        "/farinha-de-mandioca-fina-crua-yoki-1kg-3739171/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10408830-320-320?width=320&height=320&aspect=true", 6066);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3381, "00", "carrefour bairro", "R$25,00", "https://www.carrefour.com.br",
-        "/file-mignon-suino-congelado-peca-gran-corte-700g-5842590/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/218850-320-320?width=320&height=320&aspect=true", 6066);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8177, "aveia em flocos finos integral quaker 165g", "carrefour bairro", "R$3,15",
-        "https://www.carrefour.com.br", "/aveia-em-flocos-finos-integral-quaker-165g-5912989/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/219676-320-320?width=320&height=320&aspect=true", 6066);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8174, "aveia em flocos finos integral quaker 450g", "carrefour bairro", "R$6,60",
-        "https://www.carrefour.com.br", "/aveia-em-flocos-finos-integral-quaker-450g-5925568/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/219640-320-320?width=320&height=320&aspect=true", 6066);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8179, "aveia em flocos orgânica nestlé 170 g", "carrefour bairro", "R$6,80", "https://www.carrefour.com.br",
-        "/aveia-em-flocos-organica-nestle-170-g-5829291/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/11486551-320-320?width=320&height=320&aspect=true", 6066);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2031, "+ acer nitro", "magazine luiza", "R$2.500,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/notebook-gamer-acer-nitro-5-intel-core-i5-16gb-512gbssd-156-full-hd-144hz-nvidia-gtx1650ti-4gb/p/227755000/in/acnt/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 10448);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2048, "+ chromebook", "magazine luiza", "R$500,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/notebook-acer-dual-core-chromebook-r721t-488h-116-amd-a-series-4gb-32gb-chrome-os-preto/p/eb2360k131/in/chro/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 10448);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2027, "+ positivo motion", "magazine luiza", "R$200,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/notebook-positivo-motion-red-q464c-intel-atom-quad-core-4gb-64gb-emmc-64gb-nuvem-141-led/p/135301500/in/ptvm/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 10448);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2034, "+ notebook", "magazine luiza", "R$900,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-s145-intel-core-i5-8gb-256gb-ssd-156-placa-de-video-2gb-windows-10/p/226554400/in/note/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 10448);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2064, "+ lenovo ideapad", "magazine luiza", "R$3.599,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/notebook-lenovo-ultrafino-ideapad-s145-ryzen-5-8gb-1tb-linux-15-6-81v7s00100-prata/p/cg1ejgk5ha/in/leip/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 10448);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5414, "beterraba vermelha com folhas carrefour 400g", "carrefour", "R$9,29", "https://www.carrefour.com.br",
-        "/beterraba-vermelha-com-folhas-carrefour-400g-7745222/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/12966488-320-320?width=320&height=320&aspect=true", 9386);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6244, "r$", "carrefour", "R$6,69", "https://www.carrefour.com.br",
-        "/rabanete-vermelho-em-maco-hasegawa-7745117/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/205267-320-320?width=320&height=320&aspect=true", 9386);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4990, "preço a vista:", "carrefour", "R$5,19", "https://www.carrefour.com.br",
-        "/beterraba-vermelha-carrefour-180g-5743451/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/217335-320-320?width=320&height=320&aspect=true", 9386);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6246, "17%", "carrefour", "R$78,10", "https://www.carrefour.com.br",
-        "/fralda-huggies-xxg-supreme-care-hiper-52-unidades-5029520/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/252331-320-320?width=320&height=320&aspect=true", 9386);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5416, "beterraba vermelha carrefour 180g", "carrefour", "R$5,19", "https://www.carrefour.com.br",
-        "/beterraba-vermelha-carrefour-180g-5743451/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/217335-320-320?width=320&height=320&aspect=true", 9386);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5669,
-        "o kit floratta rose é o presente completo para quem você ama. ele acompanha o desodorante colônia, shower gel, hidratante corporal e um nécessaire.",
-        "boticário", "R$195,60", "https://www.boticario.com.br", "https://www.boticario.com.br/kit-floratta-rose/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        1015);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8141, "accordes", "boticário", "R$215,70", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/kit-accordes-accordes/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        1015);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5661, "espelho secreto body splash desodorante colônia 200ml", "boticário", "R$74,90",
-        "https://www.boticario.com.br",
-        "https://www.boticario.com.br/body-splash-desodorante-dream-espelho-secreto-200ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        1015);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5254, "o boticário", "boticário", "R$198,70", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/kit-presente-natal-egeo-choc-desodorante-colonia-90ml-antitranspirante-75g-sufle-desodorante-hidratante-corporal-250g/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        1015);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5237, "l´amore desodorante colônia 75ml", "boticário", "R$109,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/floratta-lamore-desodorante-colonia-75ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        1015);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2416, "geladeira/refrigerador consul frost free duplex evox 397l cre44ak", "magalu esportes - loja temporária",
-        "R$1.901,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/013087200/?url=https://www.magazineluiza.com.br/geladeira-refrigerador-consul-frost-free-duplex-evox-397l-cre44ak/p/013087200/ed/rinv/",
-        "https://i.mlcdn.com.br/selo-ml/60x44/0c238dee-7eca-11eb-aed7-fa21eacd2618.png", 15509);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2415, "iphone 11 apple 128gb preto 6,1” 12mp ios mhdh3bz/a", "magalu esportes - loja temporária", "R$1.400,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155609300/?url=https://www.magazineluiza.com.br/iphone-11-apple-128gb-preto-61-12mp-ios-mhdh3bz-a/p/155609300/te/ip11/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 15509);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5889, "kit fraldas pom pom protek proteção de mãe tam. g 40 und cada 4 pacotes",
-        "magalu esportes - loja temporária", "R$100,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/229219600/?url=https://www.magazineluiza.com.br/kit-fraldas-pom-pom-protek-protecao-de-mae-tam-g-40-und-cada-4-pacotes/p/229219600/me/fdes/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 15509);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5879, "iphone 11 apple 64gb preto 6,1” 12mp ios", "magalu esportes - loja temporária", "R$1.311,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155608700/?url=https://www.magazineluiza.com.br/iphone-11-apple-64gb-preto-61-12mp-ios/p/155608700/te/ip11/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 15509);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (130, "desconto de r$ 1.311,00", "magalu esportes - loja temporária", "R$1.311,00",
-        "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/155608700/?url=https://www.magazineluiza.com.br/iphone-11-apple-64gb-preto-61-12mp-ios/p/155608700/te/ip11/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 15509);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5440, "r$2.139,99", "pão de acuçar", "R$2.139,99", "https://www.paodeacucar.com",
-        "/produto/479784/experimentos-com-tubos",
-        "https://static.paodeacucar.com/img/uploads/1/707/680707x200x200.jpeg", 13951);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8035, "porta shoyu gourmet mix", "pão de acuçar", "R$10,77", "https://www.paodeacucar.com",
-        "/produto/533441/porta-shoyu-gourmet-mix",
-        "https://static.paodeacucar.com/img/uploads/1/908/11448908x200x200.jpeg", 13951);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5439, "cadeado com segredo", "pão de acuçar", "R$5,90", "https://www.paodeacucar.com",
-        "/produto/505987/cadeado-com-segredo", "https://static.paodeacucar.com/img/uploads/1/623/6723623x200x200.jpeg",
-        13951);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6564, "achocolatado em pó nestlé galak 200g", "pão de acuçar", "R$6,89", "https://www.paodeacucar.com",
-        "/produto/442930/achocolatado-em-po-nestle-galak-200g",
-        "https://static.paodeacucar.com/img/uploads/1/627/670627x200x200.jpg", 13951);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1682, "kit com 3 maggi creme cebola sachê 68g + creme de leite leve nestlé tradicional 200g", "pão de acuçar",
-        "R$18,72", "https://www.paodeacucar.com",
-        "/produto/553422/kit-com-3-maggi-creme-cebola-sache-68g-+-creme-de-leite-leve-nestle-tradicional-200g",
-        "https://static.paodeacucar.com/img/uploads/1/363/11728363x200x200.png", 13951);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2309, "azeite extra virgem clássico oliveira da serra 500ml", "carrefour", "R$20,90",
-        "https://www.carrefour.com.br", "/azeite-extra-virgem-classico-oliveira-da-serra-500ml-5512433/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/212529-320-320?width=320&height=320&aspect=true", 3373);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7356, "r$", "carrefour", "R$5,10", "https://www.carrefour.com.br", "/coca-cola-1-litro-915149/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/198877-320-320?width=320&height=320&aspect=true", 3373);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2307, "refrigerante limão sukita garrafa 2 l", "carrefour", "R$4,19", "https://www.carrefour.com.br",
-        "/refrigerante-limao-sukita-garrafa-2-l-6231829/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/10830108-320-320?width=320&height=320&aspect=true", 3373);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3188, "05", "carrefour", "R$2,05", "https://www.carrefour.com.br", "/coca-cola-220ml-9972935/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/199536-320-320?width=320&height=320&aspect=true", 3373);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7000, "coca-cola 200ml", "carrefour", "R$1,50", "https://www.carrefour.com.br", "/coca-cola-200ml-9882375/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/200264-320-320?width=320&height=320&aspect=true", 3373);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5996, "yaz com 24+4 comprimidos revestidos", "farmácia pague menos  (espinheiro)", "R$83,76",
-        "http://www.paguemenos.com.br", "/yaz-com-24mais4-comprimidos-revestidos/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 5276);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5995, "yaz com 24 comprimidos", "farmácia pague menos  (espinheiro)", "R$84,79", "http://www.paguemenos.com.br",
-        "/yaz-com-24-comprimidos/p", "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 5276);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2860, "paracetamol 750 mg envelope com 4 comprimidos genérico ems", "farmácia pague menos  (espinheiro)",
-        "R$3,62", "http://www.paguemenos.com.br", "/paracetamol-750-mg-envelope-com-4-comprimidos-generico-ems/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-leve2-pague1-140x32.png", 5276);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1258, "quantidade", "farmácia pague menos  (espinheiro)", "R$83,76", "http://www.paguemenos.com.br",
-        "/yaz-com-24mais4-comprimidos-revestidos/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 5276);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5997, "yaz flex 3mg+0,02mg com 30 comprimidos", "farmácia pague menos  (espinheiro)", "R$104,68",
-        "http://www.paguemenos.com.br", "/yaz-flex-3mgmais0-02mg-com-30-comprimidos/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 5276);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4616,
-        "o poder do caviar verde unido ao óleo nutritivo da quinoa aumentam a produção de colágeno e elastina. ideal para proteger e hidratar a pele no banho.",
-        "o boticário", "R$64,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/oleo-desodorante-hidratante-corporal-nativa-spa-caviar-200ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        10563);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7044, "r$ 11,90", "o boticário", "R$11,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/sabonete-em-barra-massageador-nativa-spa-rose-90-g/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        10563);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2478, "r$ 43,90", "o boticário", "R$43,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/locao-revitalizante-desodorante-corporal-nativa-spa-rose-200-ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        10563);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7986, "3x de
-        r$ 20,63", "o boticário", "R$61,90", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/locao-hidratante-corporal-desodorante-nativa-spa-ameixa-400ml/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        10563);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8416,
-        "compre online o combo nativa spa rosé: shampoo, 300 ml + condicionador, 300 ml + óleo precioso multibenefícios, 50 ml de o boticário. confira!",
-        "o boticário", "R$153,70", "https://www.boticario.com.br",
-        "https://www.boticario.com.br/combo-nativa-spa-rose-shampoo-300-ml-condicionador-300-ml-oleo-precioso-multibeneficios-50-ml-nativa-spa/",
-        "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/v1/blz/assets-store/0.0.285/images/statics/p.gif",
-        10563);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4026, "cabo usb tipo c moto z play z2 x4 g6 g8 g7 edge one fusion macro autorizada motorola -",
-        "magazine luiza - 04", "R$52,25", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/cabo-usb-tipo-c-moto-z-play-z2-x4-g6-g8-g7-edge-one-fusion-macro-autorizada-motorola/p/hchg9aje3a/te/cbpc/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 14374);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3823, "smartphone lg k52 64gb cinza 4g octa-core 3gb ram - tela 6,6” câm. quádrupla + selfie 8mp dual chip",
-        "magazine luiza - 04", "R$300,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/smartphone-lg-k52-64gb-cinza-4g-octa-core-3gb-ram-tela-66-cam-quadrupla-selfie-8mp-dual-chip/p/155593000/te/telg/",
-        "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k52-64gb-cinza-4g-octa-core-3gb-ram-tela-66-cam-quadrupla-selfie-8mp-dual-chip/magazineluiza/155593000/6f4eefb28489f2e25f86d1f113ce8d67.jpg",
-        14374);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6884, "smartphone motorola g9 play tela 6.5 polegadas full hd 64gb câmera tripla traseira 4gb ram -",
-        "magazine luiza - 04", "R$219,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/smartphone-motorola-g9-play-tela-6-5-polegadas-full-hd-64gb-camera-tripla-traseira-4gb-ram/p/jb2fb068f5/te/g9py/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 14374);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6855, "smartphone moto g9 play rosa  motorola -", "magazine luiza - 04", "R$1.498,00",
-        "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/smartphone-moto-g9-play-rosa-motorola/p/kbbaeh7f3a/te/g9py/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 14374);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3860, "smartphone lg k62 64gb vermelho 4g octa-core - 4gb ram tela 6,59” câm. quádrupla + selfie 13mp",
-        "magazine luiza - 04", "R$380,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/smartphone-lg-k62-64gb-vermelho-4g-octa-core-4gb-ram-tela-659-cam-quadrupla-selfie-13mp/p/155593400/te/telg/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 14374);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7187, "fogão 6 bocas esmaltec caribe - preto -", "magazine luiza - icoaraci", "R$786,45",
-        "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/fogao-6-bocas-esmaltec-caribe-preto/p/fe6bke3j7f/ed/fogo/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 6085);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8160, "guarda roupa casal com espelho 3 portas de correr lara espresso móveis branco",
-        "magazine luiza - icoaraci", "R$520,79", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/840117300/?url=https://www.magazineluiza.com.br/guarda-roupa-casal-com-espelho-3-portas-de-correr-lara-espresso-moveis-branco/p/8401173/mo/guro/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 6085);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7213, "r$ 79,00", "magazine luiza - icoaraci", "R$117,00", "https://www.magazineluiza.com.br",
-        "https://rgr.bob-recs.com/interactions/click/temp_3806fc40-8611-11eb-ba7a-ef20b7e5abc0/RU1QVFlfU0VBUkNIO2NlcmVicm9fdHJlbmRzaW50ZXJlc3Q7bWFnYXppbmVfZWNvbW0/220907400/?url=https://www.magazineluiza.com.br/kit-ferramentas-sparta-129-pecas-13564-com-maleta/p/220907400/fs/fjgf/",
-        "https://i.mlcdn.com.br/selo-ml/60x44/0c238dee-7eca-11eb-aed7-fa21eacd2618.png", 6085);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7186, "fogão 5 bocas dako branco acendimento automático - supreme", "magazine luiza - icoaraci", "R$436,10",
-        "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/fogao-5-bocas-dako-branco-acendimento-automatico-supreme/p/012298201/ed/fg5b/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 6085);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7147, "desconto de r$ 210,00", "magazine luiza - icoaraci", "R$210,00", "https://www.magazineluiza.com.br",
-        "https://www.magazineluiza.com.br/fogao-de-piso-consul-5-bocas-branco-com-acendimento-automatico-e-botoes-removiveis/p/8347310/ed/fg5b/",
-        "https://site-content.magazineluiza.com.br/static/img/default/white1x1-e0a7e4ed.gif", 6085);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2946, "adicionar", "carrefour", "R$16,40", "https://www.carrefour.com.br",
-        "/alvejante-sem-cloro-carrefour-2-litros-9268030/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/189865-320-320?width=320&height=320&aspect=true", 7587);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7576, "15", "carrefour", "R$15,15", "https://www.carrefour.com.br", "/fio-dental-colgate-total-25-m-8373990/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/191081-320-320?width=320&height=320&aspect=true", 7587);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5005, "fio dental oral b pro saúde 25m", "carrefour", "R$17,69", "https://www.carrefour.com.br",
-        "/fio-dental-oral-b-pro-saude-25m-8782571/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/200113-320-320?width=320&height=320&aspect=true", 7587);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4094, "7", "carrefour", "R$7,29", "https://www.carrefour.com.br", "/fio-dental-carrefour-menta-100m-5658063/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/215725-320-320?width=320&height=320&aspect=true", 7587);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1284, "10", "carrefour", "R$10,89", "https://www.carrefour.com.br",
-        "/fio-dental-oral-b-essential-floss-50m-3933148/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/210112-320-320?width=320&height=320&aspect=true", 7587);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7737, "leite fermentado desnatado elegê bob esponja sabor uva 80g com 6 unidades", "carrefour (norte shopping)",
-        "R$5,40", "https://www.carrefour.com.br",
-        "/leite-fermentado-desnatado-elege-bob-esponja-sabor-uva-80g-com-6-unidades-8037345/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/201924-320-320?width=320&height=320&aspect=true", 8700);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7736, "leite fermentado desnatado chamyto 720g 6 unidades", "carrefour (norte shopping)", "R$8,10",
-        "https://www.carrefour.com.br", "/leite-fermentado-desnatado-chamyto-720g-6-unidades-7566093/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/190371-320-320?width=320&height=320&aspect=true", 8700);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5446, "iogurte semidesnatado fazenda bela vista com polpa de frutas vermelhas 180g",
-        "carrefour (norte shopping)", "R$1,99", "https://www.carrefour.com.br",
-        "/iogurte-semidesnatado-fazenda-bela-vista-com-polpa-de-frutas-vermelhas-180g-9631992/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/190339-320-320?width=320&height=320&aspect=true", 8700);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (4257, "molho de tomate tradicional pomarola 520g", "carrefour (norte shopping)", "R$4,89",
-        "https://www.carrefour.com.br", "/molho-de-tomate-tradicional-pomarola-520g-8912645/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/193599-320-320?width=320&height=320&aspect=true", 8700);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3409, "iogurte integral activia café da manhã amaranto e mamão com grãos e frutas 170g",
-        "carrefour (norte shopping)", "R$5,75", "https://www.carrefour.com.br",
-        "/iogurte-integral-activia-cafe-da-manha-amaranto-e-mamao-com-graos-e-frutas-170g-5804272/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/218419-320-320?width=320&height=320&aspect=true", 8700);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8296, "diamicron mr 60mg com 60 comprimidos", "pague menos farmácias", "R$151,81",
-        "http://www.paguemenos.com.br", "/diamicron-mr-60mg-com-60-comprimidos/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 5227);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (456, "yaz com 24+4 comprimidos revestidos", "pague menos farmácias", "R$83,76", "http://www.paguemenos.com.br",
-        "/yaz-com-24mais4-comprimidos-revestidos/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 5227);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8297, "diamicron mr 60mg com 30 comprimidos", "pague menos farmácias", "R$75,88",
-        "http://www.paguemenos.com.br", "/diamicron-mr-60mg-com-30-comprimidos/p",
-        "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 5227);
-INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (32, "quantidade", "pague menos farmácias", "R$27,99", "http://www.paguemenos.com.br",
-        "/luva-pague-menos-nitrylex-black-tamanho-m-com-50-unidades/p",
+        "https://www.magazineluiza.com.br/escrivaninha-com-estante-lateral-multimoveis-branco/p/gha6717hbe/mo/meav/",
+        "https://a-static.mlcdn.com.br/210x210/escrivaninha-com-estante-lateral-multimoveis-branco/multimoveis2/mp2561697/4a765894caa797453fc24c3b70438067.jpg",
+        9651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18723,
+        "big foot pickup bombeiro monster rescue team com acessórios  usual brinquedos  ref 471  vermelha com detalhes em amarelo branco e preto",
+        "lojas americanas on line", "R$25,90", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/1704372902?pfm_carac=team-up&pfm_index=6&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Team+UP",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1704372/9/1704372911G1.jpg", 15237);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18724, "ioio blazing team lights up revelador de raios sortido b5963", "lojas americanas on line", "R$109,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/1483280042?pfm_carac=team-up&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Team+UP",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1483280/0/1483280077G1.jpg", 15237);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (32606, "r", "lojas americanas on line", "R$42,99", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/6597728?pfm_carac=up-4&pfm_index=2&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=UP+4",
+        "https://images-americanas.b2w.io/produtos/01/00/item/6597/7/6597728G1.jpg", 15237);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (41517, "blusa mc b dis n vilas team mp g b818", "lojas americanas on line", "R$39,99",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/1960514851?pfm_carac=team&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Team",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1960514/8/1960514869G1.jpg", 15237);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (16350, "camiseta bts bangtan boys team v2 kpop raglan 34 unissex", "lojas americanas on line", "R$42,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2779583982?pfm_carac=team-4&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Team+4",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2779584/0/2779584053G1.jpg", 15237);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (3505, "16 off", "marisa lojas varejistas ltda", "R$11,99", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/kit-2-pares-meia-modelo-soquete-marisa-branco/p/10024407380?text=MODELO",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h68/h75/8816666869790/Kit-2-pares-meia-modelo-Soquete-Marisa-null-10024407397-C1.jpg",
+        4015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21438, "detalhes", "marisa lojas varejistas ltda", "R$9,99", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/meia-cal%c3%a7a-fio-15-news-loba--bege/p/10022758064?text=TIPO",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h44/h5a/11425781973022/Meia-Calca-Fio-15-News-Loba-10022758088-C1.jpg",
+        4015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21435, "44 off", "marisa lojas varejistas ltda", "R$119,95", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/pochete-feminina-metelass%c3%aa-gio-antonelli-preto/p/10044203962?text=TIPO",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/hc2/h0d/12314163085342/VIRT-POCH-FEM-GIAN-PRETO-GIO7901-PTO-10044203979-C1.jpg",
+        4015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (36778, "cupons de até 30 off", "marisa lojas varejistas ltda", "-1", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/euquerocupom",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h15/hcc/11606423404574/20181211-banner-promo-AdoroCupom.gif",
+        4015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (32895, "subtotal", "marisa lojas varejistas ltda", "R$0,00", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/store-finder?text=SLIP%20MODELO%20B%C3%81SICO", "-1", 4015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (23042, "ventilador mondial v30 6 pás", "lojas americanas", "R$101,62", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2480688843?pfm_carac=pas&pfm_index=3&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=p%C3%A1s",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2480688/8/2480688860G1.jpg", 16306);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (563, "cafeteira expresso nescafé dolce gusto genio s basic arno branca  dgs1 15 bar", "lojas americanas",
+        "R$399,99", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2026697635?pfm_carac=arno&pfm_index=1&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Arno",
+        "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/2026697/6/2026697635G1.jpg", 16306);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (566, "12", "lojas americanas", "R$369,90", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/1698456359?pfm_carac=arno&pfm_index=4&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Arno",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1698456/3/1698456367G1.jpg", 16306);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (37747, "ventilador de coluna ventisol premium 6 pás 40cm", "lojas americanas", "R$225,08",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/63757075?pfm_carac=40cm-6&pfm_index=6&pfm_page=search&pfm_pos=grid&pfm_type=search_page",
+        "https://images-americanas.b2w.io/produtos/01/00/img/63757/0/63757073G1.jpg", 16306);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (23045, "pá quadrada com cabo número 3 referência77464434  tramontina", "lojas americanas", "R$28,61",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2324568461?pfm_carac=pas&pfm_index=6&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=p%C3%A1s",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2324568/5/2324568516G1.jpg", 16306);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (28803, "mirtazapina 30mg com 30 comprimidos generico medley", "pague menos farmácias", "R$186,33",
+        "http://www.paguemenos.com.br",
+        "https://www.paguemenos.com.br/mirtazapina-30mg-com-30-comprimidos-generico-medley/p",
+        "https://paguemenos.vtexassets.com/arquivos/ids/279805-500-auto?width=500&height=auto&aspect=true", 5227);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (40031, "diamicron mr 30mg com 30 comprimidos", "pague menos farmácias", "R$37,96",
+        "http://www.paguemenos.com.br", "https://www.paguemenos.com.br/diamicron-mr-30mg-com-30-comprimidos/p",
+        "https://paguemenos.vtexassets.com/arquivos/ids/209031-500-auto?width=500&height=auto&aspect=true", 5227);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (32173, "monaless caixa com 60 cápsulas", "pague menos farmácias", "R$112,83", "http://www.paguemenos.com.br",
+        "https://www.paguemenos.com.br/monaless-caixa-com-60-capsulas/p",
+        "https://paguemenos.vtexassets.com/arquivos/ids/205820-500-auto?width=500&height=auto&aspect=true", 5227);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (256, "engov caixa 24 comprimidos", "pague menos farmácias", "R$18,22", "http://www.paguemenos.com.br",
+        "https://www.paguemenos.com.br/engov-com-24-comprimidos/p",
+        "https://paguemenos.vtexassets.com/arquivos/selo-super-oferta-140x32.png", 5227);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (11782, "luva pague menos nitrylex black tamanho m com 50 unidades", "pague menos farmácias", "R$27,99",
+        "http://www.paguemenos.com.br",
+        "https://www.paguemenos.com.br/luva-pague-menos-nitrylex-black-tamanho-m-com-50-unidades/p",
         "https://paguemenos.vtexassets.com/arquivos/ids/259486-500-auto?width=500&height=auto&aspect=true", 5227);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (455, "yaz com 24 comprimidos", "pague menos farmácias", "R$84,79", "http://www.paguemenos.com.br",
-        "/yaz-com-24-comprimidos/p", "https://paguemenos.vtexassets.com/arquivos/selo-desconto-pbm-140x32.png", 5227);
+VALUES (5272, "camiseta masculina estampa frontal manga curta mr", "marisa", "R$39,99", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/camiseta-masculina-estampa-frontal-manga-curta-mr-cinza/p/10045481000?text=CAMISETA",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/ha2/h69/12589341507614/CAMISETA-MC-WORLD-TOUR-ESTONADA-PTO-M-10045481024-C1.jpg",
+        3642);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3016, "maminha à vácuo peça carrefour 1 kg", "hipermercado   carrefour - 04", "R$33,69",
-        "https://www.carrefour.com.br", "/maminha-a-vacuo-peca-carrefour-1-kg-6374760/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/14034931-320-320?width=320&height=320&aspect=true", 2562);
+VALUES (5266, "camiseta juvenil estampa bart simpsons tam 10 a 16", "marisa", "R$25,99", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/camiseta-juvenil-estampa-bart-simpsons-tam-10-a-16-amarelo/p/10046518675?text=CAMISETA",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/hc5/he9/12591912878110/TOP-MC-MASS-SIMPSONS-AMARELO-AMA-16-10046518699-C1.jpg",
+        3642);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1877, "café torrado e moído tradicional carrefour 500g", "hipermercado   carrefour - 04", "R$7,55",
-        "https://www.carrefour.com.br", "/cafe-torrado-e-moido-tradicional-carrefour-500g-5657865/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/215623-320-320?width=320&height=320&aspect=true", 2562);
+VALUES (13005, "camiseta infantil ben 10 warner tam 4 a 10", "marisa", "R$25,99", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/camiseta-infantil-ben-10-warner-tam-4-a-10-verde/p/10045690679?text=INFANTIL%20CAMISETA",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h7c/hba/12552048902174/CAMISETA-MASS-BEN-10-VDE-6-10045690716-C1.jpg",
+        3642);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1872, "café torrado e moído carrefour colombia 250g", "hipermercado   carrefour - 04", "R$22,55",
-        "https://www.carrefour.com.br", "/cafe-torrado-e-moido-carrefour-colombia-250g-5749131/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/217480-320-320?width=320&height=320&aspect=true", 2562);
+VALUES (5275, "camiseta masculina estampa frontal manga curta", "marisa", "R$39,99", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/camiseta-masculina-estampa-frontal-manga-curta-cinza/p/10044148911?text=CAMISETA",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/heb/hed/12335859073054/VIRT-CAMIS-MASC-CHUMBO-8300432-B-CIE-M-10044148935-C1.jpg",
+        3642);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1873, "café torrado e moído carrefour ethiopia 250g", "hipermercado   carrefour - 04", "R$21,95",
-        "https://www.carrefour.com.br", "/cafe-torrado-e-moido-carrefour-ethiopia-250g-5748585/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/217413-320-320?width=320&height=320&aspect=true", 2562);
+VALUES (13008, "camiseta infantil jovens titãs warner tam 4 a 10", "marisa", "R$25,99", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/camiseta-infantil-jovens-tit%c3%a3s-warner-tam-4-a-10-azul/p/10045890628?text=INFANTIL%20CAMISETA",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h09/hf9/12527852486686/CAMISETA-MASS-TEEN-TITANS-AZC-6-10045890666-C1.jpg",
+        3642);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (3017, "café torrado e moído à vácuo carrefour extra forte 500g", "hipermercado   carrefour - 04", "R$7,90",
-        "https://www.carrefour.com.br", "/cafe-torrado-e-moido-a-vacuo-carrefour-extra-forte-500g-5657890/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/215650-320-320?width=320&height=320&aspect=true", 2562);
+VALUES (12056, "go bhb substitua a gordura por energia sachê 3g", "farmacia sempre viva", "R$216,50",
+        "https://www.farmaciasempreviva.com.br",
+        "https://www.farmaciasempreviva.com.br/go-bhb-substitua-gordura-por-energia-sache-3g",
+        "https://www.farmaciasempreviva.com.br/media/catalog/product/cache/1/small_image/480x/9df78eab33525d08d6e5fb8d27136e95/3/1/313_0__1.jpg",
+        852);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6688, "caixa plástica para ferramentas modelo ro21´´ - stamaco home ro21´´", "pão de açúcar", "R$142,89",
+VALUES (12054, "café verde termogênico sachê sabor capuccino 5g", "farmacia sempre viva", "R$2,30",
+        "https://www.farmaciasempreviva.com.br",
+        "https://www.farmaciasempreviva.com.br/cafe-verde-termogenico-sache-sabor-capuccino-5g",
+        "https://www.farmaciasempreviva.com.br/media/catalog/product/cache/1/small_image/480x/9df78eab33525d08d6e5fb8d27136e95/8/5/85_0__1.jpg",
+        852);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (28272, "serenzo  saffrin cápsula de controle emocional", "farmacia sempre viva", "R$139,90",
+        "https://www.farmaciasempreviva.com.br",
+        "https://www.farmaciasempreviva.com.br/serenzo-saffrin-capsula-controle-emocional",
+        "https://www.farmaciasempreviva.com.br/media/catalog/product/cache/1/small_image/480x/9df78eab33525d08d6e5fb8d27136e95/3/0/303_0__1.jpg",
+        852);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (12052, "resveratrol 50 mg os benefícios do vinho tinto em cápsula", "farmacia sempre viva", "R$49,90",
+        "https://www.farmaciasempreviva.com.br",
+        "https://www.farmaciasempreviva.com.br/resveratrol-50-mg-beneficios-vinho-tinto-capsula",
+        "https://www.farmaciasempreviva.com.br/media/catalog/product/cache/1/small_image/480x/9df78eab33525d08d6e5fb8d27136e95/2/9/299_0_.jpg",
+        852);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (28271, "saffrin 8825 mg aumenta sensação de saciedade e controle por doces", "farmacia sempre viva", "R$71,50",
+        "https://www.farmaciasempreviva.com.br",
+        "https://www.farmaciasempreviva.com.br/saffrin-88-25-mg-aumenta-saciedade-controle-doces",
+        "https://www.farmaciasempreviva.com.br/media/catalog/product/cache/1/small_image/480x/9df78eab33525d08d6e5fb8d27136e95/3/0/302_0_.jpg",
+        852);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7217, "calça masculina jeans slim biotipo", "lojas marisa", "R$129,95", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/-cal%c3%a7a-masculina-jeans-slim-biotipo-azul/p/10046904584?text=Cal%C3%A7a",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h4b/h7e/12591509372958/CALCA-JAC-MASC-26389-CM-4951-BI-JAC-42-10046904621-C1.jpg",
+        4248);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7205, "de", "lojas marisa", "R$39,99", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/cal%c3%a7a-infantil-jogger-moletom-bolsos-tam-4-a-10-azul/p/10046709882?text=Cal%C3%A7a",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h9f/h06/12597677326366/VT-CALCA-SARU-ODY-MALHAS-MARIN-AZL-6-10046709929-C1.jpg",
+        4248);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7214, "calça plus size feminina mom jeans marisa", "lojas marisa", "R$99,95", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/cal%c3%a7a-plus-size-feminina-mom-jeans-marisa-azul/p/10045104596?text=Cal%C3%A7a",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h5b/h21/12580901945374/Calca-Plus-Size-Feminina-Mom-Jeans-Marisa-10045104626-C1.jpg",
+        4248);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7213, "calça feminina sarja cigarrete marisa", "lojas marisa", "R$89,95", "http://www.marisa.com.br",
+        "https://www.marisa.com.br/cal%c3%a7a-feminina-sarja-cigarrete-marisa-preto/p/10045291890?text=Cal%C3%A7a",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/h0d/h56/12573352656926/CALCA-SARJA-PTO-38-10045291920-C1.jpg",
+        4248);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (10341, "calça feminina jogger cintura alta amarração marisa", "lojas marisa", "R$69,95",
+        "http://www.marisa.com.br",
+        "https://www.marisa.com.br/cal%c3%a7a-feminina-jogger-cintura-alta-amarra%c3%a7%c3%a3o-marisa-cinza/p/10045905841?text=Cal%C3%A7a%20Feminina",
+        "https://images2.marisa.com.br/medias/sys_master/images/images/hb3/h47/12528545792030/CALCA-FEM-MARISA-GRAFITE-918-GRAFITE-P-10045905858-C1.jpg",
+        4248);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (8434, "9x de r 1014 sem juros no cartão de crédito", "lojas americanas", "R$165,31",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2088430080?pfm_carac=camiseta-t-shirt-bermuda&pfm_index=3&pfm_page=search&pfm_pos=grid&pfm_type=search_page",
+        "https://images-americanas.b2w.io/produtos/2088430080/imagens/sexy-off-ombro-t-shirt-sequins-mulheres-moda-top-camisetas-senhora-roupa-beautyangel/2088430080_1_big.jpg",
+        4683);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (13853, "9x de r 1036 sem juros no cartão de crédito", "lojas americanas", "R$168,85",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2089476768?pfm_carac=camiseta-shirt-bermuda&pfm_index=4&pfm_page=search&pfm_pos=grid&pfm_type=search_page",
+        "https://images-americanas.b2w.io/produtos/2089476768/imagens/sexy-off-ombro-t-shirt-sequins-mulheres-moda-top-camisetas-senhora-roupa-beautyangel/2089476768_1_big.jpg",
+        4683);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (36057, "12", "lojas americanas", "R$59,90", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/44032886?pfm_carac=infantil-camiseta&pfm_index=2&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Infantil+camiseta",
+        "https://images-americanas.b2w.io/produtos/01/00/images/44032/8/44032887G1.jpg", 4683);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7731, "4x de r 1122 sem juros no cartão de crédito", "lojas americanas", "R$46,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2898492426?pfm_carac=camiseta-t-bermuda&pfm_page=search&pfm_pos=grid&pfm_type=search_page",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2898492/4/2898492477G1.jpg", 4683);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (24573, "5x de r 998 sem juros no cartão de crédito", "lojas americanas", "R$49,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/3001668811?pfm_carac=infantil-camiseta-t-shirt&pfm_index=3&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=Infantil+camiseta+t+shirt",
+        "https://images-americanas.b2w.io/produtos/01/00/img/3001668/8/3001668820G1.jpg", 4683);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (23314, "69", "carrefour", "R$5,69", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/cachaca-51-350-ml-376728/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/191857-160-160?width=160&height=160&aspect=true", 14350);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7964, "99", "carrefour", "R$7,99", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/energetico-red-bull-energy-drink-tropical-250ml-5013992/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/200917-160-160?width=160&height=160&aspect=true", 14350);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (32723, "89", "carrefour", "R$7,89", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/energetico-red-bull-energy-drink-acai-250ml-5166918/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/207260-160-160?width=160&height=160&aspect=true", 14350);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7962, "lemon pepper smart 84g", "carrefour", "R$26,00", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/lemon-pepper-smart-84g-5547563/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/213187-160-160?width=160&height=160&aspect=true", 14350);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (33780, "95", "carrefour", "R$4,95", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/vodka-51-ice-sabor-kiwi-275-ml-8766932/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/199305-160-160?width=160&height=160&aspect=true", 14350);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (16693, "iogurte integral danone vitamina de frutas 900g", "carrefour (norte shopping)", "R$9,65",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/iogurte-integral-danone-vitamina-de-frutas-900g-9133895/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/192204-160-160?width=160&height=160&aspect=true", 8700);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (16688, "iogurte integral danone vitamina de frutas 135kg", "carrefour (norte shopping)", "R$11,45",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/iogurte-integral-danone-vitamina-de-frutas-1-35kg-9560572/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/14233244-160-160?width=160&height=160&aspect=true", 8700);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (25585, "polpa de maracujá carrefour 100g", "carrefour (norte shopping)", "R$2,79",
+        "https://www.carrefour.com.br", "https://mercado.carrefour.com.br/polpa-de-maracuja-carrefour-100g-8032424/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/212573-160-160?width=160&height=160&aspect=true", 8700);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (23059, "manteiga com sal paulista em barra 200g", "carrefour (norte shopping)", "R$8,29",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/manteiga-com-sal-paulista-em-barra-200g-5776287/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/217919-160-160?width=160&height=160&aspect=true", 8700);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (30695, "polpa de acerola congelada de marchi 100 g", "carrefour (norte shopping)", "R$3,29",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/polpa-de-acerola-congelada-de-marchi-100-g-7123914/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/13691455-160-160?width=160&height=160&aspect=true", 8700);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (28820, "onix 10 mpfi joy 8v flex 4p manual", "zveículos multimarcas (shopping portal) (r1/s2/e5)",
+        "R$49.900,00", "http://www.portalautoshopping.com.br",
+        "http://www.portalautoshopping.com.br/veiculos/chevrolet-onix-10-mpfi-joy-8v-flex-4p-manual/39418?s=Onix%201%204%20Flex%204%20Portas%20Manual",
+        "http://www.portalautoshopping.com.br/assets/uploads/resellers//51/vehicles/39418/x03e505712e4d9d3d36f0ba5c905799ce17032021050059000000.jpg.pagespeed.ic.BDTx3JSi6w.jpg",
+        10745);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (16889, "onix plus", "zveículos multimarcas (shopping portal) (r1/s2/e5)", "R$69.900,00",
+        "http://www.portalautoshopping.com.br",
+        "http://www.portalautoshopping.com.br/veiculos/chevrolet-onix-plus/38804?s=Onix%20Lt%204%20Flex%204",
+        "http://www.portalautoshopping.com.br/assets/uploads/xthumb-sem-foto-interna.jpg.pagespeed.ic._N8uIPQffO.jpg",
+        10745);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7662, "onix hatch lt 10 12v tb flex 5p mec", "zveículos multimarcas (shopping portal) (r1/s2/e5)",
+        "R$69.900,00", "http://www.portalautoshopping.com.br",
+        "http://www.portalautoshopping.com.br/veiculos/gm-chevrolet-onix-hatch-lt-10-12v-tb-flex-5p-mec/39416?s=Onix%201%204%20Flex%204",
+        "http://www.portalautoshopping.com.br/assets/uploads/resellers//33/vehicles/39416/xb76b983f8934da1c176bf42db7b1432d.jpg.pagespeed.ic.53Fr5JDSHI.jpg",
+        10745);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7665, "onix  lollapalooza 10 fpower 5p mec", "zveículos multimarcas (shopping portal) (r1/s2/e5)",
+        "R$39.900,00", "http://www.portalautoshopping.com.br",
+        "http://www.portalautoshopping.com.br/veiculos/gm-chevrolet-onix-lollapalooza-10-fpower-5p-mec/39225?s=Onix%201%204%20Flex%204",
+        "http://www.portalautoshopping.com.br/assets/uploads/resellers//10/vehicles/39225/x3add800c0c1c487228ec3f43e35e2994.jpg.pagespeed.ic.wtVII9ckJb.jpg",
+        10745);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1424, "chevrolet", "zveículos multimarcas (shopping portal) (r1/s2/e5)", "R$82.900,00",
+        "http://www.portalautoshopping.com.br",
+        "http://www.portalautoshopping.com.br/veiculos/chevrolet-onix-hatch-ltz-10-12v-tb-flex-aut/37115?s=Onix%20Lt%201%204%20Flex",
+        "http://www.portalautoshopping.com.br/assets/uploads/resellers//63/vehicles/37115/9d50b24f19ccc11d90a8034d298a8ef210122020050134000000.jpg",
+        10745);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1793, "travesseiro toque de rosas plumax fibrasca 4585", "supermercado pao de açúcar", "R$85,00",
         "https://www.paodeacucar.com",
-        "/produto/487760/caixa-plastica-para-ferramentas-modelo-ro21´´---stamaco-home-ro21´´",
-        "https://static.paodeacucar.com/img/uploads/1/864/1881864x200x200.jpeg", 165);
+        "https://www.paodeacucar.com/produto/482249/travesseiro-toque-de-rosas-plumax-fibrasca-4585?w=TOQUE&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/276/824276x200x200.jpeg", 10906);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7712, "r$11,90", "pão de açúcar", "R$11,90", "https://www.paodeacucar.com",
-        "/produto/510590/rasqueadeira-pratica-plastica-vermelha-homepet",
-        "https://static.paodeacucar.com/img/uploads/1/477/7979477x200x200.jpeg", 165);
+VALUES (17842, "papel toalha kitchen leve 360 pague 330 folhas", "supermercado pao de açúcar", "R$14,99",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/455611/papel-toalha-kitchen-leve-360-pague-330-folhas?w=PAPEL&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/142/635142x200x200.jpg", 10906);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (2199, "r$111,90", "pão de açúcar", "R$111,90", "https://www.paodeacucar.com",
-        "/produto/489373/lixeira-plastica-basculante-sanremo-60l",
-        "https://static.paodeacucar.com/img/uploads/1/862/1940862x200x200.jpeg", 165);
+VALUES (22174, "kit beleza infantil  princesa branca de neve  princesas disney  toyng", "supermercado pao de açúcar",
+        "R$44,99", "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/535809/kit-beleza-infantil---princesa-branca-de-neve---princesas-disney---toyng?w=NEVE%20DE&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/519/11494519x200x200.jpeg", 10906);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (1191, "blocos de montar - pote da diversão - embalagem de páscoa - amarelo - fanfun", "pão de açúcar",
-        "R$42,00", "https://www.paodeacucar.com",
-        "/produto/492736/blocos-de-montar---pote-da-diversao---embalagem-de-pascoa---amarelo---fanfun",
-        "https://static.paodeacucar.com/img/uploads/1/562/1890562x200x200.jpeg", 165);
+VALUES (30060, "kit sebastian penetraitt shampoo e condicionador 1 litro cada  11", "supermercado pao de açúcar",
+        "R$499,99", "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/550463/kit-sebastian-penetraitt-shampoo-e-condicionador-1-litro-cada---11?w=TOQUE%20SEDA&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/19/11699019x200x200.jpeg", 10906);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (5597, "cominho em pó kitano 8g", "pão de açúcar", "R$1,55", "https://www.paodeacucar.com",
-        "/produto/8793/cominho-em-po-kitano-8g", "https://static.paodeacucar.com/img/uploads/1/162/609162x200x200.png",
-        165);
+VALUES (17841, "rolo de papel alumínio qualitá 30cm x 15m", "supermercado pao de açúcar", "R$18,29",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/21452/rolo-de-papel-aluminio-qualita-30cm-x-15m?w=PAPEL&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/18/634018x200x200.png", 10906);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (495, "7", "carrefour bairro", "R$7,85", "https://www.carrefour.com.br",
-        "/amaciante-mon-bijou-pureza-2-litros-427721/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/193022-320-320?width=320&height=320&aspect=true", 1166);
+VALUES (9596, "absorvente com abas malha suave always super proteção 32 unidades", "supermercado carrefour", "R$12,49",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/absorvente-com-abas-malha-suave-always-super-protecao-32-unidades-5243092/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/10562798-160-160?width=160&height=160&aspect=true", 1006);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6984, "amaciante mon bijou pureza 5 litros", "carrefour bairro", "R$14,69", "https://www.carrefour.com.br",
-        "/amaciante-mon-bijou-pureza-5-litros-8255717/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/193646-320-320?width=320&height=320&aspect=true", 1166);
+VALUES (16036, "absorvente interno super leve mais pague menos ob procomfort 16 unidades", "supermercado carrefour",
+        "R$16,20", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/absorvente-interno-super-leve-mais-pague-menos-o-b-procomfort-16-unidades-5556619/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/11203008-160-160?width=160&height=160&aspect=true", 1006);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (216, "amaciante mon bijou baby 2 litros - 3 unidades", "carrefour bairro", "R$19,99",
-        "https://www.carrefour.com.br", "/amaciante-mon-bijou-baby-2-litros-3-unidades-b2-3-7998988/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/5999348-320-320?width=320&height=320&aspect=true", 1166);
+VALUES (9591, "absorvente noturno com abas cobertura suave sempre livre adapt plus 32 unidades",
+        "supermercado carrefour", "R$31,50", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/absorvente-noturno-com-abas-cobertura-suave-sempre-livre-adapt-plus-32-unidades-9088849/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/11255555-160-160?width=160&height=160&aspect=true", 1006);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6983, "amaciante mon bijou pureza 5 litros - 2 unidades", "carrefour bairro", "R$26,90",
-        "https://www.carrefour.com.br", "/amaciante-mon-bijou-pureza-5-litros-2-unidades-b2-2-8255717/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/5999644-320-320?width=320&height=320&aspect=true", 1166);
+VALUES (6281, "absorvente com abas malha seca always noites tranquilas 32 unidades", "supermercado carrefour",
+        "R$24,90", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/absorvente-com-abas-malha-seca-always-noites-tranquilas-32-unidades-9485988/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/10562957-160-160?width=160&height=160&aspect=true", 1006);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (8571, "limpa máquina de lavar mon bijou 80g", "carrefour bairro", "R$7,19", "https://www.carrefour.com.br",
-        "/limpa-maquina-de-lavar-mon-bijou-80g-9259082/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/6388180-320-320?width=320&height=320&aspect=true", 1166);
+VALUES (561, "absorvente com abas malha suave always noites tranquilas 32 unidades", "supermercado carrefour",
+        "R$24,90", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/absorvente-com-abas-malha-suave-always-noites-tranquilas-32-unidades-9485970/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/10562950-160-160?width=160&height=160&aspect=true", 1006);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7025, "macarrão instantâneo carrefour sabor galinha 85g", "carrefour(boa viagem)", "R$1,20",
-        "https://www.carrefour.com.br", "/macarrao-instantaneo-carrefour-sabor-galinha-85g-5879604/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/219267-320-320?width=320&height=320&aspect=true", 10091);
+VALUES (22009, "promoçao 250x300 prmi514 origem turquia composição polipropileno em 10x sem juros",
+        "tapeçaria cazati (r3/s3/e2)", "R$2.250,00", "http://www.tapecariacazati.com.br",
+        "https://www.tapecariacazati.com.br/promocao-250x300-prmi514-origem-turquia-composicao-polipropileno-em-10x-sem-juros",
+        "https://www.tapecariacazati.com.br/image/cache/data-20210112-170426-270x360.jpg", 14604);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7024, "macarrão talharim carrefour caseira espinafre 500g", "carrefour(boa viagem)", "R$7,20",
-        "https://www.carrefour.com.br", "/macarrao-talharim-carrefour-caseira-espinafre-500g-3361500/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/199815-320-320?width=320&height=320&aspect=true", 10091);
+VALUES (29761, "promocao 250x350 gay geometrico com super desconto em 10x sem juros", "tapeçaria cazati (r3/s3/e2)",
+        "R$3.500,00", "http://www.tapecariacazati.com.br",
+        "https://www.tapecariacazati.com.br/promocao-250x350-gay-geometrico-com-super-desconto-em-10x-sem-juros",
+        "https://www.tapecariacazati.com.br/image/cache/data-20210224-154703-270x360.jpg", 14604);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6685, "massa para pastel rolo massa leve 400g", "carrefour(boa viagem)", "R$4,79",
-        "https://www.carrefour.com.br", "/massa-para-pastel-rolo-massa-leve-400g-841722/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/192297-320-320?width=320&height=320&aspect=true", 10091);
+VALUES (36047, "promoção 240x340 eron turco composição 100 poliester 10x sem juros", "tapeçaria cazati (r3/s3/e2)",
+        "R$3.600,00", "http://www.tapecariacazati.com.br",
+        "https://www.tapecariacazati.com.br/promocao-240x340-eron-turco-composicao-100-poliester-10x-sem-juros",
+        "https://www.tapecariacazati.com.br/image/cache/data-20201126-162755-270x360.jpg", 14604);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (7026, "macarrão instantâneo carrefour sabor tomate 85g", "carrefour(boa viagem)", "R$1,20",
-        "https://www.carrefour.com.br", "/macarrao-instantaneo-carrefour-sabor-tomate-85g-5879590/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/219270-320-320?width=320&height=320&aspect=true", 10091);
+VALUES (22013, "promoção 300x400  vent origem turquia composição polipropileno em 10x sem juros",
+        "tapeçaria cazati (r3/s3/e2)", "R$4.200,00", "http://www.tapecariacazati.com.br",
+        "https://www.tapecariacazati.com.br/promocao-300x400-vent-origem-turquia-composicao-polipropileno-em-10x-sem-juros",
+        "https://www.tapecariacazati.com.br/image/cache/data-20210112-165221-270x360.jpg", 14604);
 INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
-VALUES (6001, "bife de alcatra bovina baby beef resfriado para churrasco carrefour 500g", "carrefour(boa viagem)",
-        "R$28,50", "https://www.carrefour.com.br",
-        "/bife-de-alcatra-bovina-baby-beef-resfriado-para-churrasco-carrefour-500g-5704065/p",
-        "https://carrefourbrfood.vtexassets.com/arquivos/ids/180562-320-320?width=320&height=320&aspect=true", 10091);
+VALUES (10707, "promoçao for 250x300 cinza desenho alto relevo em 10x sem juros", "tapeçaria cazati (r3/s3/e2)",
+        "R$3.800,00", "http://www.tapecariacazati.com.br",
+        "https://www.tapecariacazati.com.br/promocao-for-250x300-cinza-desenho-alto-relevo-em-10x-sem-juros",
+        "https://www.tapecariacazati.com.br/image/cache/data-20200624-164939-270x360.jpg", 14604);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (15704, "sapato masculino cap toe office", "richards (shopping riomar)", "R$858,00",
+        "http://www.richards.com.br",
+        "https://www.richards.com.br/produto/sapato-masculino-cap-toe-office/A-sku1898331.40290",
+        "http://d1xjvqax0h862y.cloudfront.net/RC/prod/40290/40290_R-21_productr_1_948x1119.jpg", 13856);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (28968, "short praia stripe", "richards (shopping riomar)", "R$309,00", "http://www.richards.com.br",
+        "https://www.richards.com.br/produto/short-praia-stripe/A-sku4693438.49887",
+        "http://d1xjvqax0h862y.cloudfront.net/RC/prod/49887/49887_R-40_productr_1_948x1119.jpg", 13856);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (16883, "resgate seu bônus aqui", "richards (shopping riomar)", "R$299,00", "http://www.richards.com.br",
+        "https://www.richards.com.br/central-atendimento?Ntt=QUALQUER%20TECIDO%20EXCETO%20JEANS",
+        "https://oc-inbrands-s3.s3-sa-east-1.amazonaws.com/static/richards/assets/images/SACOLINHA-BORDA.png ", 13856);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (35911, "camisa tinturada lisa", "richards (shopping riomar)", "R$520,00", "http://www.richards.com.br",
+        "https://www.richards.com.br/produto/camisa-tinturada-lisa/A-sku6043760.23210", "-1", 13856);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18155, "short masculino qualquer tecido exceto", "richards (shopping riomar)", "R$299,00",
+        "http://www.richards.com.br", "https://www.richards.com.br/produto/short-praia-marrocos/A-sku3802609.49281",
+        "https://www.richards.com.br/https:///d1pq3wvjajbus6.cloudfront.net/rch/liqui/2018-2/home/tag.jpg?Ntt=SHORT%20MASCULINO%20QUALQUER%20TECIDO%20EXCETO",
+        13856);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (11769, "carga para aparelho de barbear gillette mach3 sensitive 4 unidades  embalagem promocional",
+        "carrefour(boa viagem)", "R$37,90", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/carga-para-aparelho-de-barbear-gillette-mach3-sensitive-4-unidades-embalagem-promocional-5228425/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/211768-160-160?width=160&height=160&aspect=true", 10091);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1429, "creme dental oralb 3d white brilliant fresh menta 70g", "carrefour(boa viagem)", "R$7,90",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/creme-dental-oral-b-3d-white-brilliant-fresh-menta-70g-9072101/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/192613-160-160?width=160&height=160&aspect=true", 10091);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (29153, "massa para lasanha integral tradicional petybon 200g", "carrefour(boa viagem)", "R$3,39",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/massa-para-lasanha-integral-tradicional-petybon-200g-9376631/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/195303-160-160?width=160&height=160&aspect=true", 10091);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (33471, "pão de queijo massa leve 400g", "carrefour(boa viagem)", "R$7,60", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/pao-de-queijo-massa-leve-400g-8995125/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/192090-160-160?width=160&height=160&aspect=true", 10091);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (6879, "manga tommy fresca carrefour 500g", "carrefour(boa viagem)", "R$4,35", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/manga-tommy-fresca-carrefour-500g-5750822/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/217098-160-160?width=160&height=160&aspect=true", 10091);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (24337, "rasteira azul jeans tiras cordão", "rosiany b almeida  - vlg - (loja de roupas).", "R$139,90",
+        "http://www.arezzo.com.br",
+        "https://www.arezzo.com.br/sapatos/sandalias/rasteira-azul-jeans-tiras-cordao/p/1150500490001U?text=Qualquer%20Tecido%20Incluindo%20jeans",
+        "https://secure-static.arezzo.com.br/medias/sys_master/arezzo/arezzo/hbc/h43/h00/h00/9756830105630/1150500490001U-01-BASEIMAGE-Lores.jpg",
+        16330);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (7930, "rasteira preta tecido flatform tratorada", "rosiany b almeida  - vlg - (loja de roupas).", "R$269,90",
+        "http://www.arezzo.com.br",
+        "https://www.arezzo.com.br/sapatos/sandalias/rasteira-preta-tecido-flatform-tratorada/p/1184900070001U?text=Tecido",
+        "https://secure-static.arezzo.com.br/medias/sys_master/arezzo/arezzo/h43/hef/h00/h00/9804401770526/1184900070001U-01-BASEIMAGE-Lores.jpg",
+        16330);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (25743, "bolsa tiracolo pequena rosa morgana", "rosiany b almeida  - vlg - (loja de roupas).", "R$139,90",
+        "http://www.arezzo.com.br",
+        "https://www.arezzo.com.br/bolsas/tiracolo/bolsa-tiracolo-pequena-rosa-morgana/p/5002300360076U",
+        "https://secure-static.arezzo.com.br/medias/sys_master/arezzo/arezzo/hdc/h03/h00/h00/9851620392990/5002300360076U-01-BASEIMAGE-Lores.jpg",
+        16330);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (2842, "clog azul jeans bordado", "rosiany b almeida  - vlg - (loja de roupas).", "R$289,90",
+        "http://www.arezzo.com.br",
+        "https://www.arezzo.com.br/sapatos/clogs/clog-azul-jeans-bordado/p/1188800120001U?text=longo%20Qualquer%20Tecido%20Incluindo%20jeans",
+        "https://secure-static.arezzo.com.br/medias/sys_master/arezzo/arezzo/hf1/h98/h00/h00/9851497119774/1188800120001U-01-BASEIMAGE-Lores.jpg",
+        16330);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (25748, "cinto julieta fino rosa rosé glam", "rosiany b almeida  - vlg - (loja de roupas).", "R$119,90",
+        "http://www.arezzo.com.br",
+        "https://www.arezzo.com.br/acessorios/cintos/cinto-julieta-fino-rosa-rose-glam/p/4300003420020U",
+        "https://secure-static.arezzo.com.br/medias/sys_master/arezzo/arezzo/h9e/h2f/h00/h00/9851505639454/4300003420020U-01-BASEIMAGE-Lores.jpg",
+        16330);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (11802, "3x de r 1230 sem juros no cartão de crédito", "lojas americanas", "R$36,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/22831751?pfm_carac=material&pfm_index=6&pfm_page=search&pfm_pos=grid&pfm_type=search_page",
+        "https://images-americanas.b2w.io/produtos/01/00/sku/22831/7/22831749G1.jpg", 14177);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21772,
+        "sapatos finos femininos vintage sapatos individuais pontiagudos de couro sintético de salto grosso e feminino cool16731",
+        "lojas americanas", "R$892,90", "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2876720281?pfm_carac=sintetico-salto-fino&pfm_index=5&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=sint%C3%A9tico+salto+fino",
+        "https://images-americanas.b2w.io/produtos/2876720281/imagens/sapatos-finos-femininos-vintage-sapatos-individuais-pontiagudos-de-couro-sintetico-de-salto-grosso-e-feminino-cool16731/2876720281_1_big.jpg",
+        14177);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (41528, "8x de r 998 sem juros no cartão de crédito", "lojas americanas", "R$79,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/2211080717?pfm_carac=sintetico-salto&pfm_index=2&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=sint%C3%A9tico+salto",
+        "https://images-americanas.b2w.io/produtos/01/00/img/2211080/7/2211080725G1.jpg", 14177);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (41527, "9x de r 998 sem juros no cartão de crédito", "lojas americanas", "R$119,90",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/1741264011?pfm_carac=sintetico-salto&pfm_index=1&pfm_page=search&pfm_pos=grid&pfm_type=search_page?rc=sint%C3%A9tico+salto",
+        "https://images-americanas.b2w.io/produtos/01/00/img/1741264/0/1741264054G1.jpg", 14177);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18456, "12x de r 2624 sem juros no cartão de crédito", "lojas americanas", "R$314,99",
+        "https://www.americanas.com.br",
+        "https://www.americanas.com.br/produto/117893332?pfm_carac=salto-fino&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page",
+        "https://images-americanas.b2w.io/produtos/01/00/sku/117893/3/117893341G1.jpg", 14177);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1816, "banho  leve 4 pague 3", "riachuelo - shopping da ilha", "R$49,90", "http://www.riachuelo.com.br",
+        "https://recs.richrelevance.com/rrserver/click?a=e20fd45b1e19a8c6&vg=eb33b084-0368-4715-03a0-6b5e10c15fa5&pti=9&pa=carrosselprodutos&hpi=10106&stn=TopSellers&stid=13&rti=2&sgs=&mvtId=50857&mvtTs=1616032228539&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=fbg2f81616031783531oglydee&pg=-1&p=13838121001&ind=2&ct=https%3A%2F%2Fwww.riachuelo.com.br%2Ftoalha-de-banho-buddemeyer-100-algod-o-aimeei-cinza-chumbo-68x132cm-13838121001_sku%3Fsrc_click%3Dhome_page.carrosselprodutos%26id%3D13838121001",
+        "-1", 13295);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1859, "digite um email válido", "riachuelo - shopping da ilha", "R$15,00", "http://www.riachuelo.com.br",
+        "https://play.google.com/store/apps/details?id=br.com.riachuelo.app",
+        "https://midia.fotos-riachuelo.com.br/fotos/footer/icons/googlePlay.png", 13295);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1858, "hora de relaxar", "riachuelo - shopping da ilha", "R$199,90", "http://www.riachuelo.com.br",
+        "https://www.riachuelo.com.br/promocoes/regulamentos#frete-gratis",
+        "https://midia.fotos-riachuelo.com.br/fotos/megamenu/home/fevereiro2021/ADS-8199/Hero-Leve3-Pague-2-ADS-8199.jpg",
+        13295);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1824, "mesa  leve 4 pague 3", "riachuelo - shopping da ilha", "R$25,90", "http://www.riachuelo.com.br",
+        "https://recs.richrelevance.com/rrserver/click?a=e20fd45b1e19a8c6&vg=eb33b084-0368-4715-03a0-6b5e10c15fa5&pti=9&pa=carrosselprodutos&hpi=10106&stn=TopSellers&stid=13&rti=2&sgs=&mvtId=50857&mvtTs=1616032228539&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=fbg2f81616031783531oglydee&pg=-1&p=13481916001&ind=10&ct=https%3A%2F%2Fwww.riachuelo.com.br%2Fprato-raso-ceramica-turca-25cm-13481916001_sku%3Fsrc_click%3Dhome_page.carrosselprodutos%26id%3D13481916001",
+        "-1", 13295);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1800, "r", "riachuelo - shopping da ilha", "R$149,90", "http://www.riachuelo.com.br",
+        "https://recs.richrelevance.com/rrserver/click?a=e20fd45b1e19a8c6&vg=eb33b084-0368-4715-03a0-6b5e10c15fa5&pti=9&pa=app_carrossel_produtos_novidades&hpi=10106&stn=ManualRecommendationsFloating&stid=101&rti=2&sgs=&mvtId=50857&mvtTs=1616032228539&uguid=a71330a9-4087-4a6f-6bbc-7f5e10beae88&channelId=WEB&s=fbg2f81616031783531oglydee&pg=-1&mrrid=110071540&p=14054370&ind=1&ct=https%3A%2F%2Fwww.riachuelo.com.br%2Fbota-chelsea-tratorada-rchlo-shoes-preto-14054370_sku%3Fsrc_click%3Dhome_page.app_carrossel_produtos_novidades%26id%3D14054370",
+        "-1", 13295);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (32841, "bartô rack 1 porta basculante1 gaveta 160 m x 40 cm", "tok & stok", "R$300,00",
+        "https://www.tokstok.com.br",
+        "https://www.tokstok.com.br/rack-1-porta-basculante-1-gaveta-160x40-nozes-preto-barto/p",
+        "https://tokstok.vteximg.com.br/arquivos/ids/1834105-570-570/Rack-1p-1gv-160x40-Nozes-preto-Barto.jpg?v=637016599978700000",
+        3797);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (11090, "1", "tok & stok", "-1", "https://www.tokstok.com.br",
+        "https://www.tokstok.com.br/hotsite/cores-na-decoracao?ft=CORTINA%20VOIL%20FORRO",
+        "https://tokstok.vteximg.com.br/arquivos/ids/2476189/bn_home-desk-inst-cores-na-decoracao.png?v=637514973212400000",
+        3797);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (32849, "atta buffet 2 portas 83 cm x 136 m", "tok & stok", "R$3.699,00", "https://www.tokstok.com.br",
+        "https://www.tokstok.com.br/buffet-2-portas-83x136-nozes-atta/p",
+        "https://tokstok.vteximg.com.br/arquivos/ids/2147722-200-200/buffet-2-portas-83x136-nozes-atta_st0.jpg?v=637166461587500000",
+        3797);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (6102, "vicenza xale p sofá 120 m x 160 m", "tok & stok", "R$289,90", "https://www.tokstok.com.br",
+        "https://www.tokstok.com.br/xale-p--sofa-120-m-x-160-m-musgo-preto-vicenza/p",
+        "https://tokstok.vteximg.com.br/arquivos/ids/2361442-570-570/xale-p-sofa-120-m-x-160-m-musgo-preto-vicenza_st0.jpg?v=637439635469830000",
+        3797);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (5201, "boho fringe xale p sofá 120 m x 180 m", "tok & stok", "R$187,90", "https://www.tokstok.com.br",
+        "https://www.tokstok.com.br/fringe-xale-p--sofa-120-m-x-180-m-natural-preto-boho/p",
+        "https://tokstok.vteximg.com.br/arquivos/ids/1824342-200-200/Xale-P-sofa-120x180-Natural-preto-Boho-Fringe.jpg?v=637014935215730000",
+        3797);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (24965,
+        "itens com a fragrância de beijinho para dar de presente pele limpa hidratação intensa e perfumação na medida certa para peles extra secas",
+        "boticário", "R$107,70", "https://www.boticario.com.br",
+        "https://www.boticario.com.br/combo-presente-de-natal-cuidese-bem-beijinho-body-splash-200ml-locao-desodorante-hidratante-200ml-2-sabonetes-em-barra-80g-cada/",
+        "-1", 1015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (27894,
+        "o kit coffee woman seduction traz três produtos da marca em versão miniatura desodorante colônia loção hidratante desodorante e antitranspirante",
+        "boticário", "R$99,90", "https://www.boticario.com.br",
+        "https://www.boticario.com.br/b81360-kit-coffee-woman-seduction/", "-1", 1015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (24944,
+        "ideal para complementar o seu ritual para uma boa noite de sono o body splash perfuma a pele com a fragrância relaxante e suave de floral musk",
+        "boticário", "R$54,90", "https://www.boticario.com.br",
+        "https://www.boticario.com.br/body-splash-desodorante-colonia-cuidese-bem-boa-noite-200ml/",
+        "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_210,h_210/v1/imagens/products/B82037/82037.jpg",
+        1015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (24952,
+        "floratta amor de lavanda é um floral lavanda surpreendente uma fragrância feminina que traz romantismo e a pureza dos campos para o frasco",
+        "boticário", "R$109,90", "https://www.boticario.com.br",
+        "https://www.boticario.com.br/floratta-amor-de-lavanda-desodorante-colonia-75ml/", "-1", 1015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (24949, "zaad", "boticário", "R$74,90", "https://www.boticario.com.br",
+        "https://www.boticario.com.br/presente-de-natal-zaad-body-splash-desodorante-colonia-200ml-caixa-de-presente/",
+        "-1", 1015);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (25625, "arroz branco longofino tipo 1 prato fino 5 kg", "carrefour", "R$34,50", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/arroz-branco-longo-fino-tipo-1-prato-fino-5-kg-906417/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/193571-160-160?width=160&height=160&aspect=true", 9386);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (22832, "arroz cateto integral com vermelho mãe terra 500g", "carrefour", "R$8,80",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/arroz-cateto-integral-com-vermelho-mae-terra-500g-9602208/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/11513087-160-160?width=160&height=160&aspect=true", 9386);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (36916, "maçã gran smith fresca carrefour 500g", "carrefour", "R$8,99", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/maca-gran-smith-fresca-carrefour-500g-5745772/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/217358-160-160?width=160&height=160&aspect=true", 9386);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (22834, "maçã red importada fresca carrefour 500g", "carrefour", "R$6,99", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/maca-red-importada-fresca-carrefour-500g-5748372/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/217401-160-160?width=160&height=160&aspect=true", 9386);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (25626, "arroz branco longofino tipo 1 camil todo dia 5kg", "carrefour", "R$30,90",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/arroz-branco-longo-fino-tipo-1-camil-todo-dia-5kg-115789/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/193454-160-160?width=160&height=160&aspect=true", 9386);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (19733, "r", "papelaria orion (r2/s3/e3)", "R$0,00", "http://www.papelariaorion.com.br",
+        "https://www.papelariaorion.com.br/loja/logout.php?loja=899862?loja=899862/?palavra_busca=JOGO%20PUZZLE%20COM%20PE%C3%87AS",
+        "https://images.tcdn.com.br/img/img_prod/899862/1605194643_logo_final_orion_2020.jpg", 7678);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (22262, "planner medio tilibra happy 2021 vd", "papelaria orion (r2/s3/e3)", "R$42,00",
+        "http://www.papelariaorion.com.br",
+        "https://www.papelariaorion.com.br/loja/carrinho.php?loja=899862&acao=incluir&IdProd=53?loja=899862/?palavra_busca=JOGO",
+        "https://images.tcdn.com.br/img/img_prod/899862/180_planner_medio_tilibra_happy_2021_vd_53_1_20201119153235.jpg",
+        7678);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (19726, "estojo tilibra box west village  chumbo", "papelaria orion (r2/s3/e3)", "R$66,99",
+        "http://www.papelariaorion.com.br",
+        "https://www.papelariaorion.com.br/loja/carrinho.php?loja=899862&acao=incluir&IdProd=349?loja=899862/?palavra_busca=JOGO%20PUZZLE%20COM%20PE%C3%87AS",
+        "https://images.tcdn.com.br/img/img_prod/899862/180_estojo_tilibra_box_west_village_chumbo_349_1_d1870f57d19e76db4eb7c99b5b5c39da.jpg",
+        7678);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (28480, "caderno cd 80f 01m tilibra free fire", "papelaria orion (r2/s3/e3)", "R$23,90",
+        "http://www.papelariaorion.com.br",
+        "https://www.papelariaorion.com.br/loja/carrinho.php?loja=899862&acao=incluir&IdProd=445?loja=899862/?palavra_busca=PUZZLE",
+        "https://images.tcdn.com.br/img/img_prod/899862/180_caderno_cd_80f_01m_tilibra_free_fire_445_1_df1544a26f22bc1eae6490a1bcbc7d1c.jpg",
+        7678);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (28479, "caderno alibombom cd 80 folhas sem pauta capa azul", "papelaria orion (r2/s3/e3)", "R$9,80",
+        "http://www.papelariaorion.com.br",
+        "https://www.papelariaorion.com.br/loja/carrinho.php?loja=899862&acao=incluir&IdProd=417?loja=899862/?palavra_busca=PUZZLE",
+        "https://images.tcdn.com.br/img/img_prod/899862/180_caderno_alibombom_cd_80_folhas_sem_pauta_capa_azul_417_1_f4974a5883f3a6f770462554836c1b3e.jpg",
+        7678);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21724, "corretivo líquido color adapt canela make b", "boticário(caucaia)", "R$49,90",
+        "https://www.boticario.com.br", "https://www.boticario.com.br/corretivo-liquido-color-adapt-canela-make-b/",
+        "-1", 4894);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (21722, "base líquida médio 2 super fresh 25ml", "boticário(caucaia)", "R$44,90", "https://www.boticario.com.br",
+        "https://www.boticario.com.br/base-liquida-intense-super-fresh-medio-2-25-ml/", "-1", 4894);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (17214, "delineador olhos peel off 3 intense 2 ml", "boticário(caucaia)", "R$39,90",
+        "https://www.boticario.com.br", "https://www.boticario.com.br/delineador-olhos-peel-off-3-intense-2-ml/",
+        "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_210,h_210/v1/imagens/product/B77265/e5f8ad84-61d2-4f4f-931d-60f85b58bdbb-delineador-olhos-peel-off-3-intense-2-ml.png",
+        4894);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (14257, "delineador líquido preto intense", "boticário(caucaia)", "R$39,90", "https://www.boticario.com.br",
+        "https://www.boticario.com.br/delineador-liquido-preto-intense/", "-1", 4894);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (19893, "desodorante antitranspirante aerosol 6 em 1 men 75g", "boticário(caucaia)", "R$27,90",
+        "https://www.boticario.com.br",
+        "https://www.boticario.com.br/desodorante-antitranspirante-aerosol-6-em-1-men-75g/", "-1", 4894);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (9306, "cabeceira casal com 1 criados valores branco", "loja de moveis viggore", "R$466,71",
+        "http://www.viggore.com.br", "https://www.viggore.com.br/cabeceira-branco/p",
+        "https://viggore.vteximg.com.br/arquivos/ids/158351-500-500/Cabeceira-Box-Casal-Valore-com-1-Criado-Ambientada---Branca.jpg?v=637048515859130000",
+        2712);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (11529, "cama solteiro multifuncional valencia branco fosco", "loja de moveis viggore", "R$1.516,64",
+        "http://www.viggore.com.br",
+        "https://www.viggore.com.br/cama-solteiro-mulfuncional-florenca-solteiro-branco-fosco/p",
+        "https://viggore.vteximg.com.br/arquivos/ids/157858-500-500/Cama-Florenca-branco.jpg?v=636985492070830000",
+        2712);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (30675, "cabeceira sevilha 140 rub 03", "loja de moveis viggore", "R$713,12", "http://www.viggore.com.br",
+        "https://www.viggore.com.br/cabeceira-estofada-sevilha/p",
+        "https://viggore.vteximg.com.br/arquivos/ids/157550-500-500/SEVILHA-AMBIENTADA.jpg?v=636959575118400000", 2712);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (3941, "à pronta entrega", "loja de moveis viggore", "-1", "http://www.viggore.com.br",
+        "https://www.viggore.com.br/promocao/pronta-entrega",
+        "https://viggore.vteximg.com.br/arquivos/ids/161801/01-03_BannerWeb_1920x640px_LIMPA_GERAL (1).png?v=637502847573600000",
+        2712);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (36331, "cabeceira casal com 1 criados valores canela", "loja de moveis viggore", "R$466,71",
+        "http://www.viggore.com.br", "https://www.viggore.com.br/cabeceira-canela-valores-casal/p",
+        "https://viggore.vteximg.com.br/arquivos/ids/158354-500-500/Cabeceira-Box-Casal-Valore-com-1-Criado---Canela.jpg?v=637048517514400000",
+        2712);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (3587, "composto lácteo instantâneo ninho forti 380 g", "carrefour - shopping vila velha", "R$17,49",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/composto-lacteo-instantaneo-ninho-forti-380-g-5909856/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/11486570-160-160?width=160&height=160&aspect=true", 9074);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18241, "macarrão parafuso renata com ovos 500g", "carrefour - shopping vila velha", "R$3,60",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/macarrao-parafuso-renata-com-ovos-500g-220930/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/195563-160-160?width=160&height=160&aspect=true", 9074);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18240, "macarrão espaguete adria nº8 com ovos 500g", "carrefour - shopping vila velha", "R$2,99",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/macarrao-espaguete-adria-n8-com-ovos-500g-4180372/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/201882-160-160?width=160&height=160&aspect=true", 9074);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (6098, "macarrão ninho petybon de sêmola com ovos 500g", "carrefour - shopping vila velha", "R$5,25",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/macarrao-ninho-petybon-de-semola-com-ovos-500g-552100/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/199932-160-160?width=160&height=160&aspect=true", 9074);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (32380, "composto lácteo em pó ninho fases 800g", "carrefour - shopping vila velha", "R$31,50",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/composto-lacteo-em-po-ninho-fases-800g-5781612/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/218021-160-160?width=160&height=160&aspect=true", 9074);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (13454, "sorvete de pote kibon creme 15 l", "carrefour (shopping del rey) (r1/s4/e3)", "R$24,50",
+        "https://www.carrefour.com.br", "https://mercado.carrefour.com.br/sorvete-de-pote-kibon-creme-1-5-l-8603537/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/13986614-160-160?width=160&height=160&aspect=true", 9082);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (33774, "hastes flexíveis cotonetes pote 150 unidades", "carrefour (shopping del rey) (r1/s4/e3)", "R$11,89",
+        "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/hastes-flexiveis-cotonetes-pote-150-unidades-4221184/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/11202954-160-160?width=160&height=160&aspect=true", 9082);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (3520, "limão tahiti carrefour 500g", "carrefour (shopping del rey) (r1/s4/e3)", "R$2,50",
+        "https://www.carrefour.com.br", "https://mercado.carrefour.com.br/limao-tahiti-carrefour-500g-5737346/p", "-1",
+        9082);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (15066, "maionese hellmanns vegana 250g", "carrefour (shopping del rey) (r1/s4/e3)", "R$7,40",
+        "https://www.carrefour.com.br", "https://mercado.carrefour.com.br/maionese-hellmanns-vegana-250g-5560640/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/213325-160-160?width=160&height=160&aspect=true", 9082);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (33772, "00", "carrefour (shopping del rey) (r1/s4/e3)", "R$44,00", "https://www.carrefour.com.br",
+        "https://mercado.carrefour.com.br/sorvete-new-york-super-fudge-chunk-ben-jerry-s-458ml-5302579/p",
+        "https://carrefourbr.vtexassets.com/arquivos/ids/209757-160-160?width=160&height=160&aspect=true", 9082);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18885, "lição adultos digital 4º trimestre 2020 plus  avulsa", "casa publicadora brasileira", "R$16,00",
+        "http://www.cpb.com.br",
+        "https://www.cpb.com.br/produto/detalhe/17117/licao-adultos-digital-4º-trimestre-2020-plus---avulsa",
+        "https://storage.googleapis.com/imagens.cpb.com.br/produtos/17117/17117-01-web-product-page.jpg?6052c97f35e94",
+        7507);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (2300, "lição adolescentes digital 4º trimestre 2020  avulsa", "casa publicadora brasileira", "R$5,30",
+        "http://www.cpb.com.br",
+        "https://www.cpb.com.br/produto/detalhe/17137/-licao-adolescentes-digital-4º-trimestre-2020---avulsa",
+        "https://storage.googleapis.com/imagens.cpb.com.br/produtos/17137/17137-01-web-product-page.jpg?6052b24d55d51",
+        7507);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18884, "lição adultos digital 3º trimestre 2020 plus  avulsa", "casa publicadora brasileira", "R$16,00",
+        "http://www.cpb.com.br",
+        "https://www.cpb.com.br/produto/detalhe/17116/licao-adultos-digital-3º-trimestre-2020-plus---avulsa---------------------",
+        "https://storage.googleapis.com/imagens.cpb.com.br/produtos/17116/17116-01-web-product-page.jpg?6052c97f35e1a",
+        7507);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (2292, "a única esperança", "casa publicadora brasileira", "R$3,50", "http://www.cpb.com.br",
+        "https://www.cpb.com.br/produto/detalhe/14147/a-unica-esperanca",
+        "https://storage.googleapis.com/imagens.cpb.com.br/produtos/14147/14147-01-web-product-page.jpg?6052b24d5583f",
+        7507);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18881, "lição adultos digital 3º trimestre 2020 lite  avulsa", "casa publicadora brasileira", "R$8,00",
+        "http://www.cpb.com.br",
+        "https://www.cpb.com.br/produto/detalhe/17124/licao-adultos-digital-3º-trimestre-2020-lite---avulsa",
+        "https://storage.googleapis.com/imagens.cpb.com.br/produtos/17124/17124-01-web-product-page.jpg?6052c97f35c9e",
+        7507);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (17640, "tomate à granel 1kg", "mercado pão  de açucar", "R$7,41", "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/67366/tomate-a-granel-1kg?w=A%20GRANEL%20KG&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/990/606990x200x200.png", 11651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (5400, "manga haden bandeja 2 unidades", "mercado pão  de açucar", "R$19,75", "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/78486/manga-haden-bandeja-2-unidades?w=GRANEL%20KG&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/42/607042x200x200.png", 11651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (117, "filé de peito de frango resfriado temperado sadia fácil pacote 700g", "mercado pão  de açucar", "R$12,61",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/315543/file-de-peito-de-frango-resfriado-temperado-sadia-facil-pacote-700g?qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/193/2493193x200x200.png", 11651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (6426, "cenoura à granel 1kg", "mercado pão  de açucar", "R$6,35", "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/65429/cenoura-a-granel-1kg?w=A%20GRANEL&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/989/606989x200x200.png", 11651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (34136, "linguiça toscana sadia 950g", "mercado pão  de açucar", "R$25,49", "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/57723/linguica-toscana-sadia-950g?w=SADIA%20COZIDO%20A%20GRANEL&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/899/657899x200x200.png", 11651);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (3845, "paracetamol 750mg com 20 comprimidos genérico medley", "pague menos - joão paulo", "R$30,91",
+        "http://www.paguemenos.com.br",
+        "https://www.paguemenos.com.br/paracetamol-750mg-com-20-comprimidos-generico-medley/p",
+        "https://paguemenos.vtexassets.com/arquivos/ids/226556-500-auto?width=500&height=auto&aspect=true", 13129);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (11724, "risperidona 1mg com 30 comprimidos genérico sandoz", "pague menos - joão paulo", "R$58,05",
+        "http://www.paguemenos.com.br",
+        "https://www.paguemenos.com.br/risperidona-1mg-com-30-comprimidos-generico-sandoz/p",
+        "https://paguemenos.vtexassets.com/arquivos/ids/258596-500-auto?width=500&height=auto&aspect=true", 13129);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (6272, "risperidona 3mg com 30 comprimidos generico actavis", "pague menos - joão paulo", "R$113,57",
+        "http://www.paguemenos.com.br",
+        "https://www.paguemenos.com.br/risperidona-3mg-com-30-comprimidos-generico-actavis/p",
+        "https://paguemenos.vtexassets.com/arquivos/ids/258803-500-auto?width=500&height=auto&aspect=true", 13129);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (3842, "dipirona sódica 1g com 10 comprimidos genérico neo química", "pague menos - joão paulo", "R$16,13",
+        "http://www.paguemenos.com.br",
+        "https://www.paguemenos.com.br/dipirona-sodica-1g-com-10-comprimidos-generico-neo-quimica/p",
+        "https://paguemenos.vtexassets.com/arquivos/ids/192557-500-auto?width=500&height=auto&aspect=true", 13129);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (18149, "yaz flex 3mg002mg com 30 comprimidos", "pague menos - joão paulo", "R$104,68",
+        "http://www.paguemenos.com.br", "https://www.paguemenos.com.br/yaz-flex-3mgmais0-02mg-com-30-comprimidos/p",
+        "https://paguemenos.vtexassets.com/arquivos/ids/207365-500-auto?width=500&height=auto&aspect=true", 13129);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (9881, "cadeira de praia alta alumínio beach premium cinza", "mercado pão  de açucar", "R$75,90",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/546764/cadeira-de-praia-alta-aluminio-beach-premium-cinza?w=Uva%20Kg&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/150/11658150x200x200.jpeg", 15641);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (9880, "cadeira de praia alta alumínio beach premium verde", "mercado pão  de açucar", "R$75,90",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/546761/cadeira-de-praia-alta-aluminio-beach-premium-verde?w=Uva%20Kg&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/515/11655515x200x200.jpeg", 15641);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (23148, "café orfeu intenso em grãos 1 kg", "mercado pão  de açucar", "R$74,41", "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/534883/cafe-orfeu-intenso-em-graos-1-kg?w=Ni%C3%A1gara%20Kg&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/401/11485401x200x200.png", 15641);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (6385, "gelatina em pó sabor uva royal 35g", "mercado pão  de açucar", "R$1,09", "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/144793/gelatina-em-po-sabor-uva-royal-35g?w=Uva&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/756/634756x200x200.png", 15641);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (23143, "bacon extra double lombo seara gourmet kg", "mercado pão  de açucar", "R$70,99",
+        "https://www.paodeacucar.com",
+        "https://www.paodeacucar.com/produto/489794/bacon-extra-double-lombo-seara-gourmet-kg?w=Ni%C3%A1gara%20Kg&qt=12&p=1&gt=grid",
+        "https://static.paodeacucar.com/img/uploads/1/795/2507795x200x200.jpg", 15641);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1010, "em até 12x de r 15000", "c & c  casa e construção", "R$150,00", "https://www.cec.com.br",
+        "https://www.cec.com.br/eletrodomesticos/refrigeradores-e-adegas/adega-com-compressor-easy-cooler-para-24-garrafas-110v-preta?produto=1363463",
+        "https://cec-a.akamaihd.net/Images/banners/bb7182524ecc4859b812ce323b42f308_20210317_superior_3_adega-MCassab.png",
+        14989);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (8156, "plafon em alumínio para 2 lâmpadas rasgo 25x25cm branco", "c & c  casa e construção", "R$279,99",
+        "https://www.cec.com.br",
+        "https://www.cec.com.br/iluminacao/plafons/plafon-em-aluminio-para-2-lampadas-rasgo-25x25cm-branco?produto=1218035?txtEmailNewsLetter=SUVINIL%20DE%20SEDA%20ACR%C3%8DLICO",
+        "https://cec-a.akamaihd.net/img-prod/images/showcase/plafon-em-aluminio-para-2-lampadas-rasgo-25x25cm-branco-pantoja-carmona-1218035-foto-20190820190936709_224095_A.png",
+        14989);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (12941, "tapete indiano em algodão kilim desenho 01 com 140x200cm colorido", "c & c  casa e construção",
+        "R$369,99", "https://www.cec.com.br",
+        "https://www.cec.com.br/decoracao/tapetes-e-capachos/tapetes/tapete-indiano-em-algodao-kilim-desenho-01-com-140x200cm-colorido?produto=1370036?txtEmailNewsLetter=SUVINIL%20TOQUE%20SEDA",
+        "https://cec-a.akamaihd.net/img-prod/images/showcase/tapete-indiano-em-algodao-kilim-desenho-01-com-140x200cm-colorido-niazitex-1370036-foto-20200617210936638_212185_A.png",
+        14989);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (29991, "piso cerâmico acetinado borda reta asphalt 61x61cm", "c & c  casa e construção", "R$33,99",
+        "https://www.cec.com.br",
+        "https://www.cec.com.br/pisos-e-revestimentos/pisos-ceramicos/pisos-ceramicos-acima-de-50x50/piso-ceramico-acetinado-borda-reta-asphalt-61x61cm?produto=1359781?txtEmailNewsLetter=TINTA%20SUVINIL%20DE%20SEDA%20ACR%C3%8DLICO%20PREMIUM",
+        "https://cec-a.akamaihd.net/img-prod/images/showcase/piso-ceramico-acetinado-borda-reta-asphalt-61x61cm-fioranno-1359781-foto-20190731091037549_848485_A.png",
+        14989);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (9702, "1", "c & c  casa e construção", "-1", "https://www.cec.com.br",
+        "https://www.cec.com.br/blog/soleiras-entenda-o-que-e-e-para-que-serve?postId=671?txtEmailNewsLetter=PREMIUM%20ACETINADO",
+        "https://cec-a.akamaihd.net/Images/blog/post/5cdbf077b17840f5b8cd0e7cf83c04c9_Soleiras-653x452_1.png", 14989);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (24567, "moto g", "angeloni água verde (4.3.1)", "R$0,00", "https://www.angeloni.com.br",
+        "https://www.angeloni.com.br/super",
+        "http://statics.angeloni.com.br/site/eletro/assets/images/eletro-angeloni.jpg", 9253);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (14153, "smartphone samsung galaxy a12 vermelho 64gb câmera quádrupla traseira de 48mp sma125",
+        "angeloni água verde (4.3.1)", "R$1.599,00", "https://www.angeloni.com.br",
+        "https://www.angeloni.com.br/eletro/p/smartphone-samsung-galaxy-a12-vermelho-64gb-camera-quadrupla-traseira-de-48mp-sm-a125-4605278",
+        "http://statics.angeloni.com.br/eletro/files/4605278/4605278_1_medium.jpg", 9253);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (14154, "4x de r 3248", "angeloni água verde (4.3.1)", "R$199,90", "https://www.angeloni.com.br",
+        "https://www.angeloni.com.br/eletro/p/suqueira-vidro-8l-kilner-4322020",
+        "http://statics.angeloni.com.br/eletro/files/4322020/4322020_1_medium.jpg", 9253);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (14155, "10x de r 3890", "angeloni água verde (4.3.1)", "R$389,00", "https://www.angeloni.com.br",
+        "https://www.angeloni.com.br/eletro/p/cooktop-fischer-4-bocas-vidro-temperado-chama-rapida-preto-1519-1119503",
+        "http://statics.angeloni.com.br/eletro/files/1119503/1119503_1_medium.jpg", 9253);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (14150, "10x de r 31990", "angeloni água verde (4.3.1)", "R$3.899,00", "https://www.angeloni.com.br",
+        "https://www.angeloni.com.br/eletro/p/lava-e-seca-midea-11kg-prata-lsd11x-4491005",
+        "http://statics.angeloni.com.br/eletro/files/4491005/4491005_1_medium.jpg", 9253);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (33876, "amendoim salgado zaeli 200g sem pele paprica", "super conquista", "R$8,99",
+        "http://www.conquistasupermercados.com.br", "http://www.conquistasupermercados.com.br/oferta/060701",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/060701.png&w=262&h=210&zc=2",
+        8018);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1966, "agua mineral acqua lia 500ml com gas", "super conquista", "R$1,29",
+        "http://www.conquistasupermercados.com.br", "http://www.conquistasupermercados.com.br/oferta/002698",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/002698.png&w=262&h=210&zc=2",
+        8018);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (1960, "absorvente always 10und hiper noturno seco", "super conquista", "R$19,99",
+        "http://www.conquistasupermercados.com.br", "http://www.conquistasupermercados.com.br/oferta/037467",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/037467.png&w=262&h=210&zc=2",
+        8018);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (570, "abacaxi un", "super conquista", "R$3,99", "http://www.conquistasupermercados.com.br",
+        "http://www.conquistasupermercados.com.br/oferta/000989",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/000989.png&w=262&h=210&zc=2",
+        8018);
+INSERT INTO product (id, name, place_name, prices, place_url, product_url, product_img_url, description_id)
+VALUES (435, "alho kg", "super conquista", "R$19,99", "http://www.conquistasupermercados.com.br",
+        "http://www.conquistasupermercados.com.br/oferta/000950",
+        "http://www.conquistasupermercados.com.br/backend/timthumb/timthumb.php?src=http://acesso.conquistasupermercados.com.br:8083/ofertas/imagens/000950.png&w=262&h=210&zc=2",
+        8018);

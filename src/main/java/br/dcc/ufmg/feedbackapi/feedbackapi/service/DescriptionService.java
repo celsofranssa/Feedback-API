@@ -52,6 +52,7 @@ public class DescriptionService {
         ) {
             if (feedbackRepository.countFeedbacksByDescriptionId(description.getId()) < numFeedbacks)
                 priorityDescription = description;
+                numFeedbacks = feedbackRepository.countFeedbacksByDescriptionId(priorityDescription.getId());
 
         }
         return priorityDescription;
