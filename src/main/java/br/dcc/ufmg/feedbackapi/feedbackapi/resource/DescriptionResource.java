@@ -23,8 +23,8 @@ public class DescriptionResource {
         }
 
         @GetMapping("/high-priority")
-        public Description findHighestPriorityDescription() {
-                return descriptionService.findHighestPriorityDescription();
+        public Description findHighestPriorityDescription(@RequestParam(value = "judgeId") Integer judgeId) {
+                return descriptionService.findHighestPriorityDescription(judgeId);
         }
 
         @GetMapping("/{id}")

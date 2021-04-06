@@ -6,78 +6,135 @@
 
 #### 1. Find highest priority description
 
-`endpoint`: base_url/descriptions/high-priority
+* endpoint: `base_url/descriptions/high-priority?judgeId=<id>`
+* method: `GET`
+* example:`base_url/descriptions/high-priority?judgeId=7`
 
-`method`: GET
-
-`result`:
-
-```
+```json
 {
-    "id": 3,
-    "content": "description 03"
+    "id": 8700,
+    "content": "leite fermentado integral paulista com 6 unidades, 540g"
 }
 ```
 
-`status`: 200 OK.
+* ResponseStatus: `200 OK.`
 
 #### 2. Find products by description id
 
-`endpoint`: base_url/descriptions/1/products
+* endpoint: `base_url/descriptions/<descriptionId>/products`
+* method: `GET`
+* example:`base_url/descriptions/8700/products`
 
-`method`: GET
-
-`result`:
-
-```
+```json
 [
-    {
-        "id": 1,
-        "descriptionId": 1,
-        "name": "Arroz Branco Longo-fino Tipo 1 Camil 5 Kg",
-        "placeName": "Carrefour",
-        "placeUrl": "https://mercado.carrefour.com.br/",
-        "productUrl": "https://mercado.carrefour.com.br/arroz-branco-longo-fino-tipo-1-camil-todo-dia-5kg-115789",
-        "productImgUrl": "https://carrefourbr.vtexassets.com/arquivos/ids/193474-1600-auto?width=1600&height=auto&aspect=true",
-        "price": "R$ 25,10; R$ 5,80; R$ 4,95"
-    },
-    {
-        "id": 2,
-        "descriptionId": 1,
-        "name": "Arroz Branco Longo-fino Tipo 1 Camil 5 Kg",
-        "placeName": "Carrefour",
-        "placeUrl": "https://mercado.carrefour.com.br/",
-        "productUrl": "https://mercado.carrefour.com.br/arroz-branco-longo-fino-tipo-1-camil-todo-dia-5kg-115789",
-        "productImgUrl": "https://carrefourbr.vtexassets.com/arquivos/ids/193474-1600-auto?width=1600&height=auto&aspect=true",
-        "price": "R$ 25,10; R$ 5,80; R$ 4,95"
-    }
+  {
+    "id": 16688,
+    "descriptionId": 8700,
+    "name": "iogurte integral danone vitamina de frutas 135kg",
+    "placeName": "carrefour (norte shopping)",
+    "placeUrl": "https://www.carrefour.com.br",
+    "productUrl": "https://mercado.carrefour.com.br/iogurte-integral-danone-vitamina-de-frutas-1-35kg-9560572/p",
+    "productImgUrl": "https://carrefourbr.vtexassets.com/arquivos/ids/14233244-160-160?width=160&height=160&aspect=true",
+    "price": "R$11,45"
+  },
+     ...
+  {
+    "id": 30695,
+    "descriptionId": 8700,
+    "name": "polpa de acerola congelada de marchi 100 g",
+    "placeName": "carrefour (norte shopping)",
+    "placeUrl": "https://www.carrefour.com.br",
+    "productUrl": "https://mercado.carrefour.com.br/polpa-de-acerola-congelada-de-marchi-100-g-7123914/p",
+    "productImgUrl": "https://carrefourbr.vtexassets.com/arquivos/ids/13691455-160-160?width=160&height=160&aspect=true",
+    "price": "R$3,29"
+  }
 ]
 ```
 
-`status`: 200 OK.
+* ResponseStatus: `200 OK.`
 
-#### 3. Save feedbacks
+#### 3. Create new feedbacks resource
 
-`endpoint`: base_url/feedbacks
+* endpoint: `base_url/feedbacks`
+* method: `POST`
+* body:
 
-`method`: POST
-
-`body`:
-
-```
+```json
 [
     {
-        "productId": 1,
-        "descriptionId": 1,
+        "productId": 304,
+        "descriptionId": 173,
+        "judgeId":1,
         "rating": 5,
-        "comment": "This is a comment."
+        "comment": "just one comment."
     },
+
+    ...
+
     {
-        "productId": 2,
-        "descriptionId": 1,
-        "rating": 5
+        "productId": 173,
+        "descriptionId": 33,
+        "judgeId":1,
+        "rating": 4,
+        "comment": "just another comment."
     }
 ]
 ```
 
-`status`: 201 Created.
+* ResponseStatus: `201 Created.`
+
+#### 4. List all judges
+
+* endpoint: `base_url/judges`
+* method: `GET`
+* example:`base_url/judges`
+
+```json
+[
+  {
+    "id": 1,
+    "name": "Rodrygo Santos"
+  },
+  {
+    "id": 2,
+    "name": "Marcos Goncalves"
+  },
+  {
+    "id": 3,
+    "name": "Wagner Meira"
+  },
+  {
+    "id": 4,
+    "name": "Rennan Cordeiro"
+  },
+  {
+    "id": 5,
+    "name": "Matheus Barbos"
+  },
+  {
+    "id": 6,
+    "name": "Breno"
+  },
+  {
+    "id": 7,
+    "name": "Celso França"
+  }
+]
+```
+
+* ResponseStatus: `200 OK.`
+
+#### 5. Create new judge resource
+
+* endpoint: `base_url/judge`
+* method: `POST`
+* body:
+
+```json
+{
+  "id":8,
+  "name": "Test Judge"
+}
+```
+
+* ResponseStatus: `201 Created.`

@@ -16,6 +16,9 @@ public class Feedback {
     @Column(name = "description_id")
     Integer descriptionId;
 
+    @Column(name = "judge_id")
+    Integer judgeId;
+
     Integer rating;
 
     String comment;
@@ -42,6 +45,14 @@ public class Feedback {
 
     public void setDescriptionId(Integer descriptionId) {
         this.descriptionId = descriptionId;
+    }
+
+    public Integer getJudgeId() {
+        return judgeId;
+    }
+
+    public void setJudgeId(Integer judgeId) {
+        this.judgeId = judgeId;
     }
 
     public Integer getRating() {

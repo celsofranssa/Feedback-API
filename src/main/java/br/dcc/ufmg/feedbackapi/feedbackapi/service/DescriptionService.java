@@ -8,6 +8,7 @@ import br.dcc.ufmg.feedbackapi.feedbackapi.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
@@ -52,10 +53,43 @@ public class DescriptionService {
         ) {
             if (feedbackRepository.countFeedbacksByDescriptionId(description.getId()) < numFeedbacks)
                 priorityDescription = description;
-                numFeedbacks = feedbackRepository.countFeedbacksByDescriptionId(priorityDescription.getId());
+            numFeedbacks = feedbackRepository.countFeedbacksByDescriptionId(priorityDescription.getId());
 
         }
         return priorityDescription;
+    }
+
+    public Description findHighestPriorityDescription(Integer judgeId) {
+
+        List<Description> descriptions = descriptionRepository.findAll();
+        Collections.shuffle(descriptions);
+
+        Description priorityDescription = descriptions.get(0);
+        Integer priorityNumFeedbakcs = feedbackRepository.countFeedbacksByDescriptionId(priorityDescription.getId());
+        Integer descriptionId;
+        Integer numFeedbakcs;
+
+        for (Description description : descriptions
+        ) {
+            descriptionId = description.getId();
+
+            if (!hasJudgment(descriptionId, judgeId)) {
+
+                numFeedbakcs = feedbackRepository.countFeedbacksByDescriptionId(descriptionId);
+
+                if (numFeedbakcs <= priorityNumFeedbakcs) {
+                    priorityDescription = description;
+                    priorityNumFeedbakcs = numFeedbakcs;
+                }
+            }
+
+        }
+        return priorityDescription;
+    }
+
+    private boolean hasJudgment(Integer descriptionId, Integer judgeId) {
+        return feedbackRepository.countFeedbacksByDescriptionIdAndJudgeId(descriptionId, judgeId) > 0;
+
     }
 
 }
