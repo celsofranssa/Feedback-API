@@ -126,14 +126,15 @@
 
 #### 5. Create new judge resource
 
-* endpoint: `base_url/judge`
+* endpoint: `base_url/judges`
 * method: `POST`
 * body:
 
 ```json
 {
-  "id":8,
-  "name": "Test Judge"
+  "id": 1,
+  "name": "Carl Friedrich Gauss",
+  "username": "gaus@gmail.com"
 }
 ```
 
