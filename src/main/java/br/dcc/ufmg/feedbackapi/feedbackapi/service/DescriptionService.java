@@ -8,6 +8,7 @@ import br.dcc.ufmg.feedbackapi.feedbackapi.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
@@ -43,48 +44,46 @@ public class DescriptionService {
 
     }
 
-    public Description findHighestPriorityDescription() {
-
-        List<Description> descriptions = descriptionRepository.findAll();
-        Description priorityDescription = descriptions.get(0);
-        Integer numFeedbacks = feedbackRepository.countFeedbacksByDescriptionId(priorityDescription.getId());
-
-        for (Description description : descriptions
-        ) {
-            if (feedbackRepository.countFeedbacksByDescriptionId(description.getId()) < numFeedbacks)
-                priorityDescription = description;
-            numFeedbacks = feedbackRepository.countFeedbacksByDescriptionId(priorityDescription.getId());
-
-        }
-        return priorityDescription;
-    }
-
     public Description findHighestPriorityDescription(Integer judgeId) {
 
         List<Description> descriptions = descriptionRepository.findAll();
-        Collections.shuffle(descriptions);
+        List<Description> descriptionsToEval = getDescriptionsToEval(descriptions, judgeId);
 
-        Description priorityDescription = descriptions.get(0);
+        if (descriptionsToEval.size() == 0) {
+            descriptionsToEval = descriptions;
+        }
+        Collections.shuffle(descriptionsToEval);
+        return findHighestPriorityDescription(descriptionsToEval);
+
+
+    }
+
+    private Description findHighestPriorityDescription(List<Description> descriptionsToEval) {
+        Description priorityDescription = descriptionsToEval.get(0);
         Integer priorityNumFeedbakcs = feedbackRepository.countFeedbacksByDescriptionId(priorityDescription.getId());
         Integer descriptionId;
         Integer numFeedbakcs;
 
-        for (Description description : descriptions
-        ) {
+        for (Description description : descriptionsToEval) {
             descriptionId = description.getId();
-
-            if (!hasJudgment(descriptionId, judgeId)) {
-
-                numFeedbakcs = feedbackRepository.countFeedbacksByDescriptionId(descriptionId);
-
-                if (numFeedbakcs <= priorityNumFeedbakcs) {
-                    priorityDescription = description;
-                    priorityNumFeedbakcs = numFeedbakcs;
-                }
+            numFeedbakcs = feedbackRepository.countFeedbacksByDescriptionId(descriptionId);
+            if (numFeedbakcs < priorityNumFeedbakcs) {
+                priorityDescription = description;
+                priorityNumFeedbakcs = numFeedbakcs;
             }
-
         }
         return priorityDescription;
+    }
+
+    private List<Description> getDescriptionsToEval(List<Description> descriptions, Integer judgeId) {
+        ArrayList<Description> descriptionsToEval = new ArrayList<>();
+        for (Description description : descriptions) {
+            if (!hasJudgment(description.getId(), judgeId)) {
+                descriptionsToEval.add(description);
+            }
+        }
+
+        return descriptionsToEval;
     }
 
     private boolean hasJudgment(Integer descriptionId, Integer judgeId) {
