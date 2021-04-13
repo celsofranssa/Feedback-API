@@ -34,6 +34,10 @@ INSERT INTO judge (id, name, username)
 VALUES (17, "Rodrigo Vieira Ventura", "rodrigo.ventura@ibge.gov.br");
 INSERT INTO judge (id, name, username)
 VALUES (18, "Vladimir Gonçalves Miranda", "vladimir.miranda@ibge.gov.br");
+INSERT INTO judge (id, name, username)
+VALUES (19, "Pedro Kislanov da Costa", "pedro.costa@ibge.gov.br");
+INSERT INTO judge (id, name, username)
+VALUES (20, "Andre Filipe Guedes Almeida", "andre.f.almeida@ibge.gov.br");
 
 
 
