@@ -12,15 +12,17 @@ public class Product {
     @Id
     private Integer id;
 
+    private String name;
+
     @Column(name = "description_id")
     private Integer descriptionId;
 
-    private String name;
+    private String subitem;
 
     @Column(name = "place_name")
     private String placeName;
 
-    private String prices;
+    private String price;
 
     @Column(name = "place_url")
     private String placeUrl;
@@ -39,6 +41,14 @@ public class Product {
         this.id = id;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
     public Integer getDescriptionId() {
         return descriptionId;
     }
@@ -47,12 +57,12 @@ public class Product {
         this.descriptionId = descriptionId;
     }
 
-    public String getName() {
-        return name;
+    public String getSubitem() {
+        return subitem;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setSubitem(String subitem) {
+        this.subitem = subitem;
     }
 
     public String getPlaceName() {
@@ -63,12 +73,12 @@ public class Product {
         this.placeName = placeName;
     }
 
-    public String getPrice() {
-        return prices;
+    public String getPrices() {
+        return price;
     }
 
-    public void setPrice(String prices) {
-        this.prices = prices;
+    public void setPrices(String prices) {
+        this.price = prices;
     }
 
     public String getPlaceUrl() {
