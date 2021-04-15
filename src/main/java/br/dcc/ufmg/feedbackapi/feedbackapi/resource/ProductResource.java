@@ -13,7 +13,7 @@ import java.util.List;
 @CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/products")
-public class ProductResources {
+public class ProductResource {
 
     @Autowired
     private ProductRepository repository;
